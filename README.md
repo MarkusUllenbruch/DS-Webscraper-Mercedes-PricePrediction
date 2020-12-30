@@ -7,4 +7,10 @@
  4. ML Model Building -- Set up ML models for predicting the used car price with sk-learn and statsmodels
 
 ### 1. Data Collecting
-[Site to scrape from:](https://www.mobile.de)
+The dataset was collected via webscraping the used-car selling site
+[mobilde.de:](https://www.mobile.de)
+specially for used Mercedes-Benz cars.
+python package Selenium is used for collecting the data.
+
+### 2. Data Cleaning/ Feature Engineering
+
