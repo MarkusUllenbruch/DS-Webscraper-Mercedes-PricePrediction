@@ -1,27 +1,14 @@
-# Data Science Project from Scratch
-## Collecting own Data with a Webscraper and implement ML price prediction of used Mercedes cars
- In this private project a complete data science pipeline is done from scratch with the following tasks:
- 1. Data Collecting -- Creating my own dataset through webscraping many thousands of used Mercedes cars from mobile.de with selenium
- 2. Data Cleaning/ Feature Engineering -- Creating new features out of raw data and prepare raw data for ML modeling
- 3. EDA -- Explanatory Data Analysis of my collected data and findings
- 4. ML Model Building -- Set up ML models for predicting the used car price with sk-learn and statsmodels
-
-### 1. Data Collecting
-The dataset was collected via webscraping the used-car selling site
-[mobile.de:](https://www.mobile.de)
-specially for used Mercedes-Benz cars.
-python package Selenium is used for collecting the data.
-
 # Data Science Price Estimator of used Mercedes cars: Project Overview
+## Collecting my own Data with a Webscraper and implement ML price prediction of used Mercedes cars
 * Implemented a tool that estimates prices (MAE ~ $ X K) to help customers estimate, if the price of a used car he wants to buy is fair and to help the seller side to estimate the worth of a car
-* Scraped over 4000 car descriptions from mobile.de using python and selenium
+* Scraped over 4000 car descriptions from [mobile.de:](https://www.mobile.de) using python and selenium
 * Engineered features from the text of each car name description to quantify the price value put on tags like "AMG", "G-Power", "Brabus", "BlueEfficiency" etc. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model. 
 * Optimized also with statsmodels 
 
 ## Code and Resources Used 
 **Python Version:** 3.7 
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium
+**Packages:** pandas, numpy, sklearn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
 ## Web Scraping
 Implemented own web scraper to scrape 4000+ car offerings from mobile.com. Each car, we scaped the following content from the page:
