@@ -81,9 +81,7 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
 ## EDA
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
-![alt text](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/tree/main/Plots/blob/master/test_png.png "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/[MarkusUllenbruch]/[DS-Webscraper-Mercedes-PricePrediction]/blob/[master]/test_png.png?raw=true)
 
 ## Model Building 
 
