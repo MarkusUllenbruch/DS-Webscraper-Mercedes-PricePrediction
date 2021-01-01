@@ -81,7 +81,7 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
 ## EDA
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
-![ScreenShot](test_png.png)
+![ScreenShot](Plots/test_png.png)
 
 ## Model Building 
 
