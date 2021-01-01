@@ -1,0 +1,401 @@
+carname,price,milage,hubraum,power,fuel_type,transmission,construction_year,first_registration,num_seats,num_doors,emission_class,car_type,num_owners,damage
+Mercedes-Benz GLA 200 7G-DCT AMG Line Navi LED DAB Aktiv Park,24.995 €,17.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,05/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz GLE 250 9G LED Leder Navi SHZ Tempomat LM18'' I.,28.000 € (Brutto),154.900 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,12/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz GLC 220 4Matic Navi DAB SHZ PDC Tempomat,27.000 € (Brutto),45.800 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,11/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz GLC 250 4Matic AMG Line Pano Leder Navi SHZ PDC,27.900 € (Brutto),105.700 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz C 220 d T 9G-TRONIC Avantgarde LED*NAVI*KAMERA,28.900 € (Brutto),44.323 km,2.000 cm³,143 kW (194 PS),Diesel,Automatik,-1,12/2019,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz A 200 AMG+KompLim+PremNavi+MBUX+Burm+LED+Spur,27.495 € (Brutto),12.290 km,1.332 cm³,120 kW (163 PS),"Benzin, E10-geeignet",Schaltgetriebe,-1,09/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz E 250 Coupe,24.630 €,50.600 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,04/2015,4,2/3,Euro5,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz Mercedes GLC 250 MwSt Command Luft Pano ex...,27.900 €,113.800 km,-1,150 kW (204 PS),Diesel,Automatik,-1,10/2016,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz Cls500 AMG,25.000 €,168.000 km,-1,300 kW (408 PS),Benzin,-1,-1,12/2011,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz Mercedes Benz C180,27.900 €,21.730 km,-1,115 kW (156 PS),Benzin,Automatik,-1,03/2019,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz SLC 180,28.900 €,23.800 km,1.595 cm³,115 kW (156 PS),Benzin,Schaltgetriebe,-1,12/2017,2,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz CLA 180 AMG Line,24.600 €,60.000 km,1.595 cm³,90 kW (122 PS),Benzin,Schaltgetriebe,-1,03/2017,5,4/5,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz Mercedes Benz C 180 AMG Line (Night-Paket),24.000 €,122.000 km,-1,115 kW (156 PS),Benzin,Automatik,-1,09/2015,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz E220 AVANGARD LIMOUSIN PANORAMADACH,24.000 €,230.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,07/2016,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz Mercedes Benz GlC 300 4 Matic,29.000 €,74.000 km,-1,180 kW (245 PS),Benzin,Automatik,-1,01/2017,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+"Mercedes-Benz C 220/C 63 AMG UMBAU CARBON PAKET 19""ZOLL,PANO !",24.999 €,99.821 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,07/2015,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz C -Klasse C 250 AMG 360° Kamera.Navi AHK.,24.295 €,73.630 km,2.143 cm³,150 kW (204 PS),"Diesel, Biodiesel geeignet",Automatik,-1,01/2017,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz C 180 9G-TRONIC Avantgarde / JUNGE STERNE,25.850 €,32.247 km,1.479 cm³,115 kW (156 PS),Benzin,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Limousine,2,Unfallfrei
+Mercedes-Benz GLA 220 d 4M *URBAN*NAVI*KAMERA*LED*PARKASSIST*,24.990 €,42.901 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,07/2018,5,4/5,Euro6c,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz C 300 7G-TRONIC AMG Line/Pano/Navi Comand/19""Alu",28.450 € (Brutto),56.923 km,1.991 cm³,180 kW (245 PS),Benzin,Automatik,-1,04/2016,5,4/5,Euro6,Limousine,1,-1
+"Mercedes-Benz E 220 d T Avantgarde,PDC,LED,Kamera,Widescreen",27.942 € (Brutto),74.785 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 220 d T-Modell Avantgarde*Pano.-Dach*LED*AHK,27.979 €,45.205 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,01/2018,5,4/5,Euro6,Kombi,2,Unfallfrei
+"Mercedes-Benz E 200 Cabriolet,Leder,Automatik,Park-Assist,Airs",25.650 €,67.131 km,1.991 cm³,135 kW (184 PS),"Benzin, E10-geeignet",Automatik,2014,03/2014,4,2/3,Euro6,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz B 200 d Urban Prog.Pano Navi PDC T-Leder Euro 6D,25.950 € (Brutto),49.540 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,05/2019,5,4/5,Euro6,Van / Minibus,1,-1
+Mercedes-Benz Vito 116 Tourer Pro extralang 6d-Temp Autom AHK,27.590 € (Brutto),25.864 km,1.950 cm³,120 kW (163 PS),Diesel,Automatik,-1,07/2019,9,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+"Mercedes-Benz E 220 d AVANTGARDE WIDESCREEN 19"" LED",25.900 € (Brutto),101.500 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,05/2016,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz C220d Cabrio AMG Line >LED+NAVI+PARKASS+SHZ+AHK+,26.650 € (Brutto),86.840 km,2.143 cm³,125 kW (170 PS),Diesel,Schaltgetriebe,-1,06/2017,4,2/3,Euro6,Cabrio / Roadster,1,-1
+Mercedes-Benz C220d Cabrio 9G-Tr. >LEDER+NAVI+LED+SHZ+PARK+DAB,24.950 € (Brutto),105.980 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,05/2017,4,2/3,Euro6,Cabrio / Roadster,1,-1
+Mercedes-Benz E 220 d T-Modell Avantgarde*RKF*AHK*Navi*LED*,25.880 €,139.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,03/2017,5,4/5,Euro6,Kombi,2,Reparierter Unfallschaden
+Mercedes-Benz GLC 220d 4Matic 9GT PANORAMA COMAND KEYLESS PDC,28.480 € (Brutto),102.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,09/2018,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz CLA 180 AMG Harman Pano Exklusiv Night Rü,24.990 €,54.800 km,-1,90 kW (122 PS),Benzin,Automatik,-1,06/2017,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz SLC 180 Navi Airscarf TOTWINKEL PDC Var.Garantie,26.699 €,43.000 km,1.595 cm³,115 kW (156 PS),Benzin,Schaltgetriebe,-1,10/2016,2,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz Sprinter 316 CDI/43 Maxi Koffer KLIMA #70T522,26.564 € (Brutto),64.673 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,04/2018,3,2/3,Euro6,Andere,1,Unfallfrei
+Mercedes-Benz GLC 220 d 4X4 9G-TRONIC Exclusive NAVI KAMERA,27.950 € (Brutto),91.972 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz A 180 d Kompaktlimousine Progr./7G/Navi/LED/Shz.,27.900 € (Brutto),11.369 km,1.461 cm³,85 kW (116 PS),Diesel,Automatik,2020,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Mercedes Benz Shooting Brake CLS 220d AMG Line,25.400 €,82.880 km,-1,125 kW (170 PS),Diesel,Automatik,-1,07/2016,-1,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz Mercedes Benz CLS 350 W218 Tausch möglich,25.490 €,91.000 km,-1,225 kW (306 PS),Benzin,Automatik,-1,04/2012,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz C250 7G*AMG LINE*NIGHT*STANDHZ*DISTRONIC*360°*,28.700 €,66.000 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,10/2015,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz A 200 Progressive Navi-Pro*AHK*Business-P*SHZ*,24.450 € (Brutto),22.330 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,2019,11/2019,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,-1
+Mercedes-Benz V -Klasse V 200 CDI lang *NAVI*CAM*7-SITZER*ALU*,28.999 €,75.049 km,2.143 cm³,100 kW (136 PS),Diesel,Schaltgetriebe,-1,03/2015,7,4/5,Euro5,Van / Minibus,2,Unfallfrei
+Mercedes-Benz CLA 200 Shooting Brake AMG Line AMG+PANO+LED+HK,24.980 €,50.372 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,03/2017,5,4/5,Euro6,Kombi,2,Reparierter Unfallschaden
+Mercedes-Benz A 200 AMG/Night/LED/PDC,24.949 € (Brutto),8.486 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,-1,11/2018,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz SLK 350 (BlueEFFICIENCY) 7G-TRONIC,25.300 €,37.000 km,3.498 cm³,225 kW (306 PS),Benzin,Automatik,-1,03/2012,2,2/3,Euro5,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz C 180 d T-Modell Avantgarde/LED/Kamera/Navi/PDC,27.400 € (Brutto),21.760 km,1.598 cm³,90 kW (122 PS),Diesel,Automatik,-1,12/2018,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz GLA 180 *URBAN*NAVI*PANORAMADACH*KAMERA*LED*PDC*,25.990 € (Brutto),11.991 km,1.595 cm³,90 kW (122 PS),Benzin,Automatik,-1,09/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz B 200 *PROGRESSIVE*MBUX NAVI*PANORAMADACH*MEMORY,27.990 € (Brutto),13.777 km,1.332 cm³,120 kW (163 PS),Benzin,Schaltgetriebe,-1,08/2019,5,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+"Mercedes-Benz B 220 d 4x4 DCT Urban/Edit. LED,Comand,Distronic",25.599 € (Brutto),18.989 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,Van / Minibus,1,Unfallfrei
+"Mercedes-Benz GLC 220 d 4M Navi,PDC,LED,Kamera,AHK,Autom.,SHZ",28.376 € (Brutto),56.998 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,12/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E 220d T 4 matic AVANTGARDE *COMAND*DIRSTRO*360,24.590 € (Brutto),154.500 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz M -Klasse ML 350 CDI BlueTEC* AMG Line *21 Zoll*,28.900 €,106.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,11/2013,5,4/5,-1,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz Viano 3.0 CDI Avantgarde lang,24.244 € (Brutto),258.350 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,-1,03/2014,7,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 250 d 4Matic 9G-TRONIC,26.990 € (Brutto),117.568 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2016,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz C 200 d T G-Tronic Plus,25.998 €,9.999.999 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,-1,02/2016,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz E 220 d*HEAD-UP*NAV*KAM*SHZ*WIDESCREEN*1.HAND*,28.761 €,80.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,05/2017,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz C 180 9G-TRONIC,28.500 €,30.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,08/2018,5,4/5,Euro6d-TEMP,Limousine,2,Unfallfrei
+Mercedes-Benz C 250 T CGI Avantgarde,24.999 €,49.987 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,2016,08/2016,5,4/5,Euro6,Kombi,2,-1
+Mercedes-Benz Vito Tourer111 CDI Pro FWD lang/Klima/Navi/Kamer,25.500 € (Brutto),25.700 km,1.598 cm³,84 kW (114 PS),Diesel,Schaltgetriebe,-1,07/2019,8,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz E 350 T BE CDI AMG LINE LED-NAVI-DISTRO-KAM-19""",24.999 € (Brutto),94.900 km,2.987 cm³,185 kW (252 PS),Diesel,Automatik,2013,01/2014,5,4/5,Euro6,Kombi,-1,Unfallfrei
+Mercedes-Benz E 220d 9G Tronic Avantgarde scheckheftgepf...,27.000 €,66.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,10/2016,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz Viano 3.0 Ambiente Edition extralang Kamera AHK,28.490 € (Brutto),57.663 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,-1,08/2012,8,4/5,Euro5,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 250 4Matic Exclusive Kamera*19*Headup*LED*Na,28.450 € (Brutto),95.400 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,2017,05/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz E 350 T BlueTEC 9G-Tronic LED~KAMERA~STANDHZG.~,25.500 €,99.500 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,10/2015,5,4/5,Euro6,Kombi,3,Unfallfrei
+Mercedes-Benz C 300 T Hybrid AMG Panorama*LED*Navi*19*DAB*,26.750 € (Brutto),58.437 km,2.145 cm³,150 kW (204 PS),Hybrid (Benzin/Elektro),Automatik,-1,03/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz GLC 350 d 4Matic Exclusive*1HD/AMG/Night/LED/TOP,28.999 € (Brutto),180.500 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz Mercedes GLA 4matic,25.900 €,25.500 km,-1,140 kW (190 PS),Benzin,Automatik,-1,05/2017,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+"Mercedes-Benz S 500 CGI Lang Pano AMG 19"" Fond Entertainment",28.999 €,78.000 km,4.663 cm³,320 kW (435 PS),Benzin,Automatik,2012,09/2012,5,4/5,Euro5,Limousine,-1,-1
+Mercedes-Benz ML 350 BlueTEC 4MATIC 7G-TRONIC,25.000 €,192.356 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,08/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz C 180 C -Klasse Lim. CGI Avantgarde,24.900 €,30.900 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,03/2018,5,4/5,Euro6,Limousine,2,Unfallfrei
+"Mercedes-Benz CLA 200 7G-DCT,Keyles Go,Kamera,AMG Felgen,Navi",24.000 €,26.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,07/2018,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz Lim. E 200 d Avangarde LED NAVI LEDER,26.900 € (Brutto),38.000 km,1.597 cm³,118 kW (160 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLK 350 CDI 4MATIC BE/AMG-SPORTPAKET/NAVI/AHK///,24.500 €,88.000 km,2.987 cm³,195 kW (265 PS),Diesel,Automatik,-1,04/2013,5,4/5,Euro5,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz E 220d T 9G-TRONIC AVANTGARDE/DISTR./LED/COMAND/,28.900 € (Brutto),84.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 250 d 4MATIC T AMG Line 7G-Tr/AHK/HEAD-UP/LED/,25.900 € (Brutto),120.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,01/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 220 d T AMG Line 7G-Tr./AHK/360°CAM/PANO-DACH/,25.900 € (Brutto),120.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 220 d 4MATIC T AMG Line Aut./DISTR+/PANO-D/CAM,27.900 € (Brutto),60.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz B 220 d, Navi, LED",26.990 € (Brutto),17.593 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6,Van / Minibus,1,Unfallfrei
+Mercedes-Benz ML 350 BlueTEC 4MATIC 7G-TRONIC,26.890 €,123.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,08/2012,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz Sprinter 907 316 CDI,28.500 €,61.500 km,-1,120 kW (163 PS),Diesel,Schaltgetriebe,-1,04/2019,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz Vito 116 CDI BT Mixto lang,25.900 € (Brutto),97.000 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,Van / Minibus,2,-1
+Mercedes-Benz MERCEDES BENZ CLA 220D AMG PAKET SHOOTING ...,24.999 €,61.500 km,-1,130 kW (177 PS),Diesel,Automatik,-1,09/2015,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz GLC 220 d 4M OffRoad-Ext. LED Navi Kamera SHZ Ei,28.745 € (Brutto),67.342 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz V -Klasse V 200/BT/d lang,25.990 €,96.800 km,2.143 cm³,100 kW (136 PS),Diesel,Schaltgetriebe,-1,07/2016,8,4/5,Euro6,Van / Minibus,-1,-1
+Mercedes-Benz GLC 220 d 4Matic AHK+EASY PACK+ILS+NAVI+KAMERA,27.900 € (Brutto),78.316 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz ML 350 CDI AMG Packet 21 Zoll AMG 300 PS,24.900 €,160.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,04/2012,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+"Mercedes-Benz GLA 250 4MATIC AMG Line AMG 19""1.HD Top Extras!",24.888 €,45.000 km,1.991 cm³,155 kW (211 PS),"Benzin, E10-geeignet",Automatik,-1,11/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz B 200 d 7G-DCT UrbanStyle Edition,24.950 €,7.100 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,-1,07/2019,5,4/5,Euro6,Van / Minibus,2,Unfallfrei
+Mercedes-Benz S -Klasse Lim. S 63 AMG Lang*20.Zoll*V.8*Pano*,24.999 €,169.100 km,6.208 cm³,386 kW (525 PS),Benzin,Automatik,-1,07/2009,5,4/5,Euro4,Limousine,-1,-1
+Mercedes-Benz E 220 d 4Matic Multibeam 360° Burmester Distron,24.799 € (Brutto),124.987 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz A 200 EDITION 19 Progressive/Navi/MBUX/Night-P.,28.980 € (Brutto),9.766 km,1.332 cm³,120 kW (163 PS),"Benzin, E10-geeignet",Automatik,2020,02/2020,5,4/5,Euro6,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C -Klasse Lim. C 200 Amg Sport Paket,25.990 € (Brutto),31.995 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,03/2018,5,4/5,-1,Limousine,1,Unfallfrei
+"Mercedes-Benz B 180 AMG Line, 7-G DCT, LED, Navi Premium",27.700 € (Brutto),20.324 km,1.332 cm³,100 kW (136 PS),"Benzin, E10-geeignet",Automatik,2020,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Mercedes Benz E220d AMG Line Widescreen H...,25.899 €,180.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,06/2018,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz GLA 220 d 4M PEAK AMG/7G/LED/Kamera/Navigation/,27.750 €,32.919 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,-1,04/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,-1
+"Mercedes-Benz A 250 Sport 4M AMG,Navi,PDC,LED,PanoDach,Kamera",28.643 € (Brutto),78.105 km,1.991 cm³,160 kW (218 PS),Benzin,Automatik,-1,12/2016,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz Vito 116 CDI Tourer LED AHK 2xSchiebetürSitzheiz,26.900 €,66.439 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,11/2016,8,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 220 d 4MATIC Exclusive+LED+Kamera+Navi+PDC,26.869 € (Brutto),87.836 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 200 Avantgarde+LED+Kamera+Navi+PDC,24.889 € (Brutto),14.970 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,11/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz Vito 119 CDI KA extralang Klima Sortimo Euro 6 A,27.572 € (Brutto),91.153 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2017,2,4/5,-1,Van / Minibus,1,-1
+Mercedes-Benz E -Klasse E 220 LED NAVI Kamera BT Avantgarde,27.990 €,62.370 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,01/2018,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz Mercedes C200#AMG Line#Diamantgrill,25.499 €,26.500 km,-1,135 kW (184 PS),Benzin,Schaltgetriebe,-1,02/2018,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz GLC 250 d 4M Night Exclusive Distronic Comand,24.980 € (Brutto),169.900 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,05/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 180 Avantgarde Multibeam+SHD+NAVI+KAMERA+SpurP,28.990 € (Brutto),26.183 km,1.497 cm³,115 kW (156 PS),Benzin,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Vito 116 Tourer Pro extralang Autom. Navi 2.5to,28.890 € (Brutto),35.693 km,1.950 cm³,120 kW (163 PS),Diesel,Automatik,-1,09/2019,9,4/5,-1,Van / Minibus,1,-1
+Mercedes-Benz C 200 T CGI Avantgarde LED PANO NAVI eKLAPPE,25.280 €,44.694 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,07/2017,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz E 220d T Avantgarde COMAND*LEDER*LED*WIDESCREEN,24.950 € (Brutto),164.422 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,05/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz B 200 LED+Memory+Kamera+PDC,26.880 € (Brutto),1.738 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,-1,10/2019,5,4/5,Euro6d-TEMP,Kombi,-1,-1
+Mercedes-Benz A 200 d Kompaktlimousine PDC,26.880 € (Brutto),13.006 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,10/2019,5,4/5,-1,Limousine,-1,-1
+Mercedes-Benz E 220 d T 9G-TRONIC Avantgarde LED,28.990 € (Brutto),88.012 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,05/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 200 d AMG Panorama Navi LED Leder18 Zoll,27.800 € (Brutto),80.500 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,2018,09/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz E 350 AVANTGARDE 4-MATIC MEMORY SCHIEBEDACH LED,26.990 €,82.166 km,2.987 cm³,185 kW (252 PS),Diesel,Automatik,-1,08/2014,5,4/5,-1,Limousine,2,Unfallfrei
+Mercedes-Benz MB CLA 200d CDI AMG LED AUTOMATIK PARKASS....,26.850 €,28.500 km,-1,100 kW (136 PS),Diesel,Automatik,-1,07/2018,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz Mercedes Benz Viano Ambiente 3.0 V6,26.199 €,104.948 km,-1,165 kW (224 PS),Diesel,Automatik,-1,01/2012,-1,-1,-1,Van / Minibus,-1,-1
+Mercedes-Benz Mercedes Benz C 220 d Coupe AMG Line,28.700 €,100.000 km,-1,125 kW (170 PS),Diesel,Automatik,-1,02/2017,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz C 220 T d+AMG+Distronic+Burmester+Kamera+,26.999 € (Brutto),29.997 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,06/2018,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 180 T 7G-TRONIC Avantgarde,24.990 €,38.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,12/2016,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz Sprinter II 319 CDI Kasten HD-Klima+hinten-Xenon,28.900 € (Brutto),165.900 km,2.987 cm³,140 kW (190 PS),Diesel,Automatik,-1,03/2017,3,2/3,Euro6,Van / Minibus,-1,-1
+Mercedes-Benz A 180 AMG*NaviPremium*MBUX*Pano*LED*Parkassi*Shz,28.350 € (Brutto),29.100 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,05/2020,5,4/5,Euro6d,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C 250 T Avantgarde LED/Navi/elektr.Heck/Kamera/S,25.980 €,89.340 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,11/2016,5,4/5,Euro6,Kombi,2,-1
+Mercedes-Benz E -Klasse Lim. E 350 BlueTEC/Aus1.Hand,24.399 € (Brutto),86.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,10/2015,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz C 220 d T 9G.Tronic+AMG+DISTRONIC+Burmester+Kam,26.999 € (Brutto),29.997 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,06/2018,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz CLS 250 BlueTEC Shooting Brake, AMG Sport, LED",28.950 €,48.700 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2015,05/2015,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz E 220 d 4Matic All-Terrain T-Modell, Widesreen",26.950 € (Brutto),184.200 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,11/2017,5,4/5,Euro6c,Kombi,1,Unfallfrei
+Mercedes-Benz A220d Peak Edition(AMG Line) scheckheftgepflegt,24.000 €,36.000 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,-1,08/2018,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz E 220 d*Avantgarde*HUD*Distronic,26.998 €,140.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,11/2017,5,4/5,-1,Kombi,-1,-1
+Mercedes-Benz Mercedes E 220 CDI 9G AMG Paket Ap Werk,24.900 €,166.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,11/2016,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz ML 350 BlueTEC 4MATIC 7G-TRONIC Edition 1,28.500 €,175.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,04/2013,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz Mercedes B Klasse 200d,24.000 €,17.500 km,-1,100 kW (136 PS),Diesel,Automatik,-1,03/2019,-1,-1,-1,Van / Minibus,-1,-1
+Mercedes-Benz A 45 AMG 4M Performance*Night*Drivers*Exklusiv*,27.999 €,89.000 km,1.991 cm³,265 kW (360 PS),Benzin,Automatik,-1,04/2015,5,4/5,Euro6,Limousine,-1,Unfallfrei
+Mercedes-Benz Mercedes-Benz A220 Progressive | 12.000 KM...,28.888 €,12.000 km,-1,140 kW (190 PS),Benzin,Automatik,-1,12/2019,-1,-1,-1,Kleinwagen,-1,-1
+"Mercedes-Benz C 200 Coupe AMG Line Navi 19"" ILS FINANZIERUNG",24.650 €,94.814 km,1.991 cm³,135 kW (184 PS),Benzin,Schaltgetriebe,-1,01/2016,4,2/3,Euro6,Sportwagen / Coupé,2,-1
+Mercedes-Benz E -Klasse Lim. E 300 AMG BlueTec Hybrid,25.500 €,98.685 km,2.145 cm³,150 kW (204 PS),Diesel,Automatik,-1,08/2013,5,4/5,Euro5,Limousine,-1,Unfallfrei
+Mercedes-Benz E220d T Avantgarde LED-Scheinwerf+Navi+Rü-Kamera,25.999 € (Brutto),83.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz SL350 Cabrio Sportpaket/Airscraf/Sitzklima/Navi/,25.900 €,103.000 km,3.498 cm³,232 kW (315 PS),Benzin,Automatik,-1,04/2008,2,2/3,Euro4,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz E 220 d T 4M AVANTGARDE AHK MULTIBEAM SHD Navig.,28.450 €,98.758 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,04/2017,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz A -Klasse A 220 LED! NAVIGATION! UVP 45T€!,25.800 €,15.000 km,1.991 cm³,140 kW (190 PS),"Benzin, E10-geeignet",Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,Limousine,-1,Unfallfrei
+Mercedes-Benz Sprinter III Kasten FWD 311/314 CDI FWD L2,27.250 € (Brutto),44.579 km,2.143 cm³,105 kW (143 PS),Diesel,Schaltgetriebe,-1,04/2019,3,4/5,Euro6,Van / Minibus,1,-1
+Mercedes-Benz GLA 180 Sport Utility Vehicle AMG+LED+Navi+PDC,24.880 € (Brutto),11.710 km,1.595 cm³,90 kW (122 PS),Benzin,Automatik,-1,12/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz V 250d BlueTEC 7G-Tronic Automatik lang,24.990 €,169.900 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2014,6,4/5,Euro6,Van / Minibus,-1,-1
+Mercedes-Benz B 180d*AMG-SPORT*NIGHT*AMB.PACK*LED*PANO*KAMERA,26.995 € (Brutto),19.000 km,1.461 cm³,85 kW (116 PS),Diesel,Automatik,-1,04/2019,5,4/5,Euro6c,Limousine,1,-1
+Mercedes-Benz Mercedes E350d Blue Tec 9G Automatik LED S...,25.500 €,99.000 km,-1,190 kW (258 PS),Diesel,Automatik,-1,10/2015,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz E 250 4Matic T-Modell,27.900 € (Brutto),57.120 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 220 d T+Avantgarde+Kamera+Spur-Paket+Comand,24.400 € (Brutto),76.416 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+"Mercedes-Benz Mercedes Benz CLS Shooting Brake, Junge St...",28.000 €,59.967 km,-1,150 kW (204 PS),Diesel,Automatik,-1,11/2015,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz A 200 Limousine*Progressive*7G-DCT*Panorama*LED*,28.390 € (Brutto),17.639 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,2019,08/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 220 d 4M Distronic Navi PDC,26.889 € (Brutto),112.600 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,09/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 250d Avantgarde COMAND ILS Mem HUD SideA. 360°,25.980 € (Brutto),88.831 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,06/2017,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz A 200 Kompaktlimousine LED+Standhz+PDC,25.880 € (Brutto),3.600 km,1.332 cm³,120 kW (163 PS),Benzin,Schaltgetriebe,-1,11/2019,5,4/5,Euro6d-TEMP,Limousine,-1,Unfallfrei
+Mercedes-Benz B 200 d LED+AHK+Kamera+PDC,27.880 € (Brutto),11.991 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,12/2019,5,4/5,-1,Kombi,-1,Unfallfrei
+Mercedes-Benz B 200 LED+Kamera+PDC,26.880 € (Brutto),12.661 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6d,Kombi,-1,Unfallfrei
+Mercedes-Benz E 200 Cabrio 7G-TRONIC Original 12000 km !,26.900 €,12.000 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,03/2015,4,2/3,Euro5,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz Mercedes-Benz E220d,25.800 €,79.800 km,-1,143 kW (194 PS),Diesel,Automatik,-1,05/2016,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz C 250 d 4M EXCLUSIVE COMAND AHK STANDH BURMESTER,27.890 €,60.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2017,11/2017,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz GLC 220 d 4M AMG+LED+PDC+SHZ+Navi+Kamera+elSitze,25.510 € (Brutto),103.800 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GL 450/7SEATS/BLINDSPOT/4MATIC,27.500 €,97.334 km,4.663 cm³,270 kW (367 PS),Benzin,Automatik,-1,01/2013,7,4/5,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz C 200 T 4 MATIC AMG LINE SPORTPAKET,26.990 €,58.454 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,12/2016,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz A 250 SPORT PEAK EDITION AMG,25.900 €,39.913 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,05/2017,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz T-Modell E 220 d Avantgarde+MULTIBEAM-LED+360°,27.490 € (Brutto),112.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,09/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz CLS 500 SHOOTING BRAKE 4MATIC AMG LEDER,NAVI,SD!",27.990 € (Brutto),119.000 km,4.663 cm³,300 kW (408 PS),"Benzin, E10-geeignet",Automatik,-1,06/2013,5,4/5,Euro5,Kombi,-1,Unfallfrei
+Mercedes-Benz CLA 45 AMG 4Matic !LETZTEN 4-TAGE 16%!!!,28.999 € (Brutto),60.194 km,1.991 cm³,280 kW (381 PS),Benzin,Automatik,-1,06/2016,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz E 250 CGI DESIGNO EFFICIENCY *Navi*Leder*LED*,25.990 €,34.041 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,03/2015,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz CLA 220 Shooting Brake,26.500 €,28.400 km,-1,130 kW (177 PS),Diesel,Automatik,-1,03/2018,-1,4/5,-1,Kombi,2,Unfallfrei
+"Mercedes-Benz GLE 250 d 4MATIC 9G*AMG 21""LEDER*SH*NAVI*AHK*LED",25.999 €,178.984 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,02/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz C 180d 9G-tronic NIGHT PAKET-WIDE-360*KAMERA,25.950 € (Brutto),17.200 km,1.598 cm³,90 kW (122 PS),Diesel,Automatik,-1,01/2020,-1,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz B 180 URBAN+NAVI+PANO+7G-DCT +SZH+PTS+LED+TEMPOM,24.100 € (Brutto),22.000 km,1.595 cm³,90 kW (122 PS),"Benzin, E10-geeignet",Automatik,2018,07/2018,5,4/5,Euro6,Van / Minibus,2,Unfallfrei
+Mercedes-Benz B 180 URBAN+NAVI+PANO+7G-DCT +SZH+PTS+LED+TEMPOM,24.100 € (Brutto),22.000 km,1.595 cm³,90 kW (122 PS),"Benzin, E10-geeignet",Automatik,2018,07/2018,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz Sprinter 519 CDI Easy Sprinter 19,26.564 € (Brutto),209.000 km,2.987 cm³,140 kW (190 PS),Diesel,Automatik,-1,05/2012,19,4/5,Euro5,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 250 d Coupe 4Matic 9G-TRONIC AMG Line,27.500 €,375.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,05/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLA 220 d 4m Urban Score NAVI+PARKPILOT+ILS+PANO,24.980 € (Brutto),53.811 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,2016,10/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz Mercedes Benz ML 350CDi 4M BT AMG Line E...,28.600 €,84.400 km,-1,190 kW (258 PS),Diesel,Automatik,-1,11/2013,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+"Mercedes-Benz ML 350 CDI 4Matic,Bi-Xenon,Leder,PANO,TV,DVD,",25.000 €,140.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,06/2013,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz Mercedes A220 d AMG LED PANO NAVI KAMERA 7...,24.900 €,93.000 km,-1,127 kW (173 PS),Diesel,Automatik,-1,10/2017,-1,-1,-1,Kleinwagen,-1,-1
+Mercedes-Benz E 220 d Avantgarde Kamera Distr.-Plus Widescreen,25.480 €,90.222 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,06/2016,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz C 63 AMG T 7G-TRONIC,24.950 €,173.900 km,6.208 cm³,336 kW (457 PS),Benzin,Automatik,-1,03/2008,5,4/5,Euro4,Kombi,3,Unfallfrei
+Mercedes-Benz E 350 BlueTEC 4-M*Avantgarde*AHK*Distron*AMG*Kam,25.998 €,209.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,07/2015,5,4/5,-1,Kombi,-1,-1
+Mercedes-Benz Mercedes GLC 250d AMG Coupe 2017,27.500 €,375.000 km,-1,150 kW (204 PS),Diesel,Automatik,-1,12/2017,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz MERCEDES GLC 220D 4 MATIC 9 GANG EZ 2016 1...,25.500 €,117.000 km,-1,125 kW (170 PS),Diesel,Automatik,-1,03/2016,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz E -Klasse Lim. E 500 CGI BlueEfficiency AMG Styl,27.840 € (Brutto),102.757 km,4.663 cm³,300 kW (408 PS),Benzin,Automatik,-1,08/2014,5,4/5,Euro5,Limousine,2,Unfallfrei
+Mercedes-Benz CLA 45 AMG 4Matic Automatik Navi Kamera,25.000 €,165.000 km,1.991 cm³,265 kW (360 PS),"Benzin, E10-geeignet",Automatik,-1,10/2013,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz ML 350 CDI BlueTEC/ AMG/Head-Up/Memory/Standheiz,27.990 € (Brutto),157.500 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,01/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz CLA 250 Sport - AMG LINE - H&K-NAVI-19Z-KeyG,26.000 €,81.500 km,1.991 cm³,160 kW (218 PS),Benzin,Automatik,-1,11/2016,5,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz A 200 Progressive,25.500 €,7.241 km,1.332 cm³,120 kW (163 PS),Benzin,Schaltgetriebe,-1,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz ML 250 CDI BlueTEC *7G*ILS*360°*AHK*COMAND*E6,24.990 €,145.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,07/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz CLA 220d Shooting Brake AMG*Automatik*Navi*Led*,24.890 €,78.563 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,-1,04/2018,5,4/5,Euro6,Kombi,2,-1
+Mercedes-Benz Mercedes GL 500 AMG,27.900 €,143.000 km,-1,320 kW (435 PS),Benzin,Automatik,-1,02/2014,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz B 220 d Urban*LED*AHK*Spur*DAB*Navi*Parkassi*Shz,24.990 € (Brutto),8.839 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,03/2019,5,4/5,Euro6c,Kombi,1,-1
+Mercedes-Benz Vito Mixto 116 CDI 4MATIC Extralang Automatik,24.950 € (Brutto),94.700 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,04/2016,5,4/5,Euro6,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Sprinter 313 CDI Maxi - Mixto AHK für 3t,25.900 € (Brutto),75.800 km,2.143 cm³,95 kW (129 PS),Diesel,Schaltgetriebe,-1,10/2015,6,4/5,Euro5,Van / Minibus,1,Unfallfrei
+Mercedes-Benz V -Klasse AVANTGard/EDIT.Sitzkühlung,25.999 € (Brutto),260.000 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,2015,10/2015,6,4/5,Euro6,Andere,2,-1
+Mercedes-Benz E 550 Blue Efficiency AVANTGARDE,24.999 € (Brutto),27.000 km,5.461 cm³,285 kW (387 PS),Benzin,Automatik,-1,07/2010,5,4/5,Euro5,Limousine,2,Unfallfrei
+Mercedes-Benz Mercedes E 220 d T Modell Avantgarde Insp...,25.500 €,63.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,05/2017,-1,-1,-1,Kombi,-1,-1
+"Mercedes-Benz ML 350 BT 4M *AMG-21""*AIR*PANO*ILS*H&K*KAMERA*",28.990 € (Brutto),100.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,06/2014,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz C180 T Modell, Avantg., Kamera,Assist.Paket,Navi",27.900 € (Brutto),34.666 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,05/2019,5,4/5,Euro6,Kombi,2,Unfallfrei
+"Mercedes-Benz B Electric Drive250e,Urban,Kamera,Soundsy.Memory",24.900 €,10.892 km,-1,132 kW (179 PS),Elektro,Automatik,-1,05/2017,5,4/5,-1,Limousine,1,Unfallfrei
+"Mercedes-Benz B -Klasse B 200,Sound,Kamera,AMG,Kamera",26.900 €,13.772 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,10/2017,5,4/5,-1,Limousine,2,Unfallfrei
+Mercedes-Benz E 350 Avantgarde 4-MATIC AHK STANDHEIZUNG TOTWIN,26.990 €,82.166 km,2.987 cm³,185 kW (252 PS),Diesel,Automatik,-1,08/2014,5,4/5,-1,Limousine,2,Unfallfrei
+Mercedes-Benz V 250 V-Klasse SCORE extralang 7 Sitze-LED-Navi,24.990 € (Brutto),259.000 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2016,7,4/5,Euro6,Van / Minibus,-1,-1
+Mercedes-Benz CLA 200 SB AMG+NIGHT+PANO+AMBI+LED+PARK P+KAMERA,24.880 € (Brutto),42.671 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,05/2017,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz GL 500 BE 4Matic 7Sitzer Vollaustattung,24.500 €,240.000 km,4.663 cm³,320 kW (435 PS),Benzin,Automatik,-1,05/2013,7,4/5,Euro5,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz CLA 220 Shooting Brake 4MATIC AMG line/LED/Cam,28.890 €,29.500 km,1.991 cm³,135 kW (184 PS),"Benzin, E10-geeignet",Automatik,2018,08/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz GLA 180 AMG LINE+LED+NIGHT+360°+DAB+LADERAUM-PAK,25.750 € (Brutto),5.513 km,1.595 cm³,90 kW (122 PS),"Benzin, E10-geeignet",Schaltgetriebe,2019,12/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 220 d 9G-Tronic Avantgarde *LED* NAVI* KAMERA*,27.490 € (Brutto),53.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz CLA 220 d SB AMG,Navi,PDC,LED,Kamera,Designo",25.188 € (Brutto),75.550 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz A 180 Progressive NAVI-MBUX-LED-SHZ-KAMERA,26.990 € (Brutto),16.900 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,01/2019,5,4/5,Euro6d-TEMP,Limousine,-1,-1
+Mercedes-Benz C 220 T CDI Avantgarde NAVI-PDC-HUD,25.990 € (Brutto),84.900 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz E -Klasse Lim. E 250 Avantgarde,28.999 €,25.800 km,1.991 cm³,155 kW (211 PS),"Benzin, E10-geeignet",Automatik,-1,11/2016,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz E 220 d T-Modell Designo NaviComand FINANZIERUNG,26.950 € (Brutto),80.541 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,03/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz E 220 d 9G Lim Exclusive Distronic+ FINANZIERUG,27.950 € (Brutto),83.871 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,08/2016,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz C -Klasse Cabrio C 220 d AMG Xenon Navi Kamera,26.900 € (Brutto),151.150 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,05/2017,4,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz B 180 Progressive+Navi+Kamera+LED+PDC+SHZ+7G-DCT,25.750 € (Brutto),25.000 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,03/2019,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLA 45 AMG 4Matic Aero 20' Comand Harman VOLL,26.990 €,43.000 km,1.991 cm³,265 kW (360 PS),Benzin,Automatik,-1,07/2015,5,4/5,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz C 200 d T Comand LED PDC Tempomat Sitzheizung,24.890 € (Brutto),20.147 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,-1,08/2019,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz C 220d T 4M AMG-Line COMAND ILS Pano Burm DTR+,28.980 € (Brutto),58.008 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz GLC 220 d 4M Navi/Park-Assistent/EASY-P/SHZ/18',27.880 € (Brutto),42.551 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 220 d 4M Exclusive/Comand/ILS/360/SHD/AHK/17',25.889 €,50.519 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,-1,Unfallfrei
+Mercedes-Benz Mercedes Benz ECoupé 200 AMG-Night Paket M...,24.799 €,76.456 km,-1,135 kW (184 PS),Benzin,Automatik,-1,08/2015,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz C 250d T 4Matic 9G Avantgarde Navi Night-P. LED,24.980 € (Brutto),74.952 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,06/2017,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz C 220d T 4M AMG-Line COMAND LED Sthz Mem. FernA,26.980 € (Brutto),69.975 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,03/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 220d Avantgarde WsCo LED Burmester DTR Kam DAB,27.480 € (Brutto),84.987 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,11/2018,5,4/5,Euro6,Kombi,-1,-1
+Mercedes-Benz C 220d 4M AMG-Line COMAND LED Sthz LaneA Mem AHK,25.780 € (Brutto),76.807 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,03/2016,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz B 220 4M PROGRESS+AHK+MULTIBEAM+PREMIUM MBUX+KAM,28.480 € (Brutto),11.000 km,1.991 cm³,140 kW (190 PS),Benzin,Automatik,-1,03/2019,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz C 220 d T Avantgarde NAVI KAMERA Spurpaket PDC,26.870 € (Brutto),44.990 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz C 220 d T Avantgarde NAVI KAMERA Spurpaket PDC,26.870 € (Brutto),44.990 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz Citan Tourer EDITION Navi PDC BlueEFFICIENCY/FIS,25.773 € (Brutto),12.000 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,2019,11/2019,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Citan Tourer EDITION Navi PDC BlueEFFICIENCY/FIS,25.773 € (Brutto),12.000 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,2019,11/2019,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLA 220 Coupé Progressive LED/MBUX/neues Modell,28.850 € (Brutto),26.100 km,1.991 cm³,140 kW (190 PS),Benzin,Automatik,2019,06/2019,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz CLA 220 Coupé Progressive LED/MBUX/neues Modell,28.850 € (Brutto),26.100 km,1.991 cm³,140 kW (190 PS),Benzin,Automatik,2019,06/2019,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz C 180 T-Modell Avantgarde Automatik NAVI/LED BC,25.803 € (Brutto),48.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,2018,01/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz C 180 T-Modell Avantgarde Automatik NAVI/LED BC,25.803 € (Brutto),48.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,2018,01/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz GLA 180 Urban°NAVI°PDC°Fernlicht-Assistent°LED°,25.970 € (Brutto),20.500 km,1.595 cm³,90 kW (122 PS),Benzin,Schaltgetriebe,2019,10/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLA 180 Urban°NAVI°PDC°Fernlicht-Assistent°LED°,25.970 € (Brutto),20.500 km,1.595 cm³,90 kW (122 PS),Benzin,Schaltgetriebe,2019,10/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 220 d T Avantgarde NAVI KAMERA Spurpaket PDC,26.890 € (Brutto),42.900 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz C 220 d T Avantgarde NAVI KAMERA Spurpaket PDC,26.890 € (Brutto),42.900 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz A 200 Limousine Progressive MBUX LED COMAND,24.890 € (Brutto),25.756 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,2019,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz A 200 Limousine Progressive MBUX LED COMAND,24.890 € (Brutto),25.756 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,2019,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLA 180 Style °LED°NAVI°KAMERA°Totwinkel-Assist°,26.890 € (Brutto),4.200 km,1.595 cm³,90 kW (122 PS),Benzin,Schaltgetriebe,2019,01/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLA 180 Style °LED°NAVI°KAMERA°Totwinkel-Assist°,26.890 € (Brutto),4.200 km,1.595 cm³,90 kW (122 PS),Benzin,Schaltgetriebe,2019,01/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz C 250 BlueTEC 4Matic AMG-SPORTPAKET 360° DISTRON,24.990 € (Brutto),109.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,03/2015,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz Mercedes ML 350 [Reserviert],27.500 €,140.000 km,-1,190 kW (258 PS),Diesel,Automatik,-1,01/2013,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz Vito Tourer 116 CDI EXTRALANG 9 SITZE METALLIC,26.870 € (Brutto),26.971 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,2018,07/2018,9,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz Vito Tourer 114 CDI LANG 8 SITZE KLIMA,VOLLLEDER",25.280 € (Brutto),38.360 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,2017,03/2017,8,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz Vito Tourer 114 CDI EXTRALANG 8SITZE LEDER,KLIMA",25.740 € (Brutto),48.362 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,2016,05/2016,9,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz Vito 114 CDI MIXTO LANG 5SITZE AUT,NAVI,METALLIC",25.880 € (Brutto),10.000 km,2.143 cm³,100 kW (136 PS),Diesel,Automatik,2014,01/2015,5,4/5,Euro5,Van / Minibus,-1,-1
+Mercedes-Benz Citan Tourer EDITION Lang,26.490 € (Brutto),7.220 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,-1,07/2020,5,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,-1
+Mercedes-Benz Citan Tourer EDITION Lang,26.490 € (Brutto),7.220 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,-1,07/2020,5,4/5,Euro6d-TEMP,"Kleinwagen, Vorführfahrzeug",1,-1
+Mercedes-Benz Citan Tourer EDITION Lang,26.490 € (Brutto),7.220 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,-1,07/2020,5,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,-1
+"Mercedes-Benz Viano 3.5 V6 SPORTABGAS 6 SITZE GLASDACH,BIXENON",27.880 €,75.362 km,3.498 cm³,190 kW (258 PS),Benzin,Automatik,2012,04/2012,6,4/5,Euro5,Van / Minibus,-1,-1
+"Mercedes-Benz V 250 d 6 SITZE SPORTPAKET KAMERA,1.HAND,AHK,19Z",26.840 € (Brutto),177.845 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,2016,06/2016,6,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz V 220 d LANG 8 SITZE SPORTPAKET,KAMERA,SPURPAKET",27.880 € (Brutto),95.970 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,2014,07/2014,8,4/5,Euro5,Van / Minibus,1,-1
+Mercedes-Benz B 180 d Progressive Standhz. NaviPrem. Kamera,27.789 € (Brutto),15.315 km,1.461 cm³,85 kW (116 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz B 180 d Progressive Standhz. NaviPrem. Kamera,27.789 € (Brutto),15.315 km,1.461 cm³,85 kW (116 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+"Mercedes-Benz C 180 Coupe AMG LED PTS SHZ 18""AMG CD BT",24.790 € (Brutto),53.885 km,1.595 cm³,115 kW (156 PS),"Benzin, E10-geeignet",Schaltgetriebe,-1,03/2017,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz Citan Tourer EDITION Lang,24.950 € (Brutto),5.410 km,1.461 cm³,85 kW (116 PS),Diesel,Schaltgetriebe,-1,07/2020,5,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,-1
+"Mercedes-Benz Sprinter 316 CDI HRK L4H2 EXTRALANG NAVI,KAMERA",24.280 € (Brutto),49.040 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,2016,04/2016,3,4/5,Euro5,Van / Minibus,1,-1
+"Mercedes-Benz Sprinter 316 CDI HRK L3H2 MAXI AUT,NAVI,BI-XENON",27.480 € (Brutto),60.000 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,2017,04/2017,3,4/5,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz GLC -Klasse GLC, AMG, Led, Head Up",26.299 €,173.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,03/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz Sprinter 313 CDI MIXTO L3H2 6 SITZE SCHECKHEFT,26.880 € (Brutto),9.928 km,2.143 cm³,95 kW (129 PS),Diesel,Automatik,2015,04/2015,6,4/5,Euro5,Van / Minibus,1,-1
+"Mercedes-Benz ML 250 BT 4MATIC SPORTPAKET ILS,AKT.PARKASSIST",28.870 € (Brutto),43.784 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2015,04/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,-1
+"Mercedes-Benz GLC 250 d 4M KAMERA,DISTRONIC,PARKASSIST,1.HAND",26.880 € (Brutto),116.742 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2017,08/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz E 400 4M Distronic Comand Pano,27.899 €,75.369 km,2.996 cm³,245 kW (333 PS),Benzin,Automatik,-1,07/2014,5,4/5,-1,Limousine,2,-1
+Mercedes-Benz E 300 BlueTEC Sportpaket AHK COMAND Parktronic,24.299 €,46.950 km,2.987 cm³,170 kW (231 PS),Diesel,Automatik,-1,04/2014,5,4/5,-1,Limousine,3,Unfallfrei
+Mercedes-Benz E 200 d Avantgarde x2 Multibeam Spiegel-Paket,28.499 €,75.652 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,09/2017,5,4/5,-1,Limousine,2,Unfallfrei
+Mercedes-Benz C 220 d T Avantagarde x2 Navi AHK Parktronic,24.949 €,70.746 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,11/2017,5,4/5,-1,Kombi,2,Unfallfrei
+Mercedes-Benz C 180 T LED+NAVI+PDC+MAP PILOT+TOTWINKEL,27.899 € (Brutto),59.873 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,11/2017,5,4/5,Euro6,Kombi,3,Unfallfrei
+"Mercedes-Benz E 350 BT SPORTPAKET KAMERA,COMAND,STANDHZ,DISTRO",24.880 €,74.866 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,2014,07/2014,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz A 180 Progressiv MBUX Parktronic LED Sitzheizung,24.199 € (Brutto),15.897 km,1.332 cm³,100 kW (136 PS),Benzin,Schaltgetriebe,-1,01/2020,-1,4/5,-1,Limousine,2,Unfallfrei
+"Mercedes-Benz E 300 BT AMG SPORT PANORAMA,HARMAN/K,DISTRONIC",24.880 € (Brutto),69.731 km,2.987 cm³,170 kW (231 PS),Diesel,Automatik,2013,07/2013,5,4/5,Euro6,Limousine,-1,-1
+"Mercedes-Benz E 250 T WIDESCREEN,HUD,360GRAD,DISTRO,MULTIBEAM",27.880 € (Brutto),98.993 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,2017,05/2017,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz E 220 d T AVANTGARDE GLASDACH,KAMERA,1.HAND,19Z.",24.880 € (Brutto),124.053 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,03/2017,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz Mercedes C200 AMG, Nightpaket, LED, Leder ...",25.500 €,77.000 km,-1,137 kW (186 PS),Benzin,Automatik,-1,05/2016,-1,-1,-1,Kombi,-1,-1
+"Mercedes-Benz E 220 d AVANTGARDE TAXI SCHECKHEFT,1.HAND,KAMERA",24.880 € (Brutto),67.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2016,03/2016,5,4/5,Euro6,Limousine,1,-1
+"Mercedes-Benz E 220 d 9G AVANTGARDE TAXI GLASDACH,SCHECKHEFT",24.880 € (Brutto),41.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2016,03/2016,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz GLC 220 d 4Matic Exclusive*1. Hd.*Leder*NAVI*,28.999 € (Brutto),105.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,04/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+"Mercedes-Benz CLS 350 Shooting Brake d SPORTPAKET COMAND,AHK",26.780 €,69.099 km,-1,190 kW (258 PS),Diesel,Automatik,-1,10/2014,5,4/5,Euro6,Kombi,-1,-1
+"Mercedes-Benz CLS 350 d Coupe AMG SPURPAKET,360GRAD,MULTIBEAM",26.780 €,68.642 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,2014,09/2014,4,4/5,Euro6,Sportwagen / Coupé,-1,-1
+"Mercedes-Benz CLS 350 d 9G SB DISTRO,MULTIBEAM,KAMERA,LOGIC7",26.780 €,55.607 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,2015,07/2015,5,4/5,Euro6,Kombi,-1,-1
+"Mercedes-Benz CLS 350 CDI Coupe AMG DISTRONIC,KEYLESS,HARMAN/K",24.780 €,99.955 km,2.987 cm³,195 kW (265 PS),Diesel,Automatik,2011,06/2011,4,4/5,Euro5,Sportwagen / Coupé,-1,-1
+"Mercedes-Benz CLA 220 Shooting Brake d 4M AMG NIGHT COMAND,H/K",24.880 € (Brutto),94.041 km,2.143 cm³,130 kW (177 PS),Diesel,Automatik,2017,06/2017,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz C 400 T 4M 3x AMG HUD,PANO,BURMESTER,SCHECKHEFT",27.720 € (Brutto),40.000 km,2.996 cm³,245 kW (333 PS),Benzin,Automatik,2015,05/2015,5,4/5,Euro6,Kombi,-1,-1
+"Mercedes-Benz C 400 4M AMG EXCLUSIVE COMAND,BURMESTER,PANORAMA",27.780 € (Brutto),85.404 km,2.996 cm³,245 kW (333 PS),Benzin,Automatik,2015,07/2015,5,4/5,Euro6,Limousine,-1,-1
+"Mercedes-Benz C 250 d T 4M 3x AMG COMAND,PANO,VOLLLEDER,LEDILS",24.880 € (Brutto),110.300 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2016,11/2016,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz C 250 d 4MATIC COMAND,PANORAMA,LEDILS,STANDHEIZ.",25.830 € (Brutto),45.586 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2016,06/2016,5,4/5,Euro6,Limousine,1,-1
+"Mercedes-Benz C 250 3x AMG HEADUP,BURMESTER,KEYLESS,DISTRO,19Z",26.880 €,78.431 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,2014,09/2014,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz E -Klasse Lim. E 400 4-MATIC*AMP PAKET*PANO*TOP,25.849 €,99.999 km,2.996 cm³,245 kW (333 PS),Benzin,Automatik,-1,05/2014,5,4/5,Euro5,Limousine,1,-1
+"Mercedes-Benz V -Klasse V 220 CDI/d, 250 CDI/BT/d EDITION lang",24.990 €,128.350 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,07/2014,6,4/5,Euro6,Van / Minibus,2,Unfallfrei
+"Mercedes-Benz C 180 T AVANTGARDE COMAND,KAMERA,PANO,AHK,1.HAND",24.780 € (Brutto),39.807 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,2017,09/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz B 200 PROGRESSIVE+MULTIBEAM+EASY-PACK+TOTWINKEL,27.944 € (Brutto),6.975 km,1.332 cm³,120 kW (163 PS),"Benzin, E10-geeignet",Automatik,2019,08/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz B 180 PROGRESSIVE EASY-PACK-HECKKLAPPE+AUGMENTED,27.749 € (Brutto),12.208 km,1.332 cm³,100 kW (136 PS),"Benzin, E10-geeignet",Automatik,2019,12/2019,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,-1
+"Mercedes-Benz A 200 AMG NIGHT HEAD-UP,DIAMANTGRILL,PANORAMA,SH",26.780 € (Brutto),89.737 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,2018,05/2018,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz Mercedes Sprinter 316 CDI Hochdach Automat...,26.900 €,29.900 km,-1,120 kW (163 PS),Diesel,Automatik,-1,01/2017,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz Mercedes Sprinter 316 CDI Hochdach Automat...,26.900 €,29.900 km,-1,120 kW (163 PS),Diesel,Automatik,-1,01/2017,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz Vito Tourer 119 CDI/BT Pro lang 9STZ Klima Tempo,27.450 € (Brutto),44.350 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,09/2018,9,4/5,Euro6,Van / Minibus,-1,Unfallfrei
+Mercedes-Benz B 180 Progressive Edition19 nur 1.000 km !,27.500 €,1.000 km,1.332 cm³,100 kW (136 PS),"Benzin, E10-geeignet",Automatik,-1,07/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz Mercedes C220,26.800 €,55.000 km,-1,-1,-1,-1,-1,04/2016,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz A 180 d Style Navi Kamera Sitzhzg MBUX LED,24.150 € (Brutto),26.140 km,1.461 cm³,85 kW (116 PS),Diesel,Automatik,2019,10/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz A 180 Style+LED+PDC,24.885 € (Brutto),17.654 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,05/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz C 200 d T Avantgarde*Night*Kamera*Navi*PDC,28.849 € (Brutto),34.618 km,1.597 cm³,118 kW (160 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 220 d T-Modell Avantgarde*Comand*LED*AHK*SHZ,27.849 € (Brutto),111.777 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,04/2018,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz E 350 T d 9G-TRONIC*Comand*LED*Kamera*,25.990 € (Brutto),89.084 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz Viano CDI 3.0 AMBIENTE EDITION Lang COMAND APS,25.900 €,121.700 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,2013,08/2013,-1,4/5,Euro5,Kombi,3,Unfallfrei
+Mercedes-Benz Viano CDI 3.0 AMBIENTE EDITION Lang COMAND APS,25.900 €,121.700 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,2013,08/2013,-1,4/5,Euro5,Kombi,3,Unfallfrei
+Mercedes-Benz C 200 CGI AMG Line neuwertig,27.900 €,14.900 km,1.991 cm³,135 kW (184 PS),"Benzin, E10-geeignet",Automatik,-1,02/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz M -Klasse ML 350 CDI BlueTEC EU6 I-Hand,25.600 €,110.798 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,01/2014,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz A 200 LED PDC,25.460 € (Brutto),17.400 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,-1,05/2020,5,4/5,Euro6d,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Sprinter 314 CDI 3665/KLIMA/RWD/KLIMA/MBUX/KAMER,26.992 € (Brutto),41.726 km,2.143 cm³,105 kW (143 PS),Diesel,Schaltgetriebe,-1,04/2019,2,4/5,Euro6c,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Sprinter 314 CDI /L2H2/KLIMA/KAMERA/MBUX/TEMPOMA,26.528 € (Brutto),43.153 km,2.143 cm³,105 kW (143 PS),Diesel,Schaltgetriebe,-1,08/2019,2,4/5,Euro6c,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Sprinter 314 CDI /L2H2/FWD/KLIMA/KAMERA/MBUX/TEM,26.412 € (Brutto),40.500 km,2.143 cm³,105 kW (143 PS),Diesel,Schaltgetriebe,-1,08/2019,3,4/5,Euro6c,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Sprinter 316 CDI MAXI/L3H2/KLIMA/MBUX/NAVI/KAMER,28.732 € (Brutto),39.015 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,06/2019,3,4/5,-1,Van / Minibus,1,-1
+Mercedes-Benz A 200 Kompaktlimousine LED/AHK/PDC,24.330 € (Brutto),21.184 km,1.332 cm³,120 kW (163 PS),Benzin,Schaltgetriebe,-1,10/2019,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C 300 Coupé AMG **magno/Memory/Kamera/Night,27.729 € (Brutto),116.705 km,1.991 cm³,180 kW (245 PS),Benzin,Automatik,-1,01/2017,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz Vito 119 CDI Tourer Select lang LED Navi AHK2,5t",27.950 € (Brutto),84.725 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,09/2016,8,4/5,Euro6,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Sprinter II313 CDI Klima Rollstuhl Rampe 3Rollst,24.900 € (Brutto),74.101 km,2.143 cm³,95 kW (129 PS),Diesel,Schaltgetriebe,-1,10/2015,8,4/5,Euro6,Van / Minibus,1,-1
+Mercedes-Benz M -Klasse ML 350 CDI BlueTEC 4 Matic,26.564 € (Brutto),169.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,07/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz V 220d.LANG.7G-TRONIC.1 HAND.,26.300 € (Brutto),179.000 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,08/2018,5,4/5,Euro6,Van / Minibus,1,-1
+Mercedes-Benz E 220 d 4Matic Avantgarde LED Kamera Navi Park,28.450 € (Brutto),42.382 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2017,11/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz Sprinter 319 CDI*Euro6*AUTOMATIK*KLIMA*NAVI,25.404 € (Brutto),150.824 km,2.987 cm³,140 kW (190 PS),Diesel,Automatik,-1,06/2017,3,4/5,Euro6,Van / Minibus,1,Unfallfrei
+Mercedes-Benz SPRINTER.316.CDI.MAXI.MIXTO.6xSITZER.AHK.1HAND.,24.250 € (Brutto),116.000 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,10/2016,6,4/5,Euro6,Van / Minibus,1,-1
+Mercedes-Benz E 200 Limousine AVANTGARDE Interieur/Comand/Xeno,25.980 € (Brutto),30.200 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,2016,07/2016,5,4/5,Euro6,Limousine,1,Reparierter Unfallschaden
+Mercedes-Benz T-Modell E 220 d (213.204) Autom NAVI LED Spu...,28.900 €,69.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2017,5,4/5,Euro6,Kombi,-1,Unfallfrei
+Mercedes-Benz A 200 Progressive Urban 7G-DCT LED Kamera Leder,24.890 € (Brutto),50.400 km,1.332 cm³,120 kW (163 PS),"Benzin, E10-geeignet",Automatik,2018,07/2018,5,4/5,Euro6d-TEMP,Limousine,1,-1
+"Mercedes-Benz C 250 T D 7G Tronic Plus, AMG, Sonderzins 0,99%",24.990 € (Brutto),43.700 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,2016,06/2016,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz E 200 Avantgarde LED MULTIBEAM COMMAND ONLINE,28.990 €,49.900 km,1.991 cm³,135 kW (184 PS),"Benzin, E10-geeignet",Automatik,-1,04/2017,5,4/5,Euro6d-TEMP,Limousine,2,Unfallfrei
+Mercedes-Benz GLA 250 AMG Line 4Matic Pano-Dach Xenon Navi PDC,25.990 € (Brutto),28.670 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,02/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz C 220 d T, Spur,Navi,Kamera,Parktronic",24.890 € (Brutto),22.920 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,09/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz A 180 Progressive LED Premium-Navi DAB Fernlicht,24.490 € (Brutto),11.132 km,1.332 cm³,100 kW (136 PS),Benzin,Schaltgetriebe,-1,09/2019,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz B 220 4MATIC Business Allrad AHK Navi Autom. LED,28.998 € (Brutto),15.000 km,1.991 cm³,140 kW (190 PS),Benzin,Automatik,2019,06/2019,5,4/5,Euro6d-TEMP,Van / Minibus,2,-1
+Mercedes-Benz B 180 LED+Kamera+PDC,25.960 € (Brutto),10.363 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,02/2019,5,4/5,Euro6d-TEMP,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz A 180 Progressive Navi LED MBUX Sitzheizung DAB,25.899 € (Brutto),29.365 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6d,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz B 200 d Progressive Prem Navi LED Panorama MBUX,26.899 € (Brutto),10.535 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,08/2019,5,4/5,Euro6d,Limousine,1,Unfallfrei
+Mercedes-Benz C 180 AMG Sport Night Navi LED Kamera PTS,28.899 € (Brutto),56.454 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz A 200 PROGRESSIVE+LED+KAMERA+NAVPREM+Sound+++,28.649 € (Brutto),6.000 km,1.332 cm³,120 kW (163 PS),Benzin,Automatik,-1,08/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLS 350 CDI 4 Matic AMG Shooting Brake,26.500 €,85.800 km,-1,185 kW (252 PS),Diesel,Automatik,-1,11/2014,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz CLS 63 AMG Facelift Designo Leder Beige Navi Xen,25.999 €,142.000 km,6.208 cm³,378 kW (514 PS),Benzin,Automatik,-1,02/2009,4,4/5,Euro4,Sportwagen / Coupé,-1,-1
+Mercedes-Benz Mercedes CL (Mansory) 63 AMG-vollausstattu...,27.800 €,110.000 km,-1,386 kW (525 PS),Benzin,Automatik,-1,12/2007,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz GLC 250 d 4Matic 9G-TRONIC,25.499 €,90.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,12/2015,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz C 200 T CGI*AMG SPORT LINE*NAVI*LED*STANDHZ*UHR*,24.490 € (Brutto),61.276 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,10/2015,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz MB 180 C Limousine,29.000 €,17.000 km,-1,-1,Benzin,Automatik,-1,10/2018,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz A 220 d Progressive MBUX Navi LED PTS,26.980 € (Brutto),33.200 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,05/2019,5,4/5,Euro6d,Limousine,1,Unfallfrei
+Mercedes-Benz A 220 d PROGRESSIVE LED+MBUX+PTS+SHZ+KLIMA+TOUCH,27.380 € (Brutto),29.980 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,05/2019,5,4/5,Euro6d,Limousine,1,Unfallfrei
+Mercedes-Benz CLA 250 7G-DCT AMG Line *Panorama* Vollpaket,27.300 €,70.000 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,07/2013,5,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz Mercedes Benz C220d AMG Pano 8.F Spur.Dist...,24.250 €,88.180 km,-1,125 kW (170 PS),Diesel,Automatik,-1,11/2015,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz MERCEDES E500 4MATIC AMG Line 360,25.500 €,197.000 km,-1,300 kW (408 PS),Benzin,Automatik,-1,11/2013,-1,-1,-1,Kombi,-1,-1
+"Mercedes-Benz E 200 Coupé 9G Aut. Avantgarde Panorama 19""AMG",28.990 €,115.000 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,11/2017,-1,2/3,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz Mercedes CL 500 FaceLift,27.500 €,105.088 km,-1,320 kW (435 PS),Benzin,Automatik,-1,01/2011,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz Mercedes benz,29.000 €,30.500 km,-1,135 kW (184 PS),Benzin,Automatik,-1,04/2018,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz Mercedes Viano 3.0 Compact Ambiente,26.800 €,117.000 km,-1,-1,Diesel,Automatik,-1,10/2011,-1,-1,-1,Van / Minibus,-1,-1
+Mercedes-Benz B 200 PROGRESSIVE LED-AHK-SPUR-SHZ-NAVI-PREM,24.499 € (Brutto),5.395 km,1.332 cm³,120 kW (163 PS),Benzin,Schaltgetriebe,-1,11/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz Mercedes Benz c350,24.900 €,73.000 km,-1,225 kW (306 PS),Benzin,Automatik,-1,08/2012,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz V 220 d Edition Lang LED Leder 2x Klima Navi,26.990 € (Brutto),198.800 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,06/2017,8,4/5,Euro6,Van / Minibus,2,Unfallfrei
+Mercedes-Benz Viano 3.0 CDI Avantgarde Edition 125,24.990 € (Brutto),188.000 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,-1,05/2012,6,4/5,Euro5,Van / Minibus,1,Unfallfrei
+Mercedes-Benz V 220 d Edition Lang LED Leder 2x Klima Navi,26.990 € (Brutto),198.800 km,2.143 cm³,120 kW (163 PS),Diesel,Automatik,-1,06/2017,8,4/5,Euro6,Van / Minibus,2,Unfallfrei
+Mercedes-Benz Viano 3.0 CDI Avantgarde Edition 125,24.990 € (Brutto),188.000 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,-1,05/2012,6,4/5,Euro5,Van / Minibus,1,Unfallfrei
+Mercedes-Benz A -Klasse A 220 d/AMG LINE,28.800 € (Brutto),10.600 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz E350 CDI Cabrio * TOP * Scheckheft * AMG * 2. Hd,25.490 €,55.200 km,2.987 cm³,195 kW (265 PS),Diesel,Automatik,-1,08/2012,4,2/3,Euro5,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz Mercedes Benz CLS 220d AMG Line Navi Multi...,25.400 €,82.450 km,-1,125 kW (170 PS),Diesel,Automatik,-1,06/2016,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz Mercedes Benz E220 CDI AMG Packet,25.699 €,58.500 km,-1,125 kW (170 PS),Diesel,Automatik,-1,04/2013,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz Mercedes Slk 200 7Gtronic Sommer/Winter Re...,24.300 €,43.500 km,-1,1 kW (1 PS),Benzin,Automatik,-1,03/2015,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz Mercedes Benz E350 AMG,29.000 €,95.000 km,-1,185 kW (252 PS),Diesel,Automatik,-1,06/2014,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz C 300 T 7G-TRONIC AMG Line,26.950 €,72.000 km,1.991 cm³,180 kW (245 PS),Benzin,Automatik,-1,12/2016,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz C 300 T 9G-TRONIC,29.000 €,15.600 km,1.991 cm³,190 kW (258 PS),Benzin,Automatik,-1,08/2018,5,4/5,Euro6d-TEMP,Kombi,2,Unfallfrei
+"Mercedes-Benz C 180 Navi, LED,Kamera,SHD,AHK,Assistenz-Paket",26.869 € (Brutto),24.998 km,1.595 cm³,115 kW (156 PS),Benzin,Schaltgetriebe,-1,09/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz Mercedes E220 CDI BlueEfficiency T Model. ...,27.000 €,45.000 km,-1,125 kW (170 PS),Diesel,Automatik,-1,06/2015,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz B 200 d*BUSINESS*LED*VIRTUALES COCKPIT*NAVI*,25.330 €,29.900 km,1.950 cm³,110 kW (150 PS),Diesel,Automatik,-1,02/2019,5,4/5,Euro6d,Van / Minibus,2,Unfallfrei
+Mercedes-Benz C200 T 9G-TRONIC Avantgarde LED Garantie Keyless,25.799 €,35.800 km,1.497 cm³,135 kW (184 PS),Benzin,Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,Kombi,2,Reparierter Unfallschaden
+Mercedes-Benz GLC 220d AMG Line 4-Matic LEDER BEIGE/COMAND/19,28.890 € (Brutto),172.200 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,05/2018,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz V 250d lang 7G-TRONIC Edition1 TÜV NEU 360°Kamer,28.800 €,318.000 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,01/2015,8,4/5,Euro6,Van / Minibus,-1,Unfallfrei
+"Mercedes-Benz GLC 250 D 9G-Tr.4Matic,AHK,Panorama,Navig,LED",28.900 € (Brutto),89.178 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+"Mercedes-Benz E 250 Coupe 7G-Tr.,AMG Line Plus,Leder,Comand",27.900 € (Brutto),101.090 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,-1,04/2016,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz E 220 T CDI Avantg 9G-Tr,Standh,Comand,LED,",26.900 € (Brutto),95.280 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,Kombi,1,-1
+"Mercedes-Benz E 220 T CDI Avantg 9G-Tr,Panorama,Comand,LED,",26.900 € (Brutto),109.699 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,04/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz E 220 T CDI Avantg 9G-Tr,Panorama,Comand,LED,",26.900 € (Brutto),109.699 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,04/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz CLA 180 Shooting Brake 7G-Tr.,AMG Edition,Leder,",24.900 € (Brutto),49.969 km,2.143 cm³,100 kW (136 PS),Benzin,Automatik,-1,12/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+"Mercedes-Benz E 220 d 4Matic,MASSAGE,KAMERA,Head-Up.1 Hand",24.990 € (Brutto),182.350 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz C 350 CGI AMG Sport Plus 7G-TRONIC Avantgarde,24.999 €,113.000 km,3.498 cm³,225 kW (306 PS),Benzin,Automatik,-1,07/2013,5,4/5,Euro5,Limousine,2,Unfallfrei
+Mercedes-Benz GLE 250 d Leder Navi PDC 1Hd Euro 6,25.900 € (Brutto),215.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz E 250 BlueTEC 9G-TRONIC AMG EURO 6,26.000 €,96.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,02/2015,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 220 d 4MATIC Autom.,24.900 € (Brutto),71.253 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,08/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz C 300 d T Avantgarde*LED*Burmester*Airmatic*Kame,28.980 € (Brutto),69.000 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz C 220 (BlueTEC) d 7G-TRONIC AMG Line Night Paket,27.900 € (Brutto),50.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,Limousine,1,Unfallfrei
+"Mercedes-Benz B -Klasse 180 Autom. - Sondermodell:""Style"" +TOP",26.990 € (Brutto),2.200 km,1.332 cm³,100 kW (136 PS),Benzin,Automatik,-1,06/2019,5,4/5,Euro6d-TEMP,Limousine,1,Reparierter Unfallschaden
+Mercedes-Benz CLA 200 Peak Edition,25.800 €,64.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,-1,10/2017,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz Mercedes Gla 180 Sport Utilitie Vehicle *N...,25.555 €,15.800 km,-1,95 kW (129 PS),Benzin,Schaltgetriebe,-1,05/2016,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz E200 COUPE AMG SPORTPAKET LEDER NAV LED PANO PDC,27.950 €,18.000 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,2015,02/2016,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLC 220 d 4M NAVI LED SITZHZ CAM AHK DISTRONIC,28.950 € (Brutto),73.000 km,2.143 cm³,125 kW (170 PS),Diesel,Automatik,2017,08/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 180 T CGI 9G LEDER NAVI LED SITZHZ CAMERA,26.950 € (Brutto),31.000 km,1.595 cm³,115 kW (156 PS),Benzin,Automatik,2018,08/2018,5,4/5,Euro6d-TEMP,Kombi,2,Unfallfrei
+Mercedes-Benz CLA45AMG 4M LEDER NAVI NIGHT+DRIVERSPACK CAMERA,24.950 €,86.000 km,1.991 cm³,265 kW (360 PS),Benzin,Automatik,-1,09/2013,5,4/5,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz C 400 T 4M EXCLUSIVE LEDER NAVI LED SITZHZ PDC,26.950 €,62.000 km,2.996 cm³,245 kW (333 PS),Benzin,Automatik,2015,11/2015,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz E 250 COUPE AMG-LINE LEDER NAVI LED PANO H&K,27.950 €,46.000 km,1.991 cm³,155 kW (211 PS),Benzin,Automatik,2015,11/2015,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz SL 350 SPORTPAKET LEDER NAVI XENON H&K KEYLESS,25.950 €,104.000 km,3.498 cm³,232 kW (315 PS),Benzin,Automatik,2009,05/2009,2,2/3,Euro5,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz Mercedes cls 55amg /cls 500,24.800 €,145.000 km,-1,300 kW (408 PS),Benzin,Automatik,-1,07/2013,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz E 220d NIGHT PAKET-WIDESCREEN-PANORAMA-360*KAMER,27.890 € (Brutto),122.450 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,07/2016,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz Mercedes Benz E220d AMG-Line,26.500 €,52.000 km,-1,135 kW (184 PS),Diesel,Automatik,-1,11/2015,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz GLA 220D/7G TRONIC,25.000 €,130.000 km,-1,132 kW (179 PS),Diesel,Automatik,-1,11/2016,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz Viano 3.0 CDI DPF lang Automatik Trend,24.500 €,118.800 km,2.987 cm³,165 kW (224 PS),Diesel,Automatik,-1,07/2013,6,4/5,Euro5,Van / Minibus,2,Reparierter Unfallschaden
+Mercedes-Benz C 250 d T 9G-TRONIC Avantgarde,24.950 €,36.000 km,2.143 cm³,150 kW (204 PS),Diesel,Automatik,-1,12/2017,5,4/5,Euro6,Kombi,2,Unfallfrei
+"Mercedes-Benz SLC 200, 9 G-Tronic, NAVI, ILS, Panorama, PTS",25.990 €,69.000 km,1.991 cm³,135 kW (184 PS),Benzin,Automatik,-1,04/2016,2,2/3,Euro6c,Cabrio / Roadster,2,-1
+Mercedes-Benz Sprinter II Kombi 316 CDI Maxi 8 Sitzer Euro 6,28.884 € (Brutto),53.200 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,06/2016,8,-1,Euro6,Van / Minibus,1,-1
+Mercedes-Benz Sprinter II Kasten 316 CDI Maxi,24.940 € (Brutto),51.185 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,09/2018,3,-1,Euro6,Van / Minibus,1,-1
+"Mercedes-Benz Sprinter 316 CDI Maxi Mixto 3,5 To AHK Last",27.724 € (Brutto),104.217 km,2.143 cm³,120 kW (163 PS),Diesel,Schaltgetriebe,-1,03/2017,6,-1,Euro6,Van / Minibus,1,-1
+Mercedes-Benz Sprinter 314 CDI Kühlkoffer 2 Kammer Fahr und St,24.940 € (Brutto),169.168 km,2.143 cm³,105 kW (143 PS),Diesel,Schaltgetriebe,-1,11/2016,-1,-1,Euro6,Van / Minibus,1,-1
+Mercedes-Benz Mercedes E220d Baujahr 11/2018 Jungsterng...,28.500 €,76.000 km,-1,143 kW (194 PS),Diesel,Automatik,-1,11/2018,-1,-1,-1,Kombi,-1,-1
