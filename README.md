@@ -1,4 +1,4 @@
-# Data Science: Price Estimator of Mercedes cars: Project Overview
+# Data Science Project Overview: Price Estimator of Mercedes cars
 ## Collecting Data with a Webscraper and implement Machine Learning rating of used Mercedes cars
 Inspired by the [Machine Learning Phoenix Pricing:](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought I wanted to start a similar project on my own in order to explore my Data Science skills.
 In this project, I
