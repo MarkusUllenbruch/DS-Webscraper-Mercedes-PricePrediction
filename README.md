@@ -1,11 +1,11 @@
 # Data Science Project Overview: Price Estimator of Mercedes Cars
-## Collecting Data with a Webscraper and implement a Machine Learning Pricing System of used Mercedes Cars
-Inspired by the [Machine Learning Phoenix Pricing:](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought I wanted to start a similar project on my own in order to explore my Data Science skills.
+## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
+Fascinated about real-life ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore my Data Science skills.
 In this project, I
-* Implemented a tool that estimates prices (MAE ~ $ X K) to help customers estimate, if the price of a used car he wants to buy is fair and to help the seller side to estimate the worth of a car
-* Scraped over 4000 car descriptions from [mobile.de:](https://www.mobile.de) using python and selenium
-* Engineered features from the text of each car name description to quantify the price value put on tags like "AMG", "G-Power", "Brabus", "BlueEfficiency" etc. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model. 
+* Implemented a data collection tool and webscraped over 4000+ car descriptions and data from [mobile.de:](https://www.mobile.de) using python and selenium
+* Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
+* Cleaned raw data and engineered features from the text of each car name description to quantify the price value put on features like the Mercedes Car Model (S-Klasse, C-Klasse, etc.) and specific tags like "AMG", "G-Power", "Brabus", "BlueEfficiency", "Avantgarde", etc. 
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 * Optimized also with statsmodels 
 
 ## Code and Resources Used 
@@ -16,8 +16,8 @@ In this project, I
 Implemented own web scraper to scrape 4000+ car offerings from mobile.com. Each car, we scaped the following content from the page:
 *	Carname/ model (Automodell)
 *	Price (Preis)
-* Milage (Kilometerstand)
-* Num Owners (Anzahl Vorbesitzer)
+*  Milage (Kilometerstand)
+*  Num Owners (Anzahl Vorbesitzer)
 *	Cylinder Cubic Capacity (Hubraum)
 *	Power (Leistung)
 *	Fuel Type (Kraftstoffart)
