@@ -1,4 +1,4 @@
-# Data Science Price Estimator of used Mercedes cars: Project Overview
+# Data Science Price Estimator of Mercedes cars: Project Overview
 ## Collecting my own Data with a Webscraper and implement ML price prediction of used Mercedes cars
 * Implemented a tool that estimates prices (MAE ~ $ X K) to help customers estimate, if the price of a used car he wants to buy is fair and to help the seller side to estimate the worth of a car
 * Scraped over 4000 car descriptions from [mobile.de:](https://www.mobile.de) using python and selenium
