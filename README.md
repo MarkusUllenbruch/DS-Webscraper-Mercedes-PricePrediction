@@ -8,7 +8,7 @@
 
 ### 1. Data Collecting
 The dataset was collected via webscraping the used-car selling site
-[mobilde.de:](https://www.mobile.de)
+[mobile.de:](https://www.mobile.de)
 specially for used Mercedes-Benz cars.
 python package Selenium is used for collecting the data.
 
@@ -44,24 +44,53 @@ Implemented own web scraper to scrape 4000+ car offerings from mobile.com. Each 
 ## Data Cleaning
 After scraping the data, I had to clean & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following varaibles were created:
 
-*	Parsed numeric data out of "Price"
-*	Made new columns for "AMG", 
-*	Removed rows without salary 
-*	Parsed rating out of company text 
-*	Made a new column for company state 
-*	Added a column for if the job was at the company’s headquarters 
-*	Transformed founded date into age of company 
-*	Made columns for if different skills were listed in the job description:
-    * Python  
-    * R  
-    * Excel  
-    * AWS  
-    * Spark 
-*	Column for simplified job title and Seniority 
-*	Column for description length 
+*	Parsed numeric data out of "Price", removed the -brutto- string
+*	Removed rows without a price (price = -1)
+*	Transformed "Construction Year" and "First Registration" into "Age of car" and "Age of First Registration" (2018 --> 2)
+*	Manage categorical data: Made new columns for each and map 0 or 1, if following Tags were listed in the "Car Name":
+    * A-Klasse
+    * C-Klasse
+    * E-Klasse
+    * S-Klasse
+    * CLA
+    * CLC
+    * CLK
+    * CL
+    * CLS
+    * SL
+    * SLC
+    * SLK
+    * SLR
+    * SLS
+    * G-Klasse
+    * GLA
+    * GLB
+    * GLC
+    * GLK
+    * GLE
+    * M-Klasse
+    * GLS
+    * GL
+    * X-Klasse
+    * B-Klasse
+    * R-Klasse
+    * V-Klasse
+    * Vaneo
+    * Viano
+    * AMG
+    * McLaren
+    * Black Series
+    * Brabus
+    * Carlsson
+    * DC
+    * G-Power
+    * 63
+    * 65
+    * 55
+    * BlueEfficiency
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
@@ -69,25 +98,18 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Model Building 
 
-First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
+I transformed all the categorical variables (like "Owners") into dummy variables with sklearn and then split the data randomly up into train and tests sets with a test size of 20 %.   
 
-I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+I tried X different models and evaluated them with the metric Mean Absolute Error.  
 
-I tried three different models:
-*	**Multiple Linear Regression** – Baseline for the model
+The following models were trained:
+*	**Linear Regression** – Baseline for the model
 *	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+*	**Neural Network**
 
 ## Model performance
-The Random Forest model far outperformed the other approaches on the test and validation sets. 
-*	**Random Forest** : MAE = 11.22
-*	**Linear Regression**: MAE = 18.86
-*	**Ridge Regression**: MAE = 19.67
-
-## Productionization 
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary. 
-
-
-
-
-
+The XYZ model outperformed the other approaches on the test and validation sets. 
+*	**X** : MAE = 11.22
+*	**Y**: MAE = 18.86
+*	**Z**: MAE = 19.67
