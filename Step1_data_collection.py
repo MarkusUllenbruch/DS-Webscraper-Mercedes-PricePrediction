@@ -18,14 +18,14 @@ import time
 import pandas as pd
 
 
-price_minimum = "62000"
-price_maximum = "68000"
+price_minimum = "115000"
+price_maximum = "145000"
 winsound.Beep(500, 3000)
 
 PATH = r"C:\Github_Projects\DS_Glassdoor_SalaryPrediction/chromedriver87.exe"
 url = r"https://www.mobile.de"
 ort_plz = "Deutschland"
-num_cars_scrape = 700
+num_cars_scrape = 600
 
 
 while True:
@@ -238,19 +238,22 @@ while True:
         # './/i[@class="gicon-next-s icon--s icon--grey-60 u-no-margin-right"]'
         try:
             wait2 = WebDriverWait(driver, 10)
-            next_btn = wait2.until(EC.visibility_of_element_located((By.XPATH, './/a[@class="link--muted nav-next u-hide" and @title="Nächstes Inserat"]')))
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(1.2)
-            next_btn = driver.find_element_by_xpath('.//a[@class="link--muted nav-next u-hide" and @title="Nächstes Inserat"]')
+            next_btn = wait2.until(EC.element_to_be_clickable((By.XPATH, './/a[@class="link--muted nav-next u-hide" and @title="Nächstes Inserat"]')))
+            #driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            #time.sleep(1.2)
+            #next_btn = driver.find_element_by_xpath('.//a[@class="link--muted nav-next u-hide" and @title="Nächstes Inserat"]')
             next_btn.location_once_scrolled_into_view
             time.sleep(0.2)
             next_btn.send_keys(u'\ue007')
             
         except:
             winsound.Beep(500, 3000)
-            time.sleep(5)
+            time.sleep(4)
             try:
-                body = browser.find_element_by_css_selector('body')
+                try:
+                    body = driver.find_element_by_css_selector('body')
+                except:
+                    body = driver.find_element_by_id("rbt-ad-title")
                 for i in range(5):
                     body.send_keys(Keys.PAGE_DOWN)
                 time.sleep(0.2)

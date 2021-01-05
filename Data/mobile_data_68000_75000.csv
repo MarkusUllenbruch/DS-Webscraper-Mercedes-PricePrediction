@@ -1,0 +1,701 @@
+carname,price,milage,hubraum,power,fuel_type,transmission,construction_year,first_registration,num_seats,num_doors,emission_class,car_type,num_owners,damage
+Mercedes-Benz E 400 d 4M. T AMG °UVP 120.868€°DESIGNO°20 ZOLL°,69.707 € (Brutto),18.900 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2019,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz SL380 100%Erstlack76TkmEUAusf.Matching Classic1-,69.950 €,76.000 km,3.800 cm³,160 kW (218 PS),Benzin,Automatik,-1,03/1981,2,2/3,-1,"Cabrio / Roadster, Oldtimer",1,Unfallfrei
+Mercedes-Benz GLE 400 d 4M AMG*Fahrassist.*Pano.-Dach*LED*AHK,74.849 € (Brutto),2.155 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,10/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLS 400 d 4M AMG Designo Lack Distronic SHD 360°,71.706 € (Brutto),4.705 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLS 53 AMG 4M+ Comand Distr Night SHD Widescreen,71.708 € (Brutto),24.674 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6d,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+"Mercedes-Benz AMG GT Coupe*SPORTABGAS*LED*COMAND*19""LM*PANO*",72.980 €,27.229 km,3.982 cm³,340 kW (462 PS),Benzin,Automatik,-1,09/2015,2,2/3,Euro6,Sportwagen / Coupé,2,-1
+Mercedes-Benz E 450 Cab. 4M AMG WideScreen 360° Multibeam PTS,69.890 €,5.445 km,2.996 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,03/2020,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,Unfallfrei
+"Mercedes-Benz C 63 AMG Cabrio NAVI,LED,LEDER,DISTR.,PARKASSIST",72.900 € (Brutto),21.500 km,-1,350 kW (476 PS),Benzin,Automatik,-1,03/2019,4,2/3,Euro6d-TEMP,Cabrio / Roadster,2,-1
+Mercedes-Benz GLE 43 AMG Coupe 4Matic Nav LED Panoram,69.870 € (Brutto),13.311 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,2019,06/2019,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz AMG C63s AMG Iridiumsilber Jungesterne 08/22,69.900 €,18.000 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,07/2017,4,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz S 400 d L 4M S 63 AMG FACE PANO KEY NAV KAM 20,68.900 € (Brutto),72.500 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+"Mercedes-Benz S 400 d 4M HUD,Standhz.,Burm.,AHK,Aktivsitz,Dist",68.948 € (Brutto),57.320 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,09/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Multibeam HUD,71.150 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de 4M AMG *Mopf* Night+MBUX+360+M-LED+Pano,72.082 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf* +MBUX+360+LED+Pano+Fahrass,68.065 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf*+MBUX+360°+M-LED+Pano+Distr,68.732 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf*+MBUX+360°+M-LED+Pano+AHK,69.552 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 e 4M AMG *Mopf*+Night+MBUX+360°+M-LED+Pano,70.117 € (Brutto),8.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 300 d 4M AMG Night+RüKam+LED+Pano+STHZ+7Sitz,73.646 € (Brutto),4.000 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz SL 500 AMG*Massage*Pano*SitzKlima*Distronic*,72.850 €,35.203 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,01/2017,2,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz E 300 de T 4M AMG *Mopf*+MBUX+360°+M-LED+Pano+18,70.281 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 220 d Cpe 4M AMG *Mopf*+Night+MBUX+360°+Pano,70.168 € (Brutto),6.466 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,10/2020,4,2/3,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T 4M AMG *Mopf*+Night+MBUX+360+LED+Pano,70.270 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 d AVANTGARDE EDITION Lang Comand Pano AHK,69.348 € (Brutto),13.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,07/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 450 4MATIC lang Pano/360°/Standhzg/Comand/Dist,71.708 € (Brutto),30.070 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,11/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz E 300 de T 4M AMG *Mopf*+MBUX+RüKam+M-LED+AHK+18,70.271 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf*+MBUX+360°+M-LED+Panora+AHK,71.708 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG-Line Distronic/360°/Panoda,68.219 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf*+MBUX+360°+M-LED+Pano+AHK,69.214 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Vito e- Tourer PRO / lang,73.964 € (Brutto),5.000 km,-1,145 kW (197 PS),Elektro,Automatik,-1,11/2020,7,4/5,Euro6,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d AVANTGARDE Edition Lang,74.477 € (Brutto),8.000 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,09/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de AMG *Mopf*+Night+MBUX+360°+M-LED+Panora,71.775 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de Coupe 4M AMG Night+MBUX+RüKam+LED+AHK,68.261 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de Coupe 4M AMG Night+MBUX+RüKam+LED+AHK,68.261 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 Marco Polo 250 d 4MATIC HORIZON,69.759 € (Brutto),5.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T 4M AMG Night+MBUX+RüKam+LED+Pano+AHK,73.851 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz AMG GT S Paktronik/PanoDach/COMAND/Sitzhzg/LED/,74.690 €,63.660 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,03/2015,2,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz S 350 d lang AMG Chauffeur Liegesitz Leder Nappa,69.972 € (Brutto),10.640 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,04/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+"Mercedes-Benz V 300 AVE/L *LED*AHK2,5t*AMG-Line*Distronic*",70.984 € (Brutto),8.296 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2020,7,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,-1
+Mercedes-Benz V 300 d 4M AVANTGARDE EDITION Lang AMG Line/Navi,68.754 € (Brutto),3.100 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2020,09/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Airmatic Pamo MBEAM Trittbr AHK,72.477 € (Brutto),17.101 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,11/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,-1
+Mercedes-Benz GLE 350d 4M AMG Night Pano Airm. Burm 22'' AHK,73.708 € (Brutto),7.405 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,10/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz V 250 4Matic Marco Polo 9GT+Klima+LED,69.748 € (Brutto),11.500 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,12/2019,4,4/5,-1,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Line Panorama Multibeam 360°K,74.990 € (Brutto),5.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,11/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Mercedes AMG G63 Original 544 PS w463,68.900 €,108.000 km,-1,400 kW (544 PS),Benzin,Automatik,-1,01/2014,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz C 63 S AMG Coupé Edition 1*SCHALE*KERAMIK*KAMERA,69.999 €,32.000 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,02/2017,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLE 350 de Cp. 4M AMG WideScreen 360° Pano,72.500 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 de Cp. 4M AMG WideScreen 360° Pano,72.500 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 e Cp. 4M AMG 360° Rekup. Bremsyst. SHD,74.211 € (Brutto),8.500 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), E10-geeignet, Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d kompakt 4Matic 9G-TRONIC Avantgarde 2020,73.000 €,700 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2020,6,4/5,Euro6d-TEMP,Van / Minibus,2,Unfallfrei
+Mercedes-Benz Mercedes-AMG GLC 43 4M PerfAbgas/Comand/Pano/AHK,72.900 € (Brutto),21.100 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,2020,05/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz AMG CLS 53 4MATIC+ Head-Up, Standheiz, Multibeam",69.900 € (Brutto),38.000 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,03/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,-1,-1
+Mercedes-Benz V 300 d Lang AVANTGARDE EDITION 4x4 Pano AMG MBU,71.698 € (Brutto),8.000 km,-1,176 kW (239 PS),Diesel,Automatik,-1,04/2020,7,4/5,Euro6d-TEMP,Van / Minibus,1,-1
+Mercedes-Benz V 300 d Lang AVANTGARDE EDITION 4x4 Dist AMG SHD,68.620 € (Brutto),9.039 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2019,7,4/5,Euro6d-TEMP,Van / Minibus,1,-1
+Mercedes-Benz GLE 63S*2.HAND*PANORAMA*AMG DRIVERS PACKAGE*,69.950 €,44.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,02/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz G 350 d Station*COMAND*XENON*SITZKLIMA*18""*1.HD*",72.980 € (Brutto),53.028 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,06/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+"Mercedes-Benz G 350 d*SPORT-PAKET*BI-XENON*COMAND*19""LM*1-H*",72.980 € (Brutto),41.151 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz GLC 300 de 4MATIC AMG+Distronic+Pano.-Dach,71.707 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 300 de T-Modell AMG+Burmester+Fahrassist.,73.749 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 63 AMG 4M S +*Comand*Burmester*Driver's P *,74.878 € (Brutto),23.580 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,10/2018,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz AMG C 63 T Night+Pano+Perf.-Sitze+DISTR.+Kamera,72.400 € (Brutto),13.500 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,2020,02/2020,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d Cp. 4M AMG WideScreen 360° Pano Distr,74.775 € (Brutto),27.038 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG+Distronic+Pano.-Dach,69.899 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG Line Navi/LED/AHK Styling,69.287 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,09/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG Line Navi/LED/AHK Styling,69.287 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,09/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz E 53 AMG 4MATIC+ Cabriolet,69.480 € (Brutto),16.554 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2020,05/2020,4,2/3,Euro6,"Cabrio / Roadster, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,72.500 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Stdhzg Pano,69.900 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 300 d 4M AMG WideScreen Pano Multibeam EDW,68.900 € (Brutto),8.500 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 d Exclusive/Edition/lang/Comand/AHK/360°/u,69.656 € (Brutto),11.105 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,09/2019,6,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Airmat Keyl-GO,68.350 € (Brutto),3.934 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,08/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 43 AMG 4M Designo Burmester Fahrassist. LED,73.847 € (Brutto),8.900 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,12/2020,4,2/3,-1,"Cabrio / Roadster, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ Cab.Fahrass.CarbonWide.Multi.Driver,70.774 € (Brutto),24.301 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,-1,12/2018,4,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupe AMG Night Distr AHK MultiLED,68.945 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,09/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG+MBUX+PANO+BURMESTER+AHK+KAMERA,73.247 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG +AHK +PANORAMA +BURMESTER+MBUX,70.169 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Mercedes G350 d 7G-TRONIC AHK STANDHZG SPO...,72.500 €,27.000 km,-1,180 kW (245 PS),Diesel,Automatik,-1,05/2017,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz GLE 300 d 4M AMG AHK*Distr.*Memory*Burmester LED,70.774 € (Brutto),500 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,2020,11/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Airmatic Sitzklima Fahrass Pano,70.272 € (Brutto),19.025 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLS 500 4M AMG Sportpaket Panoramadach COMAND,68.980 € (Brutto),38.932 km,4.663 cm³,335 kW (455 PS),"Benzin, E10-geeignet",Automatik,-1,12/2017,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+"Mercedes-Benz GLC 300 de 4M AMG Line BUSINESS High-End SD 20""",73.012 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 500 Cp. 4M AMG Sportpaket Automatik COMAND ILS,72.880 € (Brutto),40.393 km,4.663 cm³,335 kW (455 PS),"Benzin, E10-geeignet",Automatik,-1,12/2016,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz GLC 300 de 4M AMG Line BUSINESS High-End SD 19""",73.987 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 de 4M AMG WideScreen 360° Pano,71.970 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 500 AMG-LINE+LED+Burmester,69.890 €,90.078 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,05/2016,4,2/3,Euro6,Cabrio / Roadster,2,-1
+"Mercedes-Benz GLC 43 AMG 4M PDC,LED,Distronic,PanoDach,Kamera",70.517 € (Brutto),17.650 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,10/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz ++ MB SL500 ++,74.900 €,35.000 km,-1,335 kW (455 PS),Benzin,Automatik,-1,10/2016,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz G500 SHD Designo Sport Paket Distr. Fond Ent.,72.000 €,77.000 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz S 63 AMG DTR+Q Pano Nightvision Highend,68.900 € (Brutto),40.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,05/2016,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz C 63 AMG S Edition 1 Magno Grau Matt,68.500 € (Brutto),26.350 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,10/2016,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz S 350 d AMG Styling mit 20 Zoll-Pano-Sitzklima-D,68.323 € (Brutto),28.912 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,03/2019,5,4/5,Euro6d,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG+Burmester+Distronic,73.899 € (Brutto),1.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d 4M Marco-Polo-Edition*Easy-Up*AHK*LED+++,70.373 € (Brutto),15.143 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2019,03/2019,4,4/5,Euro6d-TEMP,Van / Minibus,2,-1
+Mercedes-Benz S 400 d 4M AMG line COMAND HUD Sitzklima Pano LE,68.630 € (Brutto),77.977 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6c,Limousine,1,Unfallfrei
+Mercedes-Benz S-Klasse Lim. S 350 d CHAUFFEUR/HUD/PANORAMA/LED,74.990 € (Brutto),53.436 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2019,5,4/5,Euro6d,Limousine,2,-1
+Mercedes-Benz S 400 d L AMG 4M 9G PANO LED SOFT HUD 360°DISTR.,72.900 € (Brutto),69.900 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 63 AMG S Cp. 4M Keramik designo Carbon 360°,69.646 € (Brutto),32.161 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,11/2018,5,4/5,Euro6,Sportwagen / Coupé,1,-1
+Mercedes-Benz GLE 63 S AMG 4Matic|DRIVER´S PACKAGE|B&O|VOLL,69.870 € (Brutto),74.101 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2018,02/2018,5,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLE 63 S AMG 4Matic|DRIVER´S PACKAGE|B&O|VOLL,69.870 € (Brutto),74.101 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2018,02/2018,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz C63 S AMG CABRIO| EDITION 1|PERFORMANCE SITZE,74.770 €,25.101 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2017,06/2017,4,2/3,Euro6,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz EQV 300 Lang 6-Sitzer MBUX Distronic,74.191 € (Brutto),3.500 km,-1,150 kW (204 PS),Elektro,Automatik,2020,11/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQV 300 AVANTGARDE LANG MBUX+DISTRONIC+360-GRAD+,72.799 € (Brutto),9.990 km,-1,150 kW (204 PS),Elektro,Automatik,-1,12/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQV 300 AVANTGARDE LANG MBUX+DISTRONIC+EASY-PACK,69.799 € (Brutto),9.990 km,-1,150 kW (204 PS),Elektro,Automatik,-1,12/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d L 4M*AMG*DESIGNO*FIRST*3XTV*PANO*HUD*360,68.500 € (Brutto),118.000 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,09/2018,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz SL 65 AMG Vollaustattung+Distronic NP200 Tausend,69.990 €,41.441 km,5.980 cm³,450 kW (612 PS),Benzin,Automatik,-1,03/2009,2,2/3,Euro4,Cabrio / Roadster,-1,-1
+Mercedes-Benz E 63 AMG 4Matic+ Fahrassist Burmester NP 140,74.990 € (Brutto),63.400 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,09/2018,5,4/5,Euro6d-TEMP,Limousine,2,Unfallfrei
+Mercedes-Benz V 250 d long 4x2 Fahrassist.,69.889 € (Brutto),3.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,11/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz S 560 4M AMG Nachtsicht 360° Stdhzg Pano Distr.,69.748 € (Brutto),46.961 km,3.982 cm³,345 kW (469 PS),"Benzin, E10-geeignet",Automatik,-1,09/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 400 d 4M AMG WideScreen 360° Stdhzg Pano,70.672 € (Brutto),17.714 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz S 350 d 4M Lang AMG FahrAssPaket 23P Pano HuD,69.748 € (Brutto),26.302 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz E 300 de T-Modell AMG+MULTIBEAM+AHK+PANO,69.990 € (Brutto),3.464 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,-1,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLA AMG 45 S 4M Pano+360+Night+MULTIB+Burm+THERM,71.708 € (Brutto),22.267 km,1.991 cm³,310 kW (421 PS),"Diesel, E10-geeignet",Automatik,2020,02/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G350 d 7G **OFFROAD* *COMAND* *AHK* *KAMERA* *,72.500 €,24.000 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,04/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz S 500 4Matic 9-TRONIC,68.000 €,21.500 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,06/2016,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz G 350 d Stdhzg Sportpak Harman COMAND SHD AHK,72.723 € (Brutto),65.202 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz S 350 CDi 4Matic Lang AMG +Kamera+Panorama+Head-,69.950 € (Brutto),25.000 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Limousine,-1,-1
+Mercedes-Benz E 63 AMG S 4Matic + Night Paket Voll,70.690 € (Brutto),52.276 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,11/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz Mercedes-Benz G Klasse G 280 CDI Edition P...,69.900 €,89.950 km,-1,135 kW (184 PS),Diesel,Automatik,-1,11/2009,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz AMG C 63 S Cabriolet Sitzklima*Drivers P.,68.899 € (Brutto),41.990 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,12/2018,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz CLA 45 S 4M -22% Night/DISTR/Head-up/AHK/MULTIB,70.900 € (Brutto),6.020 km,1.991 cm³,310 kW (421 PS),"Benzin, E10-geeignet",Automatik,2020,02/2020,5,4/5,Euro6d-TEMP,"Limousine, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz GLS 350 d 4Matic, AMG-LINE, PANORAM, OFF-ROAD-PA",69.499 € (Brutto),19.680 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,11/2019,7,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz E 300 de T mopf/AMG Line Ext./Pano/LED/AHK Xenon,68.790 € (Brutto),9.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,07/2020,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz V 300 4Matic Avantgarde Edition 9GT+MBUX+AHK+STH,72.826 € (Brutto),12.700 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,07/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG+Burmester+Distronic+Pano.-Dach,71.800 € (Brutto),1.687 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 S AMG T Com LED Pano Perf Abgas Carbon Burm,69.979 € (Brutto),39.973 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz Mercedes Gullwing 300 SL Recreation 300SLR,69.000 €,800 km,-1,-1,Benzin,Schaltgetriebe,-1,05/2003,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz GLE 350 d 4MATIC AMG Line Pano.-Dach AHK Autom.,70.782 € (Brutto),6.977 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,12/2019,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",1,-1
+Mercedes-Benz GLC 300 de 4M AMG +NIGHT+BURMESTER+AHK+PANO+MBUX,73.247 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de Cp. 4M AMG Sportpaket Night-Paket,68.720 € (Brutto),5.001 km,1.950 cm³,143 kW (194 PS),Hybrid (Diesel / Elektro),Automatik,-1,12/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Fahrass WideScreen Pano Distr.,71.698 € (Brutto),24.131 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+"Mercedes-Benz CLS 53 AMG 4M+ Night,COM,Mulitb,SD,Distr,AHK,Kam",71.788 € (Brutto),37.448 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz A45S AMG Perform EDITION 1 AeroPaket HUD Pano,73.300 €,33.500 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro4,Limousine,1,Unfallfrei
+Mercedes-Benz G 350d *7G*AMG*SPORT*KAMERA*COMAND*SHZ*H/K*,68.990 € (Brutto),100.000 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,03/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 43 AMG 4M Burmester Comand Fahrassist.,68.410 € (Brutto),8.900 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,12/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,69.230 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 350d*SPORT-EXCLUSIVPAKET/STHZ/SD/HK/AHK/DISTR,74.890 € (Brutto),71.000 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,03/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz EQV 300 Lang 6-Sitzer MBUX Distronic,74.191 € (Brutto),3.500 km,-1,150 kW (204 PS),Elektro,Automatik,2020,11/2020,6,4/5,Euro6d-TEMP,"Andere, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC Coupé Sitzklima+Burmester,68.890 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 63 AMG L 4M *PANORAMA+KEY-GO+BURMESTER+DISTR*,68.950 € (Brutto),117.500 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,04/2014,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz S63 AMG 4MATIC Lang *FOND-ENTER*CHAUFFEUR*NACHT*,69.700 € (Brutto),54.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,01/2016,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz GLC 300 e Coupe 4M AMG Night+MBUX+RüKam+M-LED+20,69.361 € (Brutto),8.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,69.230 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLS 63 AMG 4Matic-22 Zoll-Vollausstattung-Top...,69.599 € (Brutto),93.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,01/2017,7,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,71.691 € (Brutto),4.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz G350 d **EXCLUSIV**SPORTPAKET**STANDHZG**H&K**,71.800 € (Brutto),69.000 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz EQV 300 AVANTGARDE Designe-Paket 360° Distronic,71.038 € (Brutto),5 km,-1,150 kW (204 PS),Elektro,Schaltgetriebe,-1,12/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz SL 63 AMG 2Look Edition Driver´s Package,74.980 €,48.830 km,5.461 cm³,430 kW (585 PS),"Benzin, E10-geeignet",Automatik,-1,07/2014,2,2/3,Euro5,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz G -Modell Station G 350 d AMG Schiebedach Xenon,71.900 € (Brutto),49.900 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz GLE 350 d 4M AMG,Nightp.,PDC,LED,Distronic,360°",71.768 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz AMG GT Coupe Rückfahrkamera,71.600 € (Brutto),31.000 km,3.982 cm³,340 kW (462 PS),Benzin,Automatik,-1,11/2016,2,2/3,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz S 400 d 4M lang AMG Multibeam Pano BM FondTV Kam,71.783 € (Brutto),31.900 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz S 450 Coupé 4matic AMG Line Distronic Pano Sound,73.980 € (Brutto),24.077 km,2.996 cm³,270 kW (367 PS),Benzin,Automatik,-1,10/2018,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,-1
+Mercedes-Benz V 300 d Marco Polo EDITION COMAND+LED+MARKISE+36,74.899 € (Brutto),6.827 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,05/2020,4,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S 450 AMG Sitzklima Chauffeur Fond-tv Burmester,73.949 € (Brutto),23.477 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,11/2019,-1,4/5,-1,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 450 4MATIC AMG x2 Panorama AHK Multibeam 21',72.899 € (Brutto),12.678 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,05/2020,-1,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,-1
+Mercedes-Benz V 250 d 4MATIC AVANTGARDE EDITION Lang Navi/LED,71.394 € (Brutto),10.750 km,1.950 cm³,140 kW (190 PS),"Diesel, E10-geeignet",Automatik,2020,07/2020,7,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 S AMG T-Perf Sitze-High-End -Pano/Burm-Voll,74.900 €,6.300 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,12/2019,5,4/5,Euro6c,Kombi,1,Unfallfrei
+Mercedes-Benz GLA 45 AMG S 4M AeroP+DriveP+PerfSitze+Pano+Burm,74.900 € (Brutto),5.900 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,09/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz AMG 63 FACELIFT UMBAU 2020 MODELL/3D HIGHEND !!!,74.900 €,95.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,08/2015,4,2/3,Euro5,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz V 300 d 4M Marco Polo Küche Distr. AHK 2500KG 6d,70.118 € (Brutto),16.659 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2019,12/2019,4,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C 43 AMG 4M T Sitzklima+Burmester+Comand,71.759 € (Brutto),9.037 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,02/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d Avantgarde+4 Matic+Lang AMG Fahrassist.,69.020 € (Brutto),37.500 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2019,-1,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d Avantgarde+4 Matic+Lang AMG Fahrassist.,69.020 € (Brutto),37.500 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2019,-1,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 AMG Com LED Pano Perf Sitze Abgas Burmes Wi,70.959 € (Brutto),29.157 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,06/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz E 220 d 4M T AMG Sport MOPF Distr AHK Pano Wide,70.969 € (Brutto),3.500 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,07/2020,5,4/5,-1,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLA 45 S MULTIB 360 MBUX AHK SOUND PANO DRIVERSP,70.499 € (Brutto),5.000 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,09/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz AMG C 63 AMG Coupe - schwarz - TOP AUSSTATTUNG,68.900 €,35.000 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,12/2018,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,-1,Unfallfrei
+"Mercedes-Benz Mercedes GLE 350 d 4MATIC, SUV, 01/20, 11....",75.000 €,11.700 km,-1,200 kW (272 PS),Diesel,Automatik,-1,11/2020,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz SL 500 7G-TRONIC,74.800 €,65.000 km,4.663 cm³,320 kW (435 PS),Benzin,Automatik,-1,02/2014,2,2/3,Euro5,Cabrio / Roadster,2,Unfallfrei
+"Mercedes-Benz GLE 63 AMG S, B&O,PANO,AHK,ACC,ILS,ALCANTARA HIM",74.900 € (Brutto),38.900 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,11/2017,5,4/5,-1,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz Mercedes Benz G350D* AMG *W463* GARANTIE 0...,68.990 €,103.000 km,-1,-1,-1,-1,-1,03/2017,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz S 350 d L 9G-TRONIC,71.750 €,27.480 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz AMG GT Sportauspuffanl PanoDach Comand Kamera,72.777 € (Brutto),28.900 km,3.982 cm³,340 kW (462 PS),Benzin,Automatik,-1,09/2016,2,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz G 63 AMG G 63 AMG, Monitor/Navi/Kamera/Alu 20",74.230 € (Brutto),99.204 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,06/2014,5,4/5,Euro5,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz SL 63 AMG / deutsches Auto,69.990 €,54.387 km,6.208 cm³,386 kW (525 PS),Benzin,Automatik,-1,05/2008,2,2/3,Euro6,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz Mercedes SL300 R107 - Zustand 1,73.000 €,127.212 km,-1,132 kW (179 PS),Benzin,Automatik,-1,11/1987,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz GLE 450 4MATIC Sitzklima+Fahrassist.+Pano.-Dach,69.890 € (Brutto),3.000 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,10/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz GLE 300 d 4MATIC Sitzklima+Burmester+Fahrassist.,69.890 € (Brutto),3.000 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz A45 S AMG EDITION 1 PANO DISTRONIC BURMESTER® 19,68.900 €,11.000 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,02/2020,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLC 400 d 4M AMG Night+LED+Pano+AHK+Leder Braun,71.698 € (Brutto),5.925 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,08/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz GLS 500 V8 4MATIC""NIGHT""AMG-LINE""PANO""7-SITZER""",74.499 € (Brutto),48.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,06/2017,7,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz V 300 AVANTGARDE EDITION Lang LED~DISTRONIC~360°,69.900 € (Brutto),700 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,10/2019,6,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz S 63 AMG COUPE PANO CARBON HEAD-UP BURMESTER® 20,68.900 €,105.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,11/2014,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz S 350 d L AMG Line Nachtsicht Pano Distron 360°,69.890 € (Brutto),6.851 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,-1,"Limousine, Jahreswagen",1,Unfallfrei
+"Mercedes-Benz S -Klasse Lim. S 350 d L Distronic,Panorama,Voll",71.000 € (Brutto),9.890 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,09/2019,5,4/5,Euro6,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 300 e 4M Coupe AMG Line HGSD AHK Multibeam,68.620 € (Brutto),4.900 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 53 4M AMG Night Performance Sitz Burm Widesc,71.708 € (Brutto),8.923 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,2019,09/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz V 300 Marco Polo Horizon Edition Allrad AHK 7-Si,72.499 € (Brutto),1.500 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,01/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Mercedes-Benz G 63 AMG 1.Hand Scheckheft L...,71.499 €,97.000 km,-1,400 kW (544 PS),Benzin,Automatik,-1,07/2014,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz AMG GT Coupe Aero-Pak.Pano.Designo,69.900 €,56.000 km,3.982 cm³,340 kW (462 PS),Benzin,Automatik,-1,12/2015,2,2/3,Euro6,Sportwagen / Coupé,3,Unfallfrei
+"Mercedes-Benz G 63 AMG DESIGNO Edition, 1. LACK, VOLL SERVICE",74.990 €,102.148 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,07/2015,5,4/5,Euro5,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz E 400 d 4M. T AMG °UVP 122.403€°DESIGNO°CARBON°,70.733 € (Brutto),7.700 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2019,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz S 560 e L Nachtsicht Fondent FirstClass 360°,74.790 € (Brutto),11.856 km,2.996 cm³,270 kW (367 PS),"Hybrid (Benzin/Elektro), E10-geeignet",Automatik,-1,12/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz S 350 d L 4M AMG Line Distr Nachts Pano HUD Burm,68.980 € (Brutto),19.382 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz SL500 9G **AMG LINE**MAGIC SKY**FACELIFT 2017**,68.400 € (Brutto),38.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,09/2016,2,2/3,Euro6c,Cabrio / Roadster,1,-1
+Mercedes-Benz GLE 350 d AMG 4Matic Pano DISTRONIC PLUS Kamera,69.300 € (Brutto),5.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,-1
+Mercedes-Benz GLS 350 d 4Matic AMG-LINE*PANORAMA*Anhängerkuppl,70.800 € (Brutto),24.677 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,06/2020,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 63 AMG S Cp. 4M B&O Driversp Perf-Abgas,74.775 € (Brutto),57.842 km,5.461 cm³,430 kW (585 PS),"Benzin, E10-geeignet",Automatik,-1,10/2017,5,4/5,Euro6,Sportwagen / Coupé,1,-1
+Mercedes-Benz GLC 63 AMG S 4M designo Driversp Perf-Abgas,74.775 € (Brutto),23.063 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,11/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d AMG 4MATIC Burmester+Distronic,74.480 € (Brutto),13.250 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,05/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz AMG GLS 63 4Matic AMG GARANTIE2022 *WENIG KM*,71.099 €,39.700 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,02/2018,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E 300 de T AMG+Burmester+Distronic+Pano.-Dach,71.286 € (Brutto),5.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 e 4M AMG+Burmester+Distronic+Pano.-Dach,73.338 € (Brutto),5.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G500 AMG SPORTPAKET*COMAND*PANO*STANDH*H-K7*23-Z,69.900 € (Brutto),112.751 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,10/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz CLS 400 d Cp. 4M AMG WideScreen 360° Multibeam,72.500 € (Brutto),8.500 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLS 450 Cp. 4M AMG WideScreen 360° Multibeam,68.800 € (Brutto),8.500 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,12/2020,-1,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLS 450 Cp. 4M AMG WideScreen 360° Multibeam,73.900 € (Brutto),3.319 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,11/2020,-1,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQC 400 4MATIC Distronic+360°+LED+AHK+PDC,71.255 € (Brutto),5.000 km,-1,0 kW (0 PS),Elektro,Schaltgetriebe,-1,12/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G63*Carbon/designoExklusiv/Fond-TV/Distronic*,72.999 €,66.000 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,06/2012,5,4/5,Euro5,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz S 450 4M AMG Distronic/Massage/Panorama/HUD,74.900 € (Brutto),10.400 km,2.999 cm³,270 kW (367 PS),Hybrid (Benzin/Elektro),Automatik,2020,03/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C 63 S AMG T Com LED Pano Perf Abgas Drivers Dis,70.969 € (Brutto),17.565 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 300 d 4M AMG Sport Pano AHK Distr Burmes Sit,71.989 € (Brutto),18.500 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,01/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG Sport Navi LED Pano AHK Airma Wid,71.989 € (Brutto),16.241 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLS 400 d 4M AMG+SD+MULTIB+360°+STDHZG+DISTRONIC,73.589 € (Brutto),4.000 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,09/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 e 4M Coupé Night Multibeam Keyless-Go,68.990 € (Brutto),3.500 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 63 T AMG S 4Matic/Navi/Burmester/ACC/LED,69.500 € (Brutto),58.000 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,08/2018,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz GLE 300 d 4Matic *Vollausstattung*,70.000 € (Brutto),6.900 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2019,5,4/5,-1,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz S 63 AMG Coupe 4Matic-Swarowski-SoftClose-Pano-,72.950 € (Brutto),95.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,03/2014,4,2/3,Euro6,Sportwagen / Coupé,2,-1
+Mercedes-Benz EQC 400 4Matic Edition 1886,69.600 € (Brutto),11.000 km,-1,300 kW (408 PS),Elektro,Automatik,-1,07/2019,5,4/5,Euro6d,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz EQC 400 4MATIC Service+ AMG+DISTRONIC+BURMESTER,70.989 € (Brutto),2.999 km,-1,300 kW (408 PS),Elektro,-1,-1,08/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 Avantgarde Edition AMG Pano foliert 7Sitz,69.133 € (Brutto),5.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,07/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG/Avantgarde Widesreen Distro. 360,71.759 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz E 300 de T AMG/Avantgarde Widesreen Distro. 360,71.759 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz CLS 400 d 4M AMG Line Np117172€ Burm 3D Massage,73.879 € (Brutto),22.500 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,-1
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,70.732 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,70.732 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,70.732 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,69.230 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d long 4x2,68.768 € (Brutto),12.213 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,05/2020,7,4/5,-1,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz V 250 d long 4M,73.202 € (Brutto),14.675 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,02/2020,6,4/5,-1,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLA 35 AMG Cp. 4M AeroPak Perf-Sitze Pano HUD,70.835 € (Brutto),8.500 km,1.991 cm³,225 kW (306 PS),Benzin,Automatik,-1,12/2020,-1,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 e Coupe 4M AMG Line KAMERA HGSD NAVI LED,69.748 € (Brutto),4.900 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d L 4M AMG 360° Stdhzg Pano Multibeam HUD,71.800 € (Brutto),73.938 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz Marco Polo 250 d 4MATIC HORIZON Distr. ILS LED,70.250 € (Brutto),3.530 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,08/2020,-1,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 350 d 4M lang AMG Line/First-Class Fond/COMAND,72.986 € (Brutto),74.034 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,2017,12/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz S 350 d 4M Lang AMG Pano/23P/HuD/360°,70.261 € (Brutto),26.881 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz G 350 d Stdhzg Distr. COMAND AHK Xenon Kamera,71.890 €,33.587 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,09/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz Mercedes-AMG C 63 S AMG Driver's Package/Pano,69.870 €,23.585 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2019,06/2019,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz EQC 400 4M EDITION 1886*SERVICE*360°*MULTIBEAM,70.782 € (Brutto),10.500 km,-1,300 kW (408 PS),Elektro,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 d 4M Coupé AMG MULTIB DISTR 360 AHK EASY,70.999 € (Brutto),4.444 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,11/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400d*4M*Lang*AMG*Designo*3xTV*360*Head*Pano*20,69.935 € (Brutto),69.000 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,11/2017,5,4/5,Euro6c,Limousine,1,-1
+Mercedes-Benz E 63 AMG T 4M Sportpaket Automatik COMAND ILS,72.950 € (Brutto),31.747 km,3.982 cm³,420 kW (571 PS),"Benzin, E10-geeignet",Automatik,-1,09/2018,5,4/5,Euro6,Kombi,2,Unfallfrei
+Mercedes-Benz V 300 d lang 4M Avantgarde Edition ILS,73.768 € (Brutto),3.001 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,10/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz A 45 AMG S 4M+ Edition 1 Pano Multibeam HUD Navi,69.348 € (Brutto),3.000 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,12/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C63 S AMG Cabrio **PERFORMANCE SITZ**V/MAX**,69.700 € (Brutto),41.000 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,06/2018,4,2/3,Euro6c,Cabrio / Roadster,1,-1
+Mercedes-Benz G -Modell Station G 63 AMG,74.400 € (Brutto),58.250 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,02/2013,5,4/5,-1,SUV / Geländewagen / Pickup,-1,Unfallfrei
+"Mercedes-Benz G 350D,AMG,SPORT-PAKET,EXKLUSIV-PAKET,SCHWARZ",73.000 € (Brutto),68.300 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,07/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz SL 400 AMG-LINE *Panorama mit Magic Sky*,72.990 € (Brutto),10.900 km,2.996 cm³,270 kW (367 PS),Benzin,Automatik,-1,03/2017,2,2/3,Euro6c,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz GLE 63 S AMG Coupe 4MATIC,68.000 € (Brutto),104.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,05/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz V 300 4M AVANT. EDT. Lang AMG+COMAND+PANO+KÜHLF.,68.625 € (Brutto),22.495 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2020,02/2020,7,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLE 350 de 4M AMG WideScreen 360° Pano,72.350 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 350 d designo Exkl-Paket Distr. COMAND AHK PTS,71.698 € (Brutto),63.729 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,03/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz EQV300 AVANTGARDE Distronic LED Leder CAM 7Sitze,73.441 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Schaltgetriebe,2020,11/2020,-1,4/5,-1,"Van / Minibus, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz EQV300 AVANTGARDE Distronic LED Leder CAM 7Sitze,73.441 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Schaltgetriebe,2020,11/2020,-1,4/5,-1,"Kombi, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz EQV300 AVANTGARDE Distronic LED Leder CAM 7Sitze,73.441 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Schaltgetriebe,2020,11/2020,-1,4/5,-1,"Andere, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLE 63 AMG Coupe Distronic+ Standhz. Comand 360°,68.619 € (Brutto),44.646 km,5.461 cm³,410 kW (557 PS),Benzin,Automatik,-1,03/2017,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz AMG GT Coupe,70.990 €,55.000 km,3.982 cm³,340 kW (462 PS),Benzin,Automatik,-1,07/2015,2,2/3,-1,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLE - Klasse GLE 400 d 4Matic AMG,69.900 €,3.600 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,08/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz Marco Polo 300 d AHK/Distronic/LED/Markise/Cam F,73.317 € (Brutto),9.999 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2020,4,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 EAV/L *AMG-Line*Distronic*Panorama*360°,74.803 € (Brutto),2.999 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2020,7,4/5,Euro6,"Van / Minibus, Vorführfahrzeug",1,-1
+Mercedes-Benz S 500 Lang AMG/ 23 P / Pano / HuD /FondEntertain,74.775 € (Brutto),27.336 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz S 560 L Nachtsicht Fondent FirstClass Pano TV 9G,69.748 € (Brutto),42.413 km,3.982 cm³,345 kW (469 PS),"Benzin, E10-geeignet",Automatik,-1,11/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz Mercedes-AMG E 63 T 4M Panorama Fahrass.Widescre,70.850 € (Brutto),17.541 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,10/2019,5,4/5,Euro6d-TEMP,Kombi,2,Unfallfrei
+Mercedes-Benz GLE 63 AMG 4M COUPÈ MEMO LED DISTRONIC NAVI AHK,70.880 € (Brutto),37.034 km,5.461 cm³,410 kW (557 PS),Benzin,Automatik,-1,01/2018,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen Airmat Pano Multibeam,69.646 € (Brutto),7.181 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 43 AMG Cp. 4M WideScreen 360° Stdhzg Distr.,70.672 € (Brutto),16.083 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz EQC 400 4M AMG/19/Navi/Fahrassist/Kamera/LED/,73.290 € (Brutto),9.999 km,-1,0 kW (0 PS),Elektro,Automatik,-1,08/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d Avantgarde Edition 4Matic (lang),72.600 € (Brutto),13.000 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,06/2020,7,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz E 450 4MATIC Coupé AMG Burmester Distronic 360°,68.450 € (Brutto),3.000 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,2020,12/2020,4,2/3,-1,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 400 d 4MATIC Coupé AMG Burmester Distronic,69.590 € (Brutto),3.000 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,2020,12/2020,4,2/3,-1,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S 350 d 4M Lang/AMG/DISTRONIC/Head up/P.20,71.809 € (Brutto),28.412 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 450 4M EXCLUSIVE+Pano+MULTIB+360°+FahrAssP,71.687 € (Brutto),5.599 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,2019,06/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 4Matic Marco Polo Edition DISTR+AHK+Markie,71.800 € (Brutto),19.300 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,09/2019,4,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz E 300 e 4MATIC Limousine,70.179 € (Brutto),2.417 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,Euro6d-TEMP,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQC 400 4MATIC Carbon AMG Multibeam SHD Keyl-GO,69.020 € (Brutto),11.603 km,-1,300 kW (408 PS),Elektro,Automatik,-1,07/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d 4M COM+Pano+Burm+Mbeam+20+Dstr+Sthzg+360,70.769 € (Brutto),68.286 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6c,Limousine,1,-1
+Mercedes-Benz C 63 S AMG EDITION 1 CABRIO 100%DESIGNO + VOLL!,68.900 € (Brutto),68.500 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,12/2016,4,2/3,Euro6,Cabrio / Roadster,2,-1
+Mercedes-Benz Mercedes-AMG GLC 43 4MATIC,69.800 € (Brutto),23.360 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,02/2020,-1,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED+NIGHT+PANO+DISTR+MBUX+AR+KE,70.189 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4MATIC AMG/Pano/Wide/Burm/Airm/AHK/Mem,74.950 € (Brutto),15.466 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,05/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz MERCEDES BENZ E63S *EDT1*DRPCK*3DBURM*PANO*,73.900 €,89.000 km,-1,450 kW (612 PS),Benzin,Automatik,-1,08/2017,-1,-1,-1,Limousine,-1,-1
+"Mercedes-Benz V 300 d lang 4Matic Panoramma AHK 2,5 7 Sitze",72.500 € (Brutto),3.000 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2020,6,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz EQV -Klasse EQV 300 lang Avantgarde DesignePaket,71.490 € (Brutto),2.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,11/2020,7,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz EQV -Klasse EQV 300 lang Avantgarde 360° DIS,68.990 € (Brutto),2.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,11/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 Avantgarde Lang Fahrassist.,71.287 € (Brutto),4.900 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz V 300 Avantgarde Lang Fahrassist.,71.287 € (Brutto),4.900 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz EQV -Klasse EQV 300 lang AVANTGARDE DesignePaket,71.490 € (Brutto),2.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,11/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 500 Coupé 4Matic DESIGNO NACHTSICHT SITZKLIMA,69.900 € (Brutto),50.000 km,4.663 cm³,335 kW (455 PS),"Benzin, E10-geeignet",Automatik,-1,11/2015,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé AMG-Distronic+AHK+SHD+HUD+,72.849 € (Brutto),7.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLS 450 4M Coupe AMG+S.Dach+StHz+AHK+Distr.+360,68.499 € (Brutto),15.024 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S 63 AMG -SOFT-SITZB-NACHT-HUD-PANO-TV-ACC-360°,73.890 € (Brutto),88.063 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,06/2016,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz G 63 AMG*SITZLÜFTUNG-HEIZUNG*SCHIEBEDACH*ALU,69.990 €,68.000 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,06/2014,5,4/5,Euro5,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz Mercedes-AMG CLS 53 4M+ Edition1+Distro+HuD+360°,69.890 € (Brutto),40.645 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2018,11/2018,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,-1
+Mercedes-Benz C 63 S Edition1 AMG/Sondermodell/PANO/KERAMIK,72.900 €,27.967 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,07/2016,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLE 350 d Coupe /AMG/Pano/Multibeam/Night-Paket/,74.900 € (Brutto),27.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz V 300 d 4-M Lang*AMG Edition*MBUX*Night*7-Sitze,71.700 € (Brutto),8.200 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,05/2020,7,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M+AMG+Night+Pano+Distronic+Widescreen,70.701 € (Brutto),26.215 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,01/2019,5,4/5,Euro6d,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 300 e 4M Coupé *AMG*MBUX NAVI*BURMESTER*LED*,71.759 € (Brutto),8.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé *AMG*MBUX NAVI*DISTRONIC*LED,71.698 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 de 4M AMG°360°NIGHT°DISTRO°PANO°BUR°AHK°,74.990 € (Brutto),3.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 de 4M AMG°360°NIGHT°DISTRO°PANO°BUR°AHK°,74.990 € (Brutto),3.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G -Modell Station G 350 BlueTec*AMG Opt.*VOLL*,68.500 € (Brutto),72.000 km,2.987 cm³,155 kW (211 PS),Diesel,Automatik,-1,07/2014,5,4/5,Euro5,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz CLS 400 d 4M AMG*Sitzklima*Designo*Burmester,69.849 € (Brutto),25.998 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,12/2018,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz G 350 d Harman Kardon+Standhz+AHK+Comand+Kamera,71.480 €,53.897 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,11/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz CLS 400 d 4M *STANDHEIZUNG*DISTRONIC*HEAD-UP*,69.900 € (Brutto),10.541 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,2020,01/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 220 d 4MATIC T-Modell AMG-Line+Standheizung,73.480 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 400 d 4M Coupé AMG Line Distro+Pano+Stand+HuD,69.890 € (Brutto),8.335 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,2020,01/2020,4,2/3,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz EQV 300 LANG LED+360 Kamera+KLIMA+DAB+THERMOTRON,72.689 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,12/2020,7,4/5,Euro1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQV 300 LANG LED+360 Kamera+KLIMA+DAB+THERMOTRON,72.689 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,12/2020,7,4/5,Euro1,"Andere, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz CLS 53 AMG 4M+ AMG Night Distronic SHD Memory EQ,73.339 € (Brutto),11.666 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ Com LED Pano Standh Burmes Airmatic,68.909 € (Brutto),20.900 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 43 AMG 4M Night Distr Burmester Pano AHK MBU,71.706 € (Brutto),9.979 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLA 45 S Coupé NIGHT+PANO+DRIVERP+MULTIBEAAM,74.619 € (Brutto),4.444 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,11/2020,5,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4Matic AMG-Line **22 Zoll/AHK/Keyless**,71.890 €,8.100 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz Schöner C63s Cabriolet,68.500 €,39.000 km,-1,375 kW (510 PS),Benzin,Automatik,-1,07/2017,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz AMG C 63 S Cabrio,70.000 €,19.000 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,04/2019,4,2/3,Euro6d-TEMP,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz SL 63 V8 Biturbo AMG absolut Vollausstattung,69.500 €,42.600 km,5.461 cm³,395 kW (537 PS),"Benzin, E10-geeignet",Automatik,-1,10/2012,2,2/3,-1,Cabrio / Roadster,2,-1
+Mercedes-Benz C 63 AMG Coupé Comand Pano.-Dach AMG-Night-Paket,73.859 € (Brutto),5.988 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,2019,06/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,-1
+Mercedes-Benz G -Modell Station G 63 AMG DESIGNO*BRABUS*FOND*T,72.580 € (Brutto),74.690 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,11/2013,5,4/5,Euro5,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz V 300 d 4M AVANTGARDE EDITION Lang AHK AMG Pano.,68.723 € (Brutto),6.472 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,02/2020,8,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz S 400 Coupe 4Matic AMG*DESIGNO* MAYBACH,69.900 €,60.000 km,2.996 cm³,270 kW (367 PS),Benzin,Automatik,-1,06/2016,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz CLS 53 AMG 4MATIC+ J.S. GARANTIE NP 116000€ VOLL,69.995 €,15.253 km,3.000 cm³,320 kW (435 PS),Benzin,Automatik,-1,11/2018,5,4/5,Euro6,Sportwagen / Coupé,3,Unfallfrei
+Mercedes-Benz G500*STATION*NAVI*LEDER*TV*BI-XENON*SPORTPAKET*,74.990 € (Brutto),49.765 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,10/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLS 350d AMG DESIGNO EXKL CAM360° PANO StndHz,69.170 € (Brutto),20.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,04/2017,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 63 AMG *Mattlack*NIGHT*HUD*MULTIBEAM*AMG-Abgas,69.998 € (Brutto),17.900 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,2019,02/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen 360° Pano Multibeam,69.646 € (Brutto),10.566 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz G 350 d Exkl-Paket Stdhzg Sportpak Harman COMAND,74.775 € (Brutto),66.321 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen 360° Stdhzg Pano AHK,69.800 € (Brutto),8.500 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,09/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 EAV AMG MBUX AHK Standheizung Sitzklima,71.808 € (Brutto),1.041 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 AMG Coupe S EDITION 1 Keramik Pano Burmeste,70.660 € (Brutto),49.750 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2017,10/2017,4,2/3,Euro6,Sportwagen / Coupé,1,-1
+Mercedes-Benz G 350 d Exkl-Paket Stdhzg Harman COMAND Xenon,73.749 € (Brutto),82.507 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz E 53 AMG 4M+ COUPÉ COMAND+MULTIBEAM+PANO+MEMORY+,71.189 € (Brutto),4.990 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,08/2020,4,2/3,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 63 AMG T S 4M+ Fahrass.Wide.COM.Pano.Stdhzg.Dr,68.723 € (Brutto),69.518 km,3.982 cm³,450 kW (612 PS),"Benzin, E10-geeignet",Automatik,-1,09/2017,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz S 400 d L 4M AMG Nachtsicht Fondent 360° Stdhzg,70.774 € (Brutto),62.005 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,2,Unfallfrei
+Mercedes-Benz GLE 63 AMG 4M Perf-Abgas 360° Airmat Stdhzg,70.672 € (Brutto),43.562 km,5.461 cm³,410 kW (557 PS),"Benzin, E10-geeignet",Automatik,-1,05/2018,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz S 560 4Matic,69.880 € (Brutto),38.000 km,3.982 cm³,345 kW (469 PS),Benzin,Automatik,-1,02/2019,5,4/5,Euro6,Limousine,2,-1
+Mercedes-Benz E 300 e 4M AMG Line Business Night Fahr-Ass Pano,68.938 € (Brutto),5.500 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,Euro6d,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 e 4M AMG Line Business Night Fahr-Ass Pano,68.938 € (Brutto),5.500 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,Euro6d,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 300 d AMG 4M Modell 2020 MBUX Standheizung,73.851 € (Brutto),18.989 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,2019,11/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",2,-1
+Mercedes-Benz G 63 AMG AMG SPEEDSHIFT 7G-TRONIC,72.500 €,59.900 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,07/2015,5,4/5,Euro5,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz SL 300 Roadster Gullwing Replica,69.500 €,12.800 km,5.000 cm³,206 kW (280 PS),Benzin,Schaltgetriebe,-1,06/2003,2,2/3,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz E 63 AMG S T 4M Sportpaket COMAND ILS Memory,71.340 € (Brutto),48.542 km,3.982 cm³,450 kW (612 PS),"Benzin, E10-geeignet",Automatik,-1,12/2018,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz S 400 d 4M lang AMG Multibeam Pano BM FondTV Kam,70.785 € (Brutto),37.100 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,07/2019,-1,-1,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz S 400 d 4M lang AMG Multibeam Pano BM FondTV 360,69.985 € (Brutto),42.800 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz E63S AMG*EDT1*DriverPack*3DBURM*PANO*,73.900 € (Brutto),89.000 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,2,Reparierter Unfallschaden
+Mercedes-Benz V 250 EDITION Marco Polo,68.220 € (Brutto),12.205 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2019,4,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz C 43 AMG 4MATIC,74.990 € (Brutto),2.999 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,10/2020,-1,4/5,-1,"Limousine, Vorführfahrzeug",1,-1
+Mercedes-Benz S 400 d 4M lang *AMG*Sitzklima*Pano*HUD*SHZ*,71.849 € (Brutto),47.341 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,03/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz GLE 350 d 4M AMG HUD Burmester Fahrassist.,71.676 € (Brutto),15.101 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,05/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLS 450 4M Coupé *AMG-Line*Pano.*Burmester*LED*,74.749 € (Brutto),1.500 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,11/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d 4M lang *AMG*Sitzklima*Multibeam*Comand*,69.849 € (Brutto),57.668 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,03/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz CLS 53 AMG 4M+ Np.1062015€ Distr. Standh. Multib,72.879 € (Brutto),29.800 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,2020,02/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 450 AMG PAKET 4 MATIC*1 HAND*19TKM*EURO6,69.950 € (Brutto),19.000 km,2.999 cm³,286 kW (389 PS),Benzin,Automatik,-1,12/2019,5,4/5,Euro6d,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C63 S AMG Limo Burmester Multib Distr HUD,73.104 € (Brutto),5.000 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,07/2020,5,4/5,Euro6d-TEMP,Limousine,-1,Unfallfrei
+Mercedes-Benz 4MATIC T-Modell COMAND/MULTIBEAM/360° Kamera,72.480 € (Brutto),3.000 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,2020,11/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,-1
+Mercedes-Benz GLE 350 d 4M Coupé AMG+Harman+Carbon+Comand,69.747 € (Brutto),25.005 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,04/2019,5,4/5,Euro6c,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz Mercedes Benz G300 CDI Professional Editio...,72.500 €,50.500 km,-1,135 kW (184 PS),Diesel,Automatik,-1,11/2013,-1,-1,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz Marco Polo 250 d Fahrassist.*PDC,68.603 € (Brutto),6.100 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,02/2020,4,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,-1
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Multibeam,74.990 € (Brutto),3.724 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,11/2020,7,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d AVANTGARDE EDITION Lang PANO MBUX DIS,73.728 € (Brutto),5.650 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,07/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQV 300 AVANTGARDE Burmester Distronic 360°,71.038 € (Brutto),500 km,-1,150 kW (204 PS),Elektro,Schaltgetriebe,-1,12/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d Lang 4Matic AMG/StHz/Pano/ GEÖFFNET !!!,74.990 € (Brutto),9.431 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,10/2018,5,4/5,Euro6,Limousine,-1,-1
+Mercedes-Benz GLE 350 d 4M AMG HUD Burmester Fahrassist.,70.708 € (Brutto),25.666 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Jahreswagen",1,-1
+Mercedes-Benz GLE 300 d 4M AMG WideScreen Pano Multibeam AHK,68.900 € (Brutto),8.613 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,06/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz AMG GLA 45 S 4MATIC+ AMG+Perform. Sitze,+LED+Pan",72.717 € (Brutto),8.500 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,09/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M COUPÉ AMG LED+NIGHT+DISTR+MBUX+DAB+,69.489 € (Brutto),9.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz C 63 S AMG Coupe*Designo Magno*Pano*Carbon 2*HUD,68.200 € (Brutto),15.611 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,05/2018,4,2/3,Euro6,Sportwagen / Coupé,1,-1
+Mercedes-Benz GLE 350 d 4M AMG Sportpaket Night-Paket Memory,69.880 € (Brutto),13.492 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 400 d 4M AMG Sportpaket Panoramadach,74.880 € (Brutto),19.258 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,12/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 400 d Coupé AMG+MBUX+PANO+AHK+DISTR+MULTIB+,74.619 € (Brutto),4.444 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 300 d 4M AMG Pano*AHK*Distr.*360°*Standheiz.,71.398 € (Brutto),17.200 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC AMG+PANO+KEYLESS+AHK+360+MEMO,68.400 € (Brutto),2.999 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,-1,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 400 d 4M Cabrio AMG Line Head-up DISTRONIC 360,68.900 € (Brutto),7.810 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,06/2020,4,2/3,Euro6d-TEMP,"Cabrio / Roadster, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.657 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC43 AMG 4M Coupe - Distr Perform HeadUp Burmes,72.990 € (Brutto),18.100 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4MATIC Coupé AMG*Fahrassist.*360°,69.899 € (Brutto),6.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 63 AMG S 4MATIC VOLLAUSSTATTUNG Comand TV,68.731 € (Brutto),54.898 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2016,08/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,-1
+Mercedes-Benz GLC 63 AMG 4M+ Night+360°+Navi+PTS+Distronic+AHK,68.888 € (Brutto),12.700 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,2018,12/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz G 350 d Edition Voll+AHK+STDH+,74.950 € (Brutto),37.900 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,2017,09/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d AMG Luftfederung Spur Paket 360°Cam MB,72.990 € (Brutto),5.019 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Jahreswagen",1,-1
+Mercedes-Benz S350 d 4M Lang+HeadUP+SHZ-Klima+Multibeam+Navi,68.301 € (Brutto),15.407 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,2019,02/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz CLS 53 AMG DISTRO Massage GSD Memo HUD KeyGo Bur,73.330 € (Brutto),17.654 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2019,02/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz G400 CDI Cabrio / 1. HAND / SERVICE NEU / DE,69.900 €,77.900 km,3.996 cm³,184 kW (250 PS),Diesel,Automatik,2003,04/2004,5,2/3,-1,Cabrio / Roadster,1,-1
+Mercedes-Benz EQV 300 AVA/Lang/LED/360°/uvm,73.657 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,11/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 63 AMG 4Matic PERF.AGA CARBON B&O JUNGE ST.,69.989 € (Brutto),45.000 km,5.461 cm³,410 kW (557 PS),Benzin,Automatik,-1,04/2016,5,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz E 53 AMG T 4M Sportpaket COMAND DISTRONIC Memory,74.991 € (Brutto),7.535 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,-1,07/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 43 AMG 4M Designo Burmester Fahrassist. LED,74.873 € (Brutto),4.900 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,12/2020,4,2/3,-1,"Cabrio / Roadster, Jahreswagen",1,Unfallfrei
+Mercedes-Benz C 43 AMG 4M Designo Burmester Fahrassist. LED,74.093 € (Brutto),8.900 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,12/2020,4,2/3,-1,"Cabrio / Roadster, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,69.230 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLA 45 AMG S 4M+ Drivers P. Burmester,71.692 € (Brutto),8.900 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,68.451 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Burmester Fahrassist. LED AHK,68.451 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de 4M T AMG Burmester Fahrassist.,69.630 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de 4M T AMG Burmester Fahrassist.,68.553 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de 4M T AMG Burmester Fahrassist.,68.553 € (Brutto),8.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.093 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.431 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,11/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.431 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,11/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.093 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,74.657 € (Brutto),8.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz EQC 4Matic Edition1886+TV+Headup+Wartungsservice,70.980 € (Brutto),13.395 km,-1,300 kW (408 PS),Elektro,Automatik,2019,06/2019,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,2,Unfallfrei
+"Mercedes-Benz Sprinter 319 VIP, MBUX, LED #089/20",73.208 € (Brutto),15 km,2.987 cm³,140 kW (190 PS),Diesel,Automatik,-1,12/2020,5,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M EXCLUSIVE INNEN+PANO+AHK+ASSISTENZ,69.143 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen Stdhzg Pano Multibeam,71.698 € (Brutto),14.496 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 63 AMG,75.000 € (Brutto),60.000 km,-1,-1,Benzin,Automatik,-1,01/2018,5,4/5,-1,Sportwagen / Coupé,1,-1
+Mercedes-Benz GLE 350 d 4m AMG*Night*AHK*Pano*Distr.*Rück-Kam.,68.700 € (Brutto),3.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,08/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED+DISTR+MBUX+AR+KEYLESS+PTS+H,69.189 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED+NIGHT+PANO+DISTR+MBUX+AR+PT,69.189 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen Pano Multibeam Distr.,72.723 € (Brutto),11.316 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz G -Modell Station G 500-Sport-Paket-,69.900 €,90.500 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,03/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Reparierter Unfallschaden
+Mercedes-Benz GLE 350 d 4M AMG LED+NIGHT+PANO+DISTR+MBUX+AR+KE,70.189 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED+NIGHT+PANO+DISTR+MBUX+AR+KE,70.189 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz E 53 AMG T 4M+ Fahrass.Drivers.Wide.Pano.20""Carb",73.852 € (Brutto),23.806 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,-1,03/2020,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED+NIGHT+PANO+DISTR+PTS+SHZ+KL,71.089 € (Brutto),3.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz S 500 4M L AMG,COM,LED,Distr,Pano,Sthzg,TV,360°",68.150 € (Brutto),34.525 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,10/2016,5,4/5,Euro6,Limousine,-1,-1
+"Mercedes-Benz Sprinter 319 LED, MBUX, VIP #068/20",73.080 € (Brutto),15 km,2.987 cm³,140 kW (190 PS),Diesel,Automatik,-1,12/2020,9,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz GLC 300 e 4M C AMG*Dig.-Display*AHK*HUD*SHD*360°,69.800 € (Brutto),3.500 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d+4M+AMG+NIGHT+AIR-BALANCE+BURMESTER+HUD,70.169 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz GLE 350 d+4M+AMG+3SITZREIHE+HUD+KEYLESS+AIRMATIC,70.169 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz GLE 350 d+4M+AMG+NIGHT+MULTIBEAM+HUD+360+AIRMATI,70.169 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,11/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz S 500 Coupe 4Matic 9G-TRONIC,68.900 €,53.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,04/2016,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz C 63 AMG*EDITION 1*PANO*SCHALE*KERAMIK*KAMERA*,70.490 €,32.500 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,05/2016,4,2/3,Euro6,Sportwagen / Coupé,-1,Unfallfrei
+Mercedes-Benz GLE 400 d 4M AMG+NIGHT+FAHRASSISTENZ+MULTIBEAM,71.789 € (Brutto),9.500 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,2020,07/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG Sportpaket Night-Paket DISTRONIC,71.340 € (Brutto),18.680 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,05/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz G 500 Distronic/Designo/Sitzbel/Kamera/Sport-AMG,72.990 €,56.477 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,01/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz C 63 AMG Cabrio +Carbon Paket 2+ VOLL VOLL,69.990 €,17.600 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,2018,12/2018,4,2/3,Euro6,Cabrio / Roadster,2,-1
+Mercedes-Benz CLS 63 BRABUS Rocket Vollausstattung,69.999 €,45.000 km,5.461 cm³,386 kW (525 PS),Benzin,Automatik,-1,03/2012,4,4/5,Euro5,Sportwagen / Coupé,-1,Unfallfrei
+Mercedes-Benz GLS 350 d 4Matic,74.990 € (Brutto),48.990 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,11/2018,7,4/5,Euro6c,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz V 300 d long 4M AMG LINE+ALLRAD+LED ILS+AHK+NAVI,71.281 € (Brutto),16.000 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,07/2020,-1,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 d Marco Polo Spur-P.,72.440 € (Brutto),10.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2020,4,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 63 AMG/Designo/Carbon/Distronic/Magno/Garantie,69.990 €,99.839 km,5.461 cm³,400 kW (544 PS),Benzin,Automatik,-1,04/2014,5,4/5,Euro5,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz GLC 43 AMG 4M Night Distr AHK Pano Ambi Wide 20',71.989 € (Brutto),9.372 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,07/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz EQV 300 AVA/lang/LED/Tisch-Paket,73.759 € (Brutto),6.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,12/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 d Marco Polo/Horizon/Night-Paket/AHK/360°/,68.723 € (Brutto),3.000 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,11/2020,5,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 63 AMG 4M+ T Performance/Comand/Wide/Burm/Memo,74.765 € (Brutto),46.341 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,05/2018,5,4/5,Euro6,Kombi,1,-1
+Mercedes-Benz S 350 d 4M AMG Fahrass.Nachtsicht.Pano.Burm.,68.723 € (Brutto),26.441 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz EQC 400 4M AMG-Line+DISTRONIC+MULTIBEAM+MBUX+Kam,74.159 € (Brutto),5.000 km,-1,300 kW (408 PS),Elektro,Automatik,-1,11/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,72.990 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 350 d Stdhzg Sportpak Harman Xenon Kamera PTS,73.749 € (Brutto),76.917 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,07/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz CLA 45 S 4M+ Coupe Pano Performance Head-Up,68.723 € (Brutto),5.271 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz G 350 d Harman COMAND AHK Xenon Kamera PTS Sitzh,71.698 € (Brutto),43.977 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E 450 Cab. 4M AMG WideScreen 360° Multibeam PTS,68.723 € (Brutto),10.752 km,2.996 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,05/2020,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz E 53 AMG T 4M+ Drivers.Fahrass.Wide.Pano.AHK.Nig,73.852 € (Brutto),23.761 km,2.999 cm³,320 kW (435 PS),"Benzin, E10-geeignet",Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz G 500 L Sportpaket*Sportauspuff*Verstelldämpfung,69.900 €,89.300 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,09/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz C 63 AMG S Abgasanlage*Panoramadach*HUD*Keyless+,71.708 € (Brutto),5.485 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2019,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz G 350 d Exkl-Paket Stdhzg Sportpak Harman COMAND,73.749 € (Brutto),60.912 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,03/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz S 350 d L 4M AMG Nachtsicht 360° Pano Multibeam,70.774 € (Brutto),27.724 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz V 250 EAV Kompakt MBUX AMG Tisch Night AHK,69.655 € (Brutto),821 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 EAV AMG MBUX Tisch Panorama,73.759 € (Brutto),2.388 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLS 63 AMG 4M COMAND*STANDHEIZUNG*AHK*KAMERA*LED,74.878 € (Brutto),33.808 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,11/2017,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 400 d 4MATIC AMG Line Exterieur/Xenon/SHZ,69.790 € (Brutto),7.950 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,2020,09/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz S 350 d 4M Lang AMG Pano/HuD/360°/23P/FahrAss-P,70.261 € (Brutto),29.784 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz G 350 d Stdhzg COMAND Xenon Kamera PTS Sitzh,70.672 € (Brutto),72.301 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,06/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz CLA 45 AMG S 4M Perfor Sitze Aerodynamik 360 Mul,72.900 € (Brutto),4.900 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,08/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 63 AMG S 4M DRIVERS P.+SITZKL.+BANG&OLUFSEN,69.899 €,44.444 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,11/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz CLS 53 AMG Turbo 4Matic + NP 105.000€,74.999 €,13.000 km,2.999 cm³,320 kW (435 PS),Hybrid (Benzin/Elektro),Automatik,-1,11/2019,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz E 63 AMG S 4M+ Drivers.Wide.COM.Pano.Night.Multi,71.800 € (Brutto),55.133 km,3.982 cm³,450 kW (612 PS),"Benzin, E10-geeignet",Automatik,-1,10/2017,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz GLE 400 d 4M Airm 360° Pano AHK 7 Sitz Distr LED,69.990 € (Brutto),21.113 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,12/2019,7,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz EQV 300 **Avantgarde/360°/Navi/LED/Burmester,74.659 € (Brutto),4.201 km,-1,0 kW (0 PS),Elektro,Automatik,-1,12/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz AMG CLA 45 S 4MATIC+ Shooting Brake Drivers P.,69.849 € (Brutto),3.000 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,11/2020,5,4/5,Euro6d,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 S AMG PANO+AMGPer.Abgas+BusinessPaket-Plus,72.308 € (Brutto),7.783 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2019,11/2019,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz V 300 Marco Polo Navi Kamera AHK Markise Lugano,71.698 € (Brutto),21.057 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,06/2020,4,4/5,Euro6d,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S 400 d L 4M AMG Line Plus/FahrAss/Beam/HeadUp,73.816 € (Brutto),39.275 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,2018,05/2018,5,4/5,Euro6c,Limousine,1,-1
+Mercedes-Benz E 53 AMG 4M Lim COMAND*Distr.*Night*Widesc.*Pano,69.748 € (Brutto),11.700 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2020,03/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,-1
+"Mercedes-Benz 500 SLC, 1 Besitzer, Komplett dokumentiert !!",69.900 €,99.243 km,4.939 cm³,177 kW (241 PS),Benzin,Automatik,1981,05/1981,5,2/3,-1,"Sportwagen / Coupé, Oldtimer",1,Unfallfrei
+Mercedes-Benz A 45 AMG S 4M Night+MBUX+360°+M-LED+Distro+Pano,68.723 € (Brutto),4.593 km,1.991 cm³,310 kW (421 PS),Benzin,Automatik,-1,08/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 e 4M AMG *Mopf* Night+MBUX+360°+M-LED+Pano,69.979 € (Brutto),8.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG *Mopf*+MBUX+360°+M-LED+Pano+AHK,68.998 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M AMG Line BUSINESS High-End SD AHV,74.961 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,71.150 € (Brutto),8.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz SL 500,deutsches Fzg,Klima,seltener 4 Sitzer,",69.900 €,134.679 km,4.939 cm³,164 kW (223 PS),Benzin,Automatik,1986,01/1986,-1,2/3,-1,Cabrio / Roadster,2,-1
+Mercedes-Benz GLE 300 d AMG NAVI WIDE RFK AHK LED HECKK.EL.,71.880 € (Brutto),150 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,2020,12/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+"Mercedes-Benz GLE 300 d 4M AMG,Nightp.,PDC,LED,PanoDach,360°",68.218 € (Brutto),4.400 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,11/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 63 S AMG Coupé 4Matic*NEUESERVICE*NETTO62500,72.500 € (Brutto),82.956 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,01/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLE 300 d 4Matic AMG-Line*Burmester*360° Kamera,71.800 € (Brutto),10.337 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz E 63 AMG 4M+ 9G-Speedshift *Burmester*Standhzg*,71.800 € (Brutto),64.717 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,06/2018,5,4/5,Euro6,Limousine,0,-1
+Mercedes-Benz GLS 63 AMG 4Matic,74.240 € (Brutto),99.999 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,07/2016,7,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz GLE 400 d 4M /20Zoll/Multibeam/Widescreen/Pano-D,69.564 € (Brutto),9.669 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,09/2019,5,4/5,-1,SUV / Geländewagen / Pickup,1,Unfallfrei
+"Mercedes-Benz S 350 L d 4M, AMG, HUD, MASSAGE, BURM, 360°,PANO",73.790 € (Brutto),25.900 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+"Mercedes-Benz EQC 400 4M AMG19""+DISTR+HUD+MULTIBEAM+BURMESTER",73.500 € (Brutto),2.999 km,-1,300 kW (408 PS),Elektro,Automatik,-1,08/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz E 63 AMG S 4Matic+,HUD,Pano,Keramik,Burmester,20",68.990 € (Brutto),67.000 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,05/2017,5,4/5,Euro6,Limousine,-1,Unfallfrei
+Mercedes-Benz V 250 4MATIC Lang *Off-Road*GEOTRACK*Camper*,74.820 € (Brutto),35.200 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,2017,03/2017,6,4/5,Euro6,Van / Minibus,1,Unfallfrei
+Mercedes-Benz S 400 d 4M lang AMG Multibeam Pano BM FondTV 360,71.986 € (Brutto),22.700 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,06/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz S 500 Coupe 4Matic AMG Speedshift Plus LED/Navi/,69.750 € (Brutto),42.485 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,2015,06/2015,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz V 250 EXCL 4MATIC *AMG*TISCH*PANO-DACH*KÜHLFACH*,68.712 € (Brutto),15.250 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,09/2019,7,4/5,Euro6c,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d 4M AMG 360° Stdhzg Pano Burmester AHK,74.991 € (Brutto),421 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,10/2020,-1,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG LED PANO FAHRASS. DISTRONIC,73.700 € (Brutto),3.916 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 350 d L 4M AMG Fahrass.Nachtsicht.Pano.HuD.Bur,68.723 € (Brutto),35.456 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz E 400 d T 4M AMG Fahrass.Airb.Multi.SHD.AHK.,73.339 € (Brutto),4.618 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,08/2020,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz V 250 d 4Matic Marco Polo Edition AMG Comand LED,69.010 € (Brutto),21.791 km,2.143 cm³,140 kW (190 PS),Diesel,Automatik,-1,05/2019,4,4/5,Euro6c,Van / Minibus,2,Unfallfrei
+Mercedes-Benz C 63 AMG S Navi DriversP Multibeam Pano Night,73.852 € (Brutto),22.343 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,03/2020,5,4/5,Euro6d,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz V 300 Marco Polo Navi Kamera AHK Markise Lugano,71.698 € (Brutto),21.057 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,06/2020,4,4/5,Euro6d,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 300 e T AMG+MEMORY+360°+FAHRASSISTENZ+NIGHT,69.900 € (Brutto),2.999 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,-1,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 250 Marco Polo Horizon PDC,69.738 € (Brutto),2.490 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,11/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLS 63 AMG 4M *Distronic*Airmatic*Pano*Sitzklima,71.880 € (Brutto),50.686 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2016,10/2016,7,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz V 300 d AVANTGARDE EDITION Lang AHK Navi LED SHZ,69.014 € (Brutto),3.250 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2020,09/2020,7,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 Marco Polo Navi Kamera 2.8to AHK Leder,73.031 € (Brutto),19.694 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,06/2020,4,4/5,Euro6d,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz CLS 450 4M AMG Line+360°+SchiebeD+KEYLESS+MULTIB,69.030 € (Brutto),3.256 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,2019,10/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d+4M+AMG+NIGHT+MEMORY-P.+360°+MULTIBEAM,70.169 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,-1
+Mercedes-Benz Roadster SL 63 AMG Edition 1 Facelift Designo,73.990 €,29.800 km,5.461 cm³,415 kW (564 PS),Benzin,Automatik,-1,07/2013,2,2/3,Euro5,Cabrio / Roadster,-1,-1
+Mercedes-Benz V 300 d Edition Avantgarde 4M AMG+9G+Kühlfach,71.707 € (Brutto),18.034 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,03/2020,7,4/5,-1,"Van / Minibus, Jahreswagen",1,-1
+Mercedes-Benz GLE 350 de Cp. 4M AMG WideScreen 360° Multibeam,73.450 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 de Cp. 4M AMG WideScreen 360° Multibeam,72.900 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,-1,4/5,Euro6,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG FAHRASSIST-BURMESTER-KEYLESS-AHK,69.979 € (Brutto),33.975 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+"Mercedes-Benz Mercedes-Benz AMG GT Coupe, Automatik, Ker...",72.500 €,49.000 km,-1,340 kW (462 PS),Benzin,Automatik,-1,06/2015,-1,-1,-1,Sportwagen / Coupé,-1,-1
+Mercedes-Benz GLE 350 d 4M AMG+AIRM+PANO+BURMESTER+AHK+7SITZE,74.900 € (Brutto),15.812 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,09/2019,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG+AIRM+PANO+BURMESTER+AHK+7SITZE,74.900 € (Brutto),15.812 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,09/2019,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E -Klasse Lim. E 220 d AMG Pano,69.890 € (Brutto),100 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6d,Limousine,1,Unfallfrei
+Mercedes-Benz C 63 AMG Cabr. AMG Perf. Sitze* Head-Up*Burm.,68.850 €,13.500 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,01/2019,4,2/3,Euro6d-TEMP,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz V 300 Marco Polo Navi Kamera 2.8to AHK Leder,73.031 € (Brutto),19.694 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,06/2020,4,4/5,Euro6d,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé *AMG*NIGHT*MBUX NAVI*SPUR-P.,69.707 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé *AMG*MBUX NAVI*DISTRONIC*LED,69.707 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé *AMG*MBUX NAVI*DISTRONIC*LED,71.759 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 63 AMG 4M AHK+Distronic+Head-up+Burmester+TV,71.698 € (Brutto),33.385 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,11/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz Mercedes-AMG E 63 4M+ Panorama Standh Fahrass.-P,68.620 € (Brutto),14.550 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,03/2018,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz Mercedes-AMG E 63 4M+ Panorama Standh Fahrass.-P,68.620 € (Brutto),14.550 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,03/2018,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz Mercedes-AMG C 63 Cabrio Head-Up Sounds. COMAND,70.620 € (Brutto),12.070 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,07/2019,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,-1
+Mercedes-Benz Mercedes-AMG C 63 Cabrio Head-Up Sounds. COMAND,70.620 € (Brutto),12.070 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,07/2019,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,-1
+Mercedes-Benz GLE 63 AMG S Coupe*PANO*DRIVERS-PAK./360°/MATT/,69.850 € (Brutto),91.800 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,01/2018,5,4/5,-1,Sportwagen / Coupé,3,Unfallfrei
+Mercedes-Benz S 400 d 4M AMG Line Distr HeadUp Burmester Pano,74.354 € (Brutto),27.320 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,-1
+Mercedes-Benz S 400 d 4M AMG Line Distr HeadUp Burmester Pano,74.354 € (Brutto),27.320 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,-1
+Mercedes-Benz S 500 Coupe 4Matic 9G-TRONIC,69.000 €,98.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,06/2016,4,2/3,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz GLE 350 d 4M AMG*7-SITZE*AIR*PANO*AHK*BURM*MBEAM,69.600 € (Brutto),21.798 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,07/2019,7,4/5,-1,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz V 300 Marco Polo 4-Matic Comand Fahrassist.,68.879 €,5.818 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2019,4,4/5,-1,Van / Minibus,1,Unfallfrei
+Mercedes-Benz V 250 Marco Polo Horizon PDC,69.235 € (Brutto),4.900 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,11/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S-Klasse Coupe S 63 AMG 4Matic SWAROVSKI,72.890 € (Brutto),87.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,08/2014,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz GLE Coupe 350 d 4Matic AMG Paket Line,68.890 € (Brutto),13.000 km,2.987 cm³,190 kW (258 PS),Diesel,Automatik,-1,04/2019,5,4/5,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz E 300 de T-Modell+Facelift+MBUX+AMG-Line,69.997 € (Brutto),1.776 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 400 d L 4M*S63 AMG*WIR HABEN GEÖFFNET!*,74.963 € (Brutto),59.999 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,01/2018,5,4/5,Euro6,Limousine,-1,Unfallfrei
+Mercedes-Benz GLE 450 AMG Coupe / 43 AMG 4Matic VOLL LP121.576,72.900 € (Brutto),9.300 km,2.996 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,12/2016,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz C 63 AMG S *KERAMIK*HUD*ACC*PANO*360°*SITZ*AUSPU,72.990 € (Brutto),8.400 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,01/2019,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 350d 4M AMG-LINE+Drive-Pilot+AHK+PANORAMA,68.189 € (Brutto),11.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2020,04/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Jahreswagen",2,Unfallfrei
+Mercedes-Benz E 300 de T Avantgarde AMG ext. Fahr-Ass Pano AHK,68.425 € (Brutto),9.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz SL 600 Individual 35TKM Bester Zustand Garantie,68.900 €,35.700 km,5.513 cm³,380 kW (517 PS),Benzin,Automatik,-1,01/2011,2,2/3,Euro5,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz S 400 d 4M ENp 141200 AMG Nachts 4x Sitzkl. 4x M,73.700 € (Brutto),26.000 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz G 350 d 7G-TRONIC,73.900 €,54.000 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,08/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz GLE 350 d 4M Exclusive +Airmatic+Pano+Burmester+,74.400 € (Brutto),17.417 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",2,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Multibeam,71.990 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 450 Cp. 4M AMG WideScreen 360° Multibeam PTS,74.400 € (Brutto),8.500 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,10/2020,-1,2/3,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Mercedes Benz S 560 4MATIC Limousine,74.990 €,40.300 km,-1,254 kW (345 PS),Benzin,Automatik,-1,10/2017,-1,-1,-1,Limousine,-1,-1
+"Mercedes-Benz GLE 450 4M AMG Night 20"" AHK AIRMATIC Memory ILS",69.990 € (Brutto),7.983 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,06/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz AMG E 63 s 4M+ -DriversP-Pano-Carbon-NP 153,-€",73.980 € (Brutto),53.500 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,07/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ ENp 105500 Com. Distr. Mem Massage,68.999 € (Brutto),15.800 km,2.999 cm³,336 kW (457 PS),Benzin,Automatik,-1,05/2020,4,2/3,Euro6,Cabrio / Roadster,1,-1
+Mercedes-Benz EQC 400 4M Edition 1886 NP: 98.163€ Wartung inkl,74.900 € (Brutto),5.856 km,-1,300 kW (408 PS),"Elektro, Plug-in-Hybrid",Automatik,-1,06/2019,5,4/5,Euro6d,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz S 63 AMG 4M L BURMESTER 3D DESIGNO CARBON EXCL.,69.990 € (Brutto),95.438 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,09/2016,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz S -Klasse Coupe S 63 AMG 4Matic *Voll*,74.980 €,73.420 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2014,12/2014,4,2/3,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz E 300 de T AMG/Avantgarde Distro Multibeam 360°,71.758 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG/Avantgarde Multibeam Distro. AHK,71.758 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG/Avantgarde Distro. PanoD Burmeste,68.680 € (Brutto),9.999 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,10/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz G -Modell G 300 CDI Professional |Snorkel | 16 """,69.900 € (Brutto),65.500 km,2.987 cm³,135 kW (184 PS),Diesel,Automatik,-1,08/2013,4,4/5,Euro5,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 63 AMG S 4M Driversp Perf-Sitze Perf-Abgas,74.775 € (Brutto),41.171 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz Marco Polo 300 CDI 4MATIC HORIZON EDITION AMG,68.630 € (Brutto),16.907 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2019,5,4/5,Euro6d-TEMP,Van / Minibus,1,-1
+Mercedes-Benz V 300 d lang Edition AMG 360° Stdhzg Pano Distr,71.800 € (Brutto),10 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,09/2020,-1,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T AMG-MBUX-AHK-360°-MEMORY-UMWELTBONUS,69.384 € (Brutto),10.500 km,1.950 cm³,143 kW (194 PS),Hybrid (Diesel / Elektro),Automatik,-1,07/2020,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz S 350 d L 4M AMG Nachtsicht 360° Pano Multibeam,68.723 € (Brutto),34.026 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 500 4M AMG-LUXURY-MASSAGE-AIRMATIC-PANO,69.553 € (Brutto),37.000 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,2017,11/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 43 AMG 4M AMG-ORANGE ART-360°-DISTRONIC-PANO,69.312 € (Brutto),15.000 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,07/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz V 300 EAV AMG MBUX AHK Panorama Sitzklima,73.759 € (Brutto),1.931 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,11/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Marco Polo 250d EDITION SPORT Touchpad Eu6d-Temp,73.759 € (Brutto),2.001 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,12/2020,4,4/5,Euro6d-TEMP,Van / Minibus,9,-1
+Mercedes-Benz C 63 AMG S T Performance Abgas Vmax Burm Pano,71.698 € (Brutto),18.518 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,06/2020,5,4/5,Euro6d-TEMP,"Kombi, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Airmatic LED Panorama AHK Parkp,68.712 € (Brutto),13.636 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,10/2019,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M C+AMG+SITZKLIMA+ASSISTENZ+AHK+360°,69.747 € (Brutto),9.900 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz GLC 300 de 4M AMG Line BUSINESS High-End SD 19""",68.138 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 43 AMG,68.000 € (Brutto),16.000 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,11/2019,5,4/5,Euro6c,SUV / Geländewagen / Pickup,2,-1
+"Mercedes-Benz E 53 AMG 4 M+Driver's Pak.V-max. NP :118.000,-Vo",69.990 € (Brutto),46.600 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,04/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz CLS 400 d 4M AMG EDITION 1 AIR+STANDH+SERVOSCHL,68.886 € (Brutto),23.252 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,08/2018,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,-1
+"Mercedes-Benz GLE 63 S AMG 4M ,Offen, Pano,Carbon,1.HD,",69.900 € (Brutto),26.900 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,03/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E 300 T de AVANTGARDE HYBRID+DTP+AHK+SCHIEBEDACH,68.117 € (Brutto),4.500 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 350 d Distronic -Memory-AHK-Leder-Standheizung,71.800 €,71.500 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,11/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz Mercedes C63 Amg S T Performance Sitze und...,68.990 €,12.500 km,-1,375 kW (510 PS),Benzin,Automatik,-1,11/2018,-1,-1,-1,Kombi,-1,-1
+Mercedes-Benz GLE 450 4M AMG-Line+AIRMATIC+DISTRONIC+AHK+Pano,71.625 € (Brutto),9.985 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,01/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de 4M AMG-Line+Pano+DISTRON+MULTIBEAM+Kam,69.706 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 300 4M AMG LINE 7SITZ+PANO+MBUX+DISTRO+AHK+,73.109 € (Brutto),20 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,06/2020,7,4/5,Euro6d,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz GLC 400 COUPE 4M AMG LINE NIGHT+DISTRO+360+MBUX+,68.371 € (Brutto),120 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,-1,08/2020,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz E 300 de 4M T *MOPF*AMG+AHK+Pano-Dach+Distronic+,69.849 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,09/2020,5,4/5,Euro6d,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 350 d designo COMAND AHK Xenon Kamera PTS Temp,69.748 € (Brutto),74.344 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2016,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,74.990 € (Brutto),3.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,11/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 350 d L 4M AMG Nachtsicht 360° Pano Multibeam,71.800 € (Brutto),26.657 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz CLS 450 4MATIC Coupé AMG Line Burmester LED AHK,74.900 € (Brutto),3.000 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,68.226 € (Brutto),8.500 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 S Coupe *AERODYNAMIK PAKET*PANORAMA*,71.980 € (Brutto),45.900 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,03/2019,4,2/3,Euro6c,Sportwagen / Coupé,1,-1
+Mercedes-Benz C 63 AMG S T Pano Distronic VDigi Multibeam PTS,73.749 € (Brutto),13.738 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,11/2019,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz GLE 350 de 4M Park Paket+AHK+MULTIBEAM+SpiegelP,71.400 € (Brutto),8.100 km,1.950 cm³,143 kW (194 PS),"Diesel, E10-geeignet, Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 63 AMG Coupe 4Matic Swarovski Keramik Garantie,69.800 €,98.800 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,11/2014,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz V 300 d lang Edition AMG 360° Stdhzg Burmester,70.774 € (Brutto),3.963 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2020,-1,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 63 AMG Night Perfomance Massage Pano 360°AHK,68.800 €,72.500 km,5.461 cm³,410 kW (557 PS),Benzin,Automatik,2017,07/2017,5,4/5,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Burmester Fahrassist.,71.692 € (Brutto),4.900 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2020,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 300 de T Avantgarde AMG ext. Fahr-Ass Pano AHK,69.235 € (Brutto),9.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,08/2020,5,4/5,Euro6d,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G350d Harman/Kardon Sport/Exklusiv-Paket Standhz,70.900 €,72.927 km,2.987 cm³,180 kW (245 PS),Diesel,Automatik,-1,01/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,3,Unfallfrei
+Mercedes-Benz V 300 d Edition Avantgarde 4x4 lang AMG MBUX AHK,74.444 € (Brutto),3.500 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2020,12/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 S AMG+PerfAbg+Aktionspreis Übernahme 2020,69.246 € (Brutto),15.770 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz S 560 4MATIC Distronic/PanoDach/COMAND/Sitzklima,71.800 € (Brutto),57.160 km,3.982 cm³,345 kW (469 PS),Benzin,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz C 63 AMG S Coupé Night/Comand/LED/DriversPackage,71.450 € (Brutto),31.250 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2018,12/2018,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz C 63 s amg,71.000 €,18.700 km,-1,375 kW (510 PS),-1,Automatik,-1,04/2019,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz GLA 45 AMG S 4M Driversp 360° Multibeam Keyl-GO,69.900 € (Brutto),2.001 km,1.991 cm³,310 kW (421 PS),"Benzin, E10-geeignet",Automatik,-1,12/2020,5,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz G 500 GUARD/*FACTORY-ARMOURED*B7*Brabus,75.000 €,112.492 km,4.966 cm³,218 kW (296 PS),Benzin,Automatik,-1,08/2002,5,4/5,-1,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz S63 AMG COUPE 4M BURMESTER PANO 21'' KERAMIK,69.700 €,115.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,09/2014,4,2/3,Euro6,Sportwagen / Coupé,-1,-1
+Mercedes-Benz AMG C 63 AMG BRABUS VOSSEN KW Designo 622PS,72.500 €,49.000 km,3.982 cm³,457 kW (621 PS),Benzin,Automatik,-1,05/2017,5,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz S 63 AMG COUPÈ*4M*LED*COMAND*DISTRO*PANO*NIGHT V,73.899 €,52.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,10/2014,4,2/3,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz AMG E 63 4Matic AMG Speedshift 9G-MCT *Pano*LED*,68.990 €,41.710 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,04/2019,5,4/5,Euro6d-TEMP,Limousine,2,Unfallfrei
+Mercedes-Benz E 63 AMG 4M+2020|DISTR+|PANO|360°|F.ASSIST PLUS,69.880 € (Brutto),19.000 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,2019,10/2019,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ Burmester*NIGHT*HUD*Drivers-Paket++,68.628 € (Brutto),7.587 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2018,07/2018,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz S 63 AMG Coupe 4M*Capristo*MAXIMUM VOLL*2.Hand*,74.990 €,108.200 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,03/2015,4,2/3,Euro6,Sportwagen / Coupé,2,-1
+Mercedes-Benz V 250 4M Marco Polo Horizon PDC,68.210 € (Brutto),4.900 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,11/2020,6,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE63*AMG S*COUPE*3xTV*360*ACC*SOFTCLOSE*H&K*LED,69.990 € (Brutto),59.780 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,09/2016,5,4/5,Euro6,Sportwagen / Coupé,1,-1
+Mercedes-Benz C 63 S AMG Coupe *CARBON*PERF-AGA*VOLL*,68.890 €,27.200 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2017,07/2018,4,2/3,Euro6,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG*Panoramadach*Multibeam-LED*AHK+++,70.681 € (Brutto),15.040 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,2019,01/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 63 AMG S 4Matic+ Carbon Keramik Pano,68.900 €,92.180 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,06/2017,5,4/5,Euro6,Limousine,2,Unfallfrei
+"Mercedes-Benz V 300 EXCLUSIVE EDITION L+TISCH+KÜHLFACH+AHK2,5T",74.999 € (Brutto),3.500 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S 350 d 4M AMG+Pano+AirBalance+Magic+Servo+Head,68.890 € (Brutto),22.099 km,2.925 cm³,210 kW (286 PS),Diesel,Automatik,2020,05/2020,5,4/5,Euro6d-TEMP,"Limousine, Jahreswagen",1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ Sitzklima*Designo*Multibeam*HUD*Air,73.849 € (Brutto),30.272 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,11/2018,4,2/3,Euro6d-TEMP,Cabrio / Roadster,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4MATIC +AMG+Distronic+Pano.-Dach+360°+,71.799 € (Brutto),29.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,2019,12/2019,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",2,-1
+Mercedes-Benz S 63 AMG Cp. 4M designo Driversp Fahrass 360°,74.990 €,65.610 km,5.461 cm³,430 kW (585 PS),"Benzin, E10-geeignet",Automatik,-1,04/2015,4,2/3,Euro6,Sportwagen / Coupé,3,Unfallfrei
+Mercedes-Benz S 400 d 4M AMG DISTRONIC Pano HuD 360° 23P,74.878 € (Brutto),27.671 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Fahrass WideScreen 360° Pano,72.723 € (Brutto),6.882 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz S 560 4M 360° Pano Multibeam Burmester Distr.,71.800 € (Brutto),47.997 km,3.982 cm³,345 kW (469 PS),"Benzin, E10-geeignet",Automatik,-1,11/2017,5,4/5,Euro6,Limousine,1,-1
+Mercedes-Benz V 250 Marco Polo 4 Matic,71.388 € (Brutto),19.203 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,02/2020,4,4/5,Euro6d-TEMP,Van / Minibus,1,Unfallfrei
+Mercedes-Benz Klasse GLE 350 d 4Matic AMG*7-Sitzer,71.297 € (Brutto),9.600 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2019,7,4/5,Euro6d,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 63 AMG 4M Perf-Sitze Perf-Abgas Fahrass Pano,71.698 € (Brutto),30.385 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,-1,12/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé *AMG*MBUX NAVI*DISTRONIC*LED,68.681 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 d 4M AMG Distr. LED AHK Night Kamera 9G,69.294 € (Brutto),3.000 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,03/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz S 400 d 4M L DISTRONIC HuD 360° 19"" WERKSWAGEN",71.800 € (Brutto),10.476 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,07/2019,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Multibeam HUD,71.150 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,7,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4M AMG WideScreen 360° Pano Distr. LED,73.749 € (Brutto),12.558 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz C 43 AMG T 4M Perf-Sitze Perf-Abgas WideScreen,68.226 € (Brutto),5.000 km,2.996 cm³,287 kW (390 PS),Benzin,Automatik,-1,11/2020,-1,4/5,Euro6d,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Pano Multibeam,71.150 € (Brutto),5.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2020,-1,4/5,Euro6,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLE 450 4Matic 9G-TRONIC AMG Line,73.900 €,49.000 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,09/2019,7,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz GLE 350 d 4M AMG Line AHK Pano Assistenz Kamera,69.900 € (Brutto),15.728 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,10/2019,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG WideScreen 360° Multibeam AHK,68.415 € (Brutto),28.601 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,04/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz S 400 d 4M lang AMG/Comand/Multibeam/Pano/360°,68.950 € (Brutto),23.900 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,2019,07/2019,5,4/5,Euro6d-TEMP,Limousine,1,-1
+Mercedes-Benz C 63 AMG Cp. Perf-Sitze+Abg Pano Distr Burmester,69.441 € (Brutto),13.538 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,-1,08/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz C63 AMG Coupe ab 635,62 €/mtl.",69.900 €,18.000 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,12/2018,4,2/3,-1,Sportwagen / Coupé,2,Unfallfrei
+"Mercedes-Benz G500 ab 653,80 €/mtl.",71.900 €,80.463 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,12/2016,5,4/5,-1,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz S63 AMG 4MATIC Edition/BURM/PANOR/SCHECKHEFT.MB,71.900 €,89.884 km,5.461 cm³,430 kW (585 PS),"Benzin, E10-geeignet",Automatik,-1,11/2014,4,2/3,Euro6,Sportwagen / Coupé,-1,-1
+"Mercedes-Benz S 560 L 4M AMG PLUS*DISTR+*M-BEAM*WIDES*20""*MEGA",71.809 € (Brutto),58.000 km,3.982 cm³,345 kW (469 PS),Benzin,Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz V 300d AMG Line 4 Matic Nappa Leder Burmester,72.489 € (Brutto),4.800 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,08/2020,7,4/5,Euro6d-TEMP,Van / Minibus,-1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ T FAHRASSI+AHK+360°+MULTIBEAM+ALARM,74.673 € (Brutto),12.000 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Kombi,-1,Unfallfrei
+Mercedes-Benz E63s AMG 4Matic+ / JungeSterne 08/22,74.490 €,34.851 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,08/2017,5,4/5,Euro6,Limousine,-1,Unfallfrei
+Mercedes-Benz C 63 AMG S EDITION 1 NIGHT LED*COMAND*KLAPPEN*LE,68.795 € (Brutto),36.299 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,2017,05/2017,4,2/3,Euro6,Cabrio / Roadster,1,-1
+Mercedes-Benz C 63 AMG Multibeam Pano.-Dach High-End Assistenz,68.390 € (Brutto),20.000 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,2020,06/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+"Mercedes-Benz E 400d 4M T - AMG,Burmester,MULTIBEAM,Naviuvm",74.789 € (Brutto),8.500 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,2020,10/2020,5,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLA 45 AMG S 4M Driversp 360° Multibeam Keyl-GO,69.900 € (Brutto),2.001 km,1.991 cm³,310 kW (421 PS),"Benzin, E10-geeignet",Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 63 AMG S 4M Sportpaket Panoramadach COMAND,72.950 € (Brutto),32.767 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz GLE 350 de 4Matic AMG Line Pano RüCam MBUX,74.740 € (Brutto),8.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,Euro6d,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Sprinter 319 V6 Tourer L2H1 LED MBUX 3t AHK,69.245 € (Brutto),125 km,2.926 cm³,140 kW (190 PS),Diesel,Automatik,-1,10/2020,9,4/5,Euro6,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 d Marco Polo 4MATIC EDITION Standhzg LED,71.808 € (Brutto),19.109 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,2019,11/2019,4,4/5,Euro6d-TEMP,Van / Minibus,1,-1
+Mercedes-Benz CLS 63 S AMG 4M°DESIGNO EXKLUSIV-PA°B&O°KERAMIK,74.963 € (Brutto),54.900 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,02/2016,4,4/5,Euro6,Sportwagen / Coupé,2,Unfallfrei
+Mercedes-Benz C 63 S AMG *Kamerasystem 360 Grad*Head-up*,69.899 €,31.000 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,01/2018,4,2/3,Euro6,Cabrio / Roadster,2,Unfallfrei
+Mercedes-Benz S Coupe 63 AMG 4Matic*AMG Driver's Pack*Keramik*,69.000 € (Brutto),108.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,-1,02/2015,4,2/3,Euro6,Sportwagen / Coupé,-1,Unfallfrei
+Mercedes-Benz E 63 AMG S 4Matic +*AMG Performance*AMG Driver's,74.900 €,19.980 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,03/2017,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLS 63 AMG 4M ActiveCurve Distr Pano AHK 7Sitze,69.870 €,66.000 km,5.461 cm³,430 kW (585 PS),Benzin,Automatik,2016,05/2016,7,4/5,Euro6,SUV / Geländewagen / Pickup,2,Unfallfrei
+Mercedes-Benz S -Klasse Cabriolet S 500 AMG Line Burmester,74.375 € (Brutto),73.930 km,4.663 cm³,335 kW (455 PS),Benzin,Automatik,-1,04/2016,4,2/3,Euro6,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz 560 SEC Cabrio König Oldtimer 1A Zustand,75.000 €,163.005 km,5.491 cm³,205 kW (279 PS),Benzin,Automatik,-1,02/1989,4,2/3,-1,"Cabrio / Roadster, Oldtimer",1,Unfallfrei
+Mercedes-Benz S 400d 4Matic*BURMESTER*PANORAMA*HEAD UP*MASSAGE,72.900 € (Brutto),28.550 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,05/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4Matic AMG Grand Edition,68.000 € (Brutto),40.000 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,02/2020,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,-1
+Mercedes-Benz GLC 400 d 4M AMG Line/Night/Pano/AHK/Distr/Multi,71.590 € (Brutto),9.715 km,2.925 cm³,243 kW (330 PS),Diesel,Automatik,2020,02/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz E 220 d 4M T +NIGHT+AMG+FAHRASSI+MULTIBEAM+AHZV+,70.600 € (Brutto),3.500 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2020,12/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 220 d 4M T +NIGHT+AMG+FAHRASSI+MULTIBEAM+AHZV+,70.600 € (Brutto),3.500 km,1.950 cm³,143 kW (194 PS),Diesel,Automatik,2020,12/2020,5,4/5,Euro6,"Kombi, Vorführfahrzeug",1,Unfallfrei
+"Mercedes-Benz Mercedes 300 SL R 107, eine der letzten 10...",69.900 €,73.000 km,-1,132 kW (179 PS),Benzin,Automatik,-1,10/1989,-1,-1,-1,Cabrio / Roadster,-1,-1
+Mercedes-Benz C 63 AMG Cp. Carbon PerfAbg Pano Burmester VDigi,72.723 € (Brutto),14.591 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,-1,07/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+Mercedes-Benz GLC 63 AMG S Cp. 4M Driversp Perf-Abgas Fahrass,72.723 € (Brutto),34.045 km,3.982 cm³,375 kW (510 PS),"Benzin, E10-geeignet",Automatik,-1,04/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,-1
+Mercedes-Benz E 450 4M Cabrio Verdeck blau AIR BODY Multibeam,69.900 € (Brutto),3.063 km,2.996 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,11/2019,4,2/3,Euro6d-TEMP,"Cabrio / Roadster, Jahreswagen",1,Unfallfrei
+Mercedes-Benz S 450 4M AMG Nachtsicht Fondent 360° Pano Distr,74.365 € (Brutto),26.556 km,2.999 cm³,270 kW (367 PS),"Benzin, E10-geeignet",Automatik,-1,02/2020,5,4/5,Euro6d-TEMP,Limousine,1,Unfallfrei
+Mercedes-Benz Sprinter 319 V6 Kombi L2H2 LED Navi Distronic,70.681 € (Brutto),7.256 km,2.926 cm³,140 kW (190 PS),Diesel,Automatik,-1,07/2020,9,4/5,Euro6,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 400 d T 4M Fahras.Wide.COM.AHK,68.723 € (Brutto),12.740 km,2.925 cm³,250 kW (340 PS),Diesel,Automatik,-1,01/2020,5,4/5,Euro6d-TEMP,Kombi,1,-1
+Mercedes-Benz EQV 300 Avantgarde lang Distronic el.Türen 360°,73.516 € (Brutto),3.000 km,-1,150 kW (204 PS),Elektro,Automatik,-1,11/2020,7,4/5,-1,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 AMG S Driversp Perf-Abgas WideScreen 360°,73.490 € (Brutto),3.509 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,11/2019,-1,4/5,Euro6d,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz V 300 EAV Extralang AMG MBUX Sitzklima,73.759 € (Brutto),4.726 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,07/2020,8,4/5,Euro6d-TEMP,"Van / Minibus, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz Mercedes Benz Cla 45 AMG S,69.000 €,1.800 km,-1,310 kW (421 PS),Benzin,Automatik,-1,11/2020,-1,-1,-1,Limousine,-1,-1
+Mercedes-Benz V 250 d 4M MARCO POLO EDITION AMG-LINE+DISTRONIC,74.799 € (Brutto),9.945 km,1.950 cm³,140 kW (190 PS),Diesel,Automatik,-1,02/2020,4,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz GLC 63 AMG 4M WideScreen Pano Multibeam AHK 9G,72.723 € (Brutto),20.466 km,3.982 cm³,350 kW (476 PS),"Benzin, E10-geeignet",Automatik,-1,05/2020,5,4/5,Euro6d-TEMP,SUV / Geländewagen / Pickup,1,Unfallfrei
+Mercedes-Benz GLE 350 d 4M AMG Line Leder Pano AHK Night DAB 2,73.450 € (Brutto),5.696 km,2.925 cm³,200 kW (272 PS),Diesel,Automatik,-1,12/2019,-1,4/5,-1,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
+Mercedes-Benz SL 63 AMG Roadster Com/Xe/Pan/HK/Dis+/Massag/Air,69.890 €,35.000 km,5.461 cm³,395 kW (537 PS),Benzin,Automatik,-1,08/2013,2,2/3,Euro5,Cabrio / Roadster,3,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé*AMG*Spur-Paket*Multibeam*AHK,69.290 € (Brutto),3.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé*AMG*Spur-Paket*LED*AHK*PTS*,69.650 € (Brutto),3.500 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,2020,12/2020,5,4/5,Euro6d-TEMP,"Sportwagen / Coupé, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz E 63 AMG S 4M*1.HD*SCHECKH*HUD*PAN*DIST*360°*BUR,69.246 € (Brutto),98.900 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,10/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz C -Klasse Coupe C 63 AMG*BURMESTER*660PS,69.500 €,40.250 km,3.982 cm³,485 kW (659 PS),Benzin,Automatik,-1,05/2017,4,2/3,Euro6,Sportwagen / Coupé,3,Unfallfrei
+Mercedes-Benz GLA 250 e PROGRESSIVE+MBUX+PANO+AHK+ASSISTENZSYS,69.143 € (Brutto),9.999 km,1.332 cm³,118 kW (160 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLA 250 e PROGRESSIVE+MBUX+PANO+AHK+ASSISTENZSYS,69.143 € (Brutto),9.999 km,1.332 cm³,118 kW (160 PS),"Benzin, Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz GLA 250 e PROGRESSIVE+MBUX+PANO+AHK+ASSISTENZSYS,69.143 € (Brutto),9.999 km,1.332 cm³,118 kW (160 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Limousine, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz SL 63 MCT 7-Gang Sportgetriebe AMG Performance,69.990 €,55.000 km,5.461 cm³,415 kW (564 PS),Benzin,Automatik,-1,07/2012,2,2/3,Euro5,Cabrio / Roadster,-1,Unfallfrei
+Mercedes-Benz C 300 e T AMG WideScreen 360° Multibeam Distr.,71.276 € (Brutto),5.000 km,1.991 cm³,155 kW (211 PS),"Hybrid (Benzin/Elektro), E10-geeignet, Plug-in-Hybrid",Automatik,-1,07/2020,-1,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 300 de T AMG WideScreen 360° Multibeam Distr.,73.596 € (Brutto),5.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,07/2020,-1,4/5,Euro6d-TEMP,"Kombi, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz C 63 AMG Coupe PERFORMANCE AGA PANO HEAD UP,73.990 € (Brutto),32.000 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,05/2019,-1,2/3,Euro6,Sportwagen / Coupé,2,-1
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,68.680 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Diesel / Elektro), Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,68.680 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"Sportwagen / Coupé, Vorführfahrzeug",-1,Unfallfrei
+Mercedes-Benz GLC 300 de 4M Coupé AMG Night Distro. Multibeam,68.680 € (Brutto),3.000 km,1.950 cm³,143 kW (194 PS),"Diesel, Plug-in-Hybrid",Automatik,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",-1,Unfallfrei
+"Mercedes-Benz GLE 350 de 4MATIC AMG,Nightp.,PDC,LED,Distronic",73.051 € (Brutto),8.000 km,1.950 cm³,143 kW (194 PS),"Hybrid (Benzin/Elektro), Plug-in-Hybrid",Automatik,-1,12/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz MERCEDES CLS 53 AMG EDITION 1 VOLLAUSSTATTUNG,71.000 €,45.000 km,-1,320 kW (435 PS),Benzin,Automatik,-1,06/2018,-1,-1,-1,Andere,-1,-1
+Mercedes-Benz E 63 S 4MATIC+ T Autom. *AMG Drivers Package*,69.990 € (Brutto),67.800 km,3.982 cm³,450 kW (612 PS),Benzin,Automatik,-1,03/2018,5,4/5,Euro6,Kombi,1,Unfallfrei
+Mercedes-Benz GLC 63 AMG Coupe AMG Driver´s Package,73.900 € (Brutto),18.500 km,3.982 cm³,375 kW (510 PS),Benzin,Automatik,-1,02/2019,5,4/5,Euro6,SUV / Geländewagen / Pickup,-1,Unfallfrei
+Mercedes-Benz E 53 AMG 4M+ Coupé ++Standhzg.+Distronic+Vmax++,72.490 € (Brutto),22.832 km,2.999 cm³,320 kW (435 PS),Benzin,Automatik,2019,02/2019,4,2/3,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz G 500,AMG,SPORT-PAKET,EXKLUSIV-PAKET,SCHIEBEDACH",73.900 € (Brutto),32.300 km,3.982 cm³,310 kW (421 PS),Benzin,Automatik,-1,07/2017,5,4/5,Euro6,SUV / Geländewagen / Pickup,1,-1
+Mercedes-Benz AMG GLC 63 AMG 4M+ Coupé /Magno/Multibeam/,71.698 € (Brutto),13.787 km,3.982 cm³,350 kW (476 PS),Benzin,Automatik,-1,09/2019,5,4/5,Euro6d-TEMP,Sportwagen / Coupé,1,Unfallfrei
+"Mercedes-Benz GLE 300 d 4M AMG,Nightp.,PDC,LED,PanoDach,Kamera",73.240 € (Brutto),3.500 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,12/2020,5,4/5,Euro6d-TEMP,"SUV / Geländewagen / Pickup, Vorführfahrzeug",-1,Unfallfrei
+"Mercedes-Benz E 63 AMG T 4M+ Nightp,COMAND,LED,Distronic,360°,",69.756 € (Brutto),47.327 km,3.982 cm³,420 kW (571 PS),Benzin,Automatik,-1,10/2018,5,4/5,Euro6d-TEMP,Kombi,1,Unfallfrei
+Mercedes-Benz V 300 4M Avantgarde Lang Fahrassist. PDC,73.785 € (Brutto),21.600 km,1.950 cm³,176 kW (239 PS),Diesel,Automatik,-1,12/2019,7,4/5,Euro6d-TEMP,"Van / Minibus, Jahreswagen",1,Unfallfrei
+Mercedes-Benz EQC 400 4MATIC Service+ AMG+Fahrassist.+360°+HUD,74.889 € (Brutto),3.000 km,-1,0 kW (0 PS),Elektro,Schaltgetriebe,-1,11/2020,5,4/5,-1,"SUV / Geländewagen / Pickup, Vorführfahrzeug",1,Unfallfrei
+Mercedes-Benz S -Klasse Lim. S 450 4Matic*NETTO € 59.914*Execu,69.500 € (Brutto),24.700 km,2.999 cm³,270 kW (367 PS),Benzin,Automatik,-1,03/2018,5,4/5,Euro6,Limousine,1,Unfallfrei
+"Mercedes-Benz GLE 300 d 4M Navi,LED,Distr,Pano,Standh,Kam,AHK",68.150 € (Brutto),10.182 km,1.950 cm³,180 kW (245 PS),Diesel,Automatik,-1,10/2019,5,4/5,Euro6d,"SUV / Geländewagen / Pickup, Jahreswagen",1,Unfallfrei
