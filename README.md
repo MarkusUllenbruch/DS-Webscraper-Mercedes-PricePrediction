@@ -87,10 +87,15 @@ Distributions of the data and some of the value counts for the categorical varia
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
 <img src="Plots/price_power_ps.png" width="350"> <img src="Plots/price_age.png" width="350">
 
+--DESCRIPTION OF PLOTS HERE--
+
+--PLOT OF CORRELATION MATRIX HERE--
+(describe which features are selected based on that)
+
 
 ## Model Building --TO-DO--
 
-I transformed all the categorical variables (like "Owners") into dummy variables with sklearn and then split the data randomly up into train and tests sets with a test size of 20 %.   
+I transformed all the categorical variables (like "emission_class", "Model" or "num_owners") into dummy variables with sk-learn and then split the cleaned dataset randomly up into training  and testing datasets with a test size of 20 %.   
 
 I tried X different models and evaluated them with the metric Mean Absolute Error.  
 
