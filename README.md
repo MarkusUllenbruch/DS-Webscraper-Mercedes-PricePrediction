@@ -2,7 +2,7 @@
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
 Fascinated about real-life ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
-* Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de:](https://www.mobile.de) using python and selenium
+* Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
 * Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
 * Cleaned and wrangled raw data and engineered features from existing features
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
@@ -13,7 +13,7 @@ In this project, I
 **Packages:** pandas, numpy, sklearn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
 ## Web Scraping
-Implemented own web scraper to scrape 4000+ car offerings from mobile.com. Each car, we scaped the following content from the page:
+Implemented own web scraper and scraped minimum 11000 car offerings from [mobile.de](https://www.mobile.de). Each car, I scraped the following content from the webpage:
 *	Carname/ model (Automodell)
 *	Price (Preis)
 *  Milage (Kilometerstand)
@@ -31,12 +31,14 @@ Implemented own web scraper to scrape 4000+ car offerings from mobile.com. Each 
 *	Damage (Schaden)
 
 ## Data Cleaning
-After scraping the data, I had to clean & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following varaibles were created:
+After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
 
 *	Parsed numeric data out of "Price", removed the -brutto- string
 *	Removed rows without a price (price = -1)
-*	Transformed "Construction Year" and "First Registration" into "Age of car" and "Age of First Registration" (2018 --> 2)
-*	Manage categorical data: Made new columns for each and map 0 or 1, if following Tags were listed in the "Car Name":
+*	Transformed "First Registration" string into numeric "Age of car"" ("06/2018" --> 1.5)
+*  Fill in missing values of "power_ps" with the means of existing values of each the same car Model type
+*  Remove oldtimer (> 30 years of age) rows from the data, because too specific, needing more information to predict price
+*	Parsed following Car Models out of the offering description and make a "Model" column with following:
     * A-Klasse
     * C-Klasse
     * E-Klasse
@@ -66,6 +68,7 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
     * V-Klasse
     * Vaneo
     * Viano
+* Created follwong new features out of existing ones:
     * AMG
     * McLaren
     * Black Series
@@ -81,8 +84,8 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
 ## EDA
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
-<img src="Plots/Model.png" width="400"> <img src="Plots/price_milage2.png" width="400">
-<img src="Plots/price_power_ps.png" width="400"> <img src="Plots/price_age.png" width="400">
+<img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
+<img src="Plots/price_power_ps.png" width="350"> <img src="Plots/price_age.png" width="350">
 
 
 ## Model Building 
@@ -99,6 +102,6 @@ The following models were trained:
 
 ## Model performance
 The XYZ model outperformed the other approaches on the test and validation sets. 
-*	**X** : MAE = 11.22
-*	**Y**: MAE = 18.86
-*	**Z**: MAE = 19.67
+*	**X** : MAE = X
+*	**Y**: MAE = Y
+*	**Z**: MAE = Z
