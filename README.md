@@ -81,14 +81,14 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * 55
     * BlueEfficiency
 
-## EDA
+## EDA --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
 <img src="Plots/price_power_ps.png" width="350"> <img src="Plots/price_age.png" width="350">
 
 
-## Model Building 
+## Model Building --TO-DO--
 
 I transformed all the categorical variables (like "Owners") into dummy variables with sklearn and then split the data randomly up into train and tests sets with a test size of 20 %.   
 
@@ -100,7 +100,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## Model performance
+## Model performance --TO-DO--
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
