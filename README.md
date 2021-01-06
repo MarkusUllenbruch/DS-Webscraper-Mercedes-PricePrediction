@@ -81,8 +81,9 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
 ## EDA
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
-![ScreenShot](Plots/Model.png){:height="50%" width="50%"}
+![ScreenShot](Plots/Model.png)
 ![ScreenShot](Plots/price_milage2.png)
+<img src="Plots/price_milage2.png" width="48">
 
 ## Model Building 
 
