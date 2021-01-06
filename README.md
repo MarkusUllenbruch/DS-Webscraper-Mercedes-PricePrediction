@@ -83,6 +83,7 @@ Distributions of the data and some of the value counts for the categorical varia
 
 ![ScreenShot](Plots/Model.png)
 ![ScreenShot](Plots/price_milage2.png)
+<img src="Plots/price_milage2.png" width="48">
 
 ## Model Building 
 
