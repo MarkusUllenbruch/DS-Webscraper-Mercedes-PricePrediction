@@ -14,20 +14,20 @@ path_dataset = './Data/mobile_data_6000_8000.csv'
 
 data = pd.read_csv(path_dataset)
 
-# drop row when price is -1 (not available)
+# Drop row when price is -1 (not available)
 data = data[data['price'] != '-1']
 
-# remove '.', '€' and '(Brutto)' in price and make numeric
+# Remove '.', '€' and '(Brutto)' in price and make numeric
 data['price'] = data['price'].apply(lambda x: float(x.lower().replace('(brutto)', '').replace('.','').replace('€','')))
 
-# remove '.' and 'km' and '(Brutto)' in milage and make numeric
+# Remove '.' and 'km' and '(Brutto)' in milage and make numeric
 data['milage'] = data['milage'].apply(lambda x: float(x.lower().replace('km', '').replace('.','')))
 
-# make power_ps
-data['power_ps'] = data['power'].apply(lambda x: float(x.lower().replace('(', '').replace(')', '').split()[2]) if x != '-1' else x)
+# Make power_ps
+data['power_ps'] = data['power'].apply(lambda x: float(x.lower().replace('(', '').replace(')', '').split()[2]) if x != '-1' else None)
 
-# make power_kw
-data['power_kw'] = data['power'].apply(lambda x: float(x.lower().replace('(', '').replace(')', '').split()[0]) if x != '-1' else x)
+# Make power_kw
+data['power_kw'] = data['power'].apply(lambda x: float(x.lower().replace('(', '').replace(')', '').split()[0]) if x != '-1' else None)
 
 # Unfallschaden
 def make_damage(x):
@@ -41,8 +41,7 @@ def make_damage(x):
 data['Schaden'] = data['damage'].apply(make_damage)
 
 # number of owners make categorical strings
-data['Owners'] = data['num_owners'].apply(lambda x: 'num_owner_unknown' if x == -1 else 'owner_' + str(x))
-
+data['num_owners'] = data['num_owners'].apply(lambda x: str(x) if x != -1 else 'na')
 
 # cartype simplification
 def simplify_cartype(x):
@@ -70,95 +69,98 @@ def make_car_model(x):
     if 'a-klasse' in xl or 'a klasse' in xl or ' A ' in x or 'A1' in x or 'A2' in x:
         return 'A-Klasse'
     
-    if 'b-klasse' in xl or 'b klasse' in xl or ' B ' in x or 'B1' in x or 'B2' in x:
+    elif 'b-klasse' in xl or 'b klasse' in xl or ' B ' in x or 'B1' in x or 'B2' in x:
         return 'B-Klasse'
     
-    if 'c-klasse' in xl or 'c klasse' in xl or ' c ' in xl or 'C1' in xl or 'C2' in xl:
+    elif 'c-klasse' in xl or 'c klasse' in xl or ' c ' in xl or 'C1' in x or 'C2' in x:
         return 'C-Klasse'
     
-    if 'e-klasse' in xl or 'e klasse' in xl or ' E ' in x or 'E2' in x or 'E3' in x:
+    elif 'e-klasse' in xl or 'e klasse' in xl or ' E ' in x or 'E2' in x or 'E3' in x:
         return 'E-Klasse'
     
-    if 's-klasse' in xl or 's klasse' in xl or ' S ' in x:
+    elif 's-klasse' in xl or 's klasse' in xl or ' S ' in x:
         return 'S-Klasse'
     
-    if 'g-klasse' in xl or 'g klasse' in xl:
+    elif 'g-klasse' in xl or 'g klasse' in xl:
         return 'G-Klasse'
     
-    if 'm-klasse' in xl or 'm klasse' in xl or 'ML' in x:
+    elif 'm-klasse' in xl or 'm klasse' in xl or 'ML' in x or 'ml' in xl:
         return 'M-Klasse'
     
-    if 'x-klasse' in xl or 'x klasse' in xl:
+    elif 'x-klasse' in xl or 'x klasse' in xl:
         return 'X-Klasse'
     
-    if 'r-klasse' in xl or 'r klasse' in xl or ' r ' in xl:
+    elif 'r-klasse' in xl or 'r klasse' in xl or ' r ' in xl:
         return 'R-Klasse'
     
-    if 'v-klasse' in xl or 'v klasse' in xl:
+    elif 'v-klasse' in xl or 'v klasse' in xl:
         return 'V-Klasse'
     
-    if 'cla' in xl:
+    elif 'cla' in xl:
         return 'CLA'
     
-    if 'clc' in xl:
+    elif 'clc' in xl:
         return 'CLC'
     
-    if 'clk' in xl:
+    elif 'clk' in xl:
         return 'CLK'
     
-    if 'cl' in xl:
+    elif 'cl' in xl:
         return 'CL'
     
-    if 'cls' in xl:
+    elif 'cls' in xl:
         return 'CLS'
     
-    if 'sl' in xl:
+    elif 'sl' in xl:
         return 'SL'
     
-    if 'slc' in xl:
+    elif 'slc' in xl:
         return 'SLC'
     
-    if 'slk' in xl:
+    elif 'slk' in xl:
         return 'SLK'
     
-    if 'slr' in xl:
+    elif 'slr' in xl:
         return 'SLR'
     
-    if 'sls' in xl:
+    elif 'sls' in xl:
         return 'SLS'
     
-    if 'gla' in xl:
+    elif 'gla' in xl:
         return 'GLA'
     
-    if 'glb' in xl:
+    elif 'glb' in xl:
         return 'GLB'
     
-    if 'glc' in xl:
+    elif 'glc' in xl:
         return 'GLC'
     
-    if 'glk' in xl:
+    elif 'glk' in xl:
         return 'GLK'
     
-    if 'gle' in xl:
+    elif 'gle' in xl:
         return 'GLE'
     
-    if 'gls' in xl:
+    elif 'gls' in xl:
         return 'GLS'
     
-    if 'gl' in xl:
+    elif 'gl' in xl:
         return 'GL'
     
-    if 'vaneo' in xl:
+    elif 'vaneo' in xl or 'citan' in xl:
         return 'Vaneo'
     
-    if 'viano' in xl:
+    elif 'viano' in xl:
         return 'Viano'
     
-    if 'vito' in xl:
+    elif 'vito' in xl:
         return 'Vito'
     
-    if 'sprinter' in xl:
+    elif 'sprinter' in xl:
         return 'Sprinter'
+    
+    else:
+        return 'OTHER'
     
 data['Model'] = data['carname'].apply(make_car_model)
 
@@ -186,5 +188,22 @@ data['tag_65'] = data['carname'].apply(lambda x: 1 if '65' in x.lower() or ' 65 
 # Tag 55
 data['tag_55'] = data['carname'].apply(lambda x: 1 if '55' in x.lower() or ' 55 ' in x.lower() else 0)
 
-## To-Do: fehlende numerische werte bei power_ps und power_kw ersetzen mit Mittelwerten derselben Autoklasse
-    
+## Fill in missing values of power_ps with the mean of existing values of the same car Model
+data["power_ps"] = data.groupby("Model")["power_ps"].transform(lambda x: x.fillna(x.mean()))
+
+## Fill in missing values of power_kw with the mean of existing values of the same car Model
+data["power_kw"] = data.groupby("Model")["power_kw"].transform(lambda x: x.fillna(x.mean()))
+
+## Hubraum
+data['hubraum'] = data['hubraum'].apply(lambda x: float(x.replace('.','').split()[0]) if x != '-1' else None)
+## Fill in missing values of hubraum with the mean of existing values of the same car Model
+data["hubraum"] = data.groupby("Model")["hubraum"].transform(lambda x: x.fillna(x.mean()))
+
+# num_seats
+data['num_seats'] = data['num_seats'].apply(lambda x: str(x) if x != -1 else 'na')
+
+# num_doors
+data['num_doors'] = data['num_doors'].apply(lambda x: x if x != '-1' else 'na')
+
+# emission_class
+data['emission_class'] = data['emission_class'].apply(lambda x: x if x != '-1' else 'na')
