@@ -82,6 +82,8 @@ After scraping the data, I had to clean & feature-engineer it up so that it was 
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 <img src="Plots/Model.png" width="400"> <img src="Plots/price_milage2.png" width="400">
+<img src="Plots/price_power_ps.png" width="400"> <img src="Plots/price_age.png" width="400">
+
 
 ## Model Building 
 
