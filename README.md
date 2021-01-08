@@ -12,7 +12,7 @@ In this project, I
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sk-learn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
-## 1. Web Scraping 📊
+## 1. Web Scraping :floppy_disk:
 ### [(data_collection.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
 Implemented own web scraper and scraped minimum 11000 car offerings from [mobile.de](https://www.mobile.de). Each car, I scraped the following content from the webpage:
 *	Carname/ model (Automodell)
@@ -31,7 +31,7 @@ Implemented own web scraper and scraped minimum 11000 car offerings from [mobile
 *	Car Type (Autotyp zB Limousine, Coupe,.. etc)
 *	Damage (Schaden)
 
-## 2. Data Cleaning
+## 2. Data Cleaning :scissors:
 ### [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
 After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
 
@@ -108,7 +108,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## 5. Model performance :rocket: --TO-DO--
+## 5. Model performance :rocket: :white_check_mark: --TO-DO--
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
