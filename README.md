@@ -1,5 +1,5 @@
-# Project Overview: Price Estimator of Mercedes Cars
-## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
+# Project: Price Estimator of Mercedes Cars
+## Collecting Data with a Webscraper and Implement a Machine Learning Pricing-System
 
 # Table of contents
 0. [Overview](#overview)
@@ -18,7 +18,7 @@ In this project, I
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - Optimized and checked statistics of Regression and selected features with statsmodels 
 
-### Code and Resources Used 
+#### Code and Resources Used 
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sk-learn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
@@ -80,7 +80,7 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * V-Klasse
     * Vaneo
     * Viano
-* Created follwong new features out of existing ones:
+* Created following new features out of existing ones:
     * AMG
     * McLaren
     * Black Series
