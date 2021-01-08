@@ -108,7 +108,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## 5. Model performance :rocket: :white_check_mark: --TO-DO--
+## 5. Model performance :white_check_mark: --TO-DO--
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
