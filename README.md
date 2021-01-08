@@ -2,8 +2,8 @@
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
 Fascinated about real-life ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
-- 📊 Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
-- 📈 Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
+ 📊 Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
+ 📈 Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
 - [x] Cleaned and wrangled raw data and engineered features from existing features
 - [x] Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - [x] Optimized also with statsmodels 
