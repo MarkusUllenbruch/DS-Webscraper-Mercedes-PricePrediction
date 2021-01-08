@@ -5,7 +5,7 @@
 0. [Overview](#overview)
 1. [Web Scraping](#scraping)
 2. [Data Cleaning](#cleaning)
-3. [EDA](#eda)
+3. [Exploratory Data Analysis](#eda)
    - 3.1 [Findings of the Data](#findings)
    - 3.2 [Feature Selection](#selection)
 4. [Modeling](#ml)
@@ -99,14 +99,14 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
 ### [(EDA.ipynb)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
-#### 3.1 Findings from the Data <a name="findings"></a>
+### 3.1 Findings from the Data <a name="findings"></a>
 
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
 <img src="Plots/price_power_ps.png" width="350"> <img src="Plots/price_age.png" width="350">
 
 --DESCRIPTION OF PLOTS HERE--
 
-#### 3.2 Correlation Matrix and Feature Selection <a name="selection"></a>
+### 3.2 Correlation Matrix and Feature Selection <a name="selection"></a>
 
 --PLOT OF CORRELATION MATRIX HERE--
 (describe which features are selected based on that)
