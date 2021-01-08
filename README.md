@@ -83,7 +83,7 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * 55
     * BlueEfficiency
 
-## 3. EDA - Exploratory Data Analysis
+## 3. EDA - Exploratory Data Analysis 📊
 ### [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
@@ -108,7 +108,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## 5. Model performance --TO-DO--
+## 5. Model performance :rocket: --TO-DO--
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
