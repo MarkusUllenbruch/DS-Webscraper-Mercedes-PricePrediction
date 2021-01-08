@@ -2,8 +2,8 @@
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
 Fascinated about real-life ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
-- [x] Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
-- [x] Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
+- 📊 Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
+- 📈 Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
 - [x] Cleaned and wrangled raw data and engineered features from existing features
 - [x] Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - [x] Optimized also with statsmodels 
@@ -12,7 +12,7 @@ In this project, I
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sklearn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
-## Web Scraping [Step1_data_collection.py](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
+## 1. Web Scraping [(data_collection.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
 Implemented own web scraper and scraped minimum 11000 car offerings from [mobile.de](https://www.mobile.de). Each car, I scraped the following content from the webpage:
 *	Carname/ model (Automodell)
 *	Price (Preis)
@@ -30,7 +30,7 @@ Implemented own web scraper and scraped minimum 11000 car offerings from [mobile
 *	Car Type (Autotyp zB Limousine, Coupe,.. etc)
 *	Damage (Schaden)
 
-## Data Cleaning
+## 2. Data Cleaning [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
 After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
 
 *	Parsed numeric data out of "Price", removed the -brutto- string
@@ -81,7 +81,7 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * 55
     * BlueEfficiency
 
-## EDA --CURRENTLY DOING--
+## 3. EDA [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
