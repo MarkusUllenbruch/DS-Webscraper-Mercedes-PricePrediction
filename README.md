@@ -1,5 +1,10 @@
 # Project Overview: Price Estimator of Mercedes Cars
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
+
+# Table of contents
+1. [Overview](#overview)
+
+## 0. Overview <a name="overview"></a>
 Fascinated about real-life Data-Science & ML applications and inspired by the [Machine Learning Phoenix Pricing System](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
 - Implemented a data collection tool and webscraped over 11000+ car offerings from [mobile.de](https://www.mobile.de) using python and selenium
@@ -8,7 +13,7 @@ In this project, I
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - Optimized and checked statistics of Regression and selected features with statsmodels 
 
-## 0. Code and Resources Used 
+### Code and Resources Used 
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sk-learn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
