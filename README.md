@@ -94,7 +94,7 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * BlueEfficiency
 
 ## 3. EDA - Exploratory Data Analysis 📊 <a name="eda"></a>
-### [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
+### [(EDA.ipynb)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
