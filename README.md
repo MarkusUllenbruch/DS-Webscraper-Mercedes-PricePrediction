@@ -3,7 +3,7 @@
 
 # Table of contents
 0. [Overview](#overview)
-1. [Web Scraping](#sraping)
+1. [Web Scraping](#scraping)
 2. [Data Cleaning](#cleaning)
 3. [EDA](#eda)
 4. [Modeling](#ml)
