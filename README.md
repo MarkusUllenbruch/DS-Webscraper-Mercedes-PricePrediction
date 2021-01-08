@@ -1,6 +1,6 @@
-# Data Science Project Overview: Price Estimator of Mercedes Cars
+# Project Overview: Price Estimator of Mercedes Cars
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
-Fascinated about real-life ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
+Fascinated about real-life Data-Science & ML applications and inspired by the [Machine Learning Phoenix Pricing System of Used Cars](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
 - Implemented a data collection tool and webscraped over 11000+ car descriptions and data from [mobile.de](https://www.mobile.de) using python and selenium
 - Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a car
@@ -31,7 +31,8 @@ Implemented own web scraper and scraped minimum 11000 car offerings from [mobile
 *	Car Type (Autotyp zB Limousine, Coupe,.. etc)
 *	Damage (Schaden)
 
-## 2. Data Cleaning [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
+## 2. Data Cleaning
+### [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
 After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
 
 *	Parsed numeric data out of "Price", removed the -brutto- string
@@ -82,7 +83,8 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * 55
     * BlueEfficiency
 
-## 3. EDA [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
+## 3. EDA - Exploratory Data Analysis
+### [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
 <img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
