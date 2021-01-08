@@ -2,7 +2,12 @@
 ## Collecting Data with a Webscraper and implement a Machine Learning Pricing-System
 
 # Table of contents
-1. [Overview](#overview)
+0. [Overview](#overview)
+1. [Web Scraping](#sraping)
+2. [Data Cleaning](#cleaning)
+3. [EDA](#eda)
+4. [Modeling](#ml)
+5. [Model Performance](#performance)
 
 ## 0. Overview <a name="overview"></a>
 Fascinated about real-life Data-Science & ML applications and inspired by the [Machine Learning Phoenix Pricing System](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
@@ -17,7 +22,7 @@ In this project, I
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sk-learn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
-## 1. Web Scraping :floppy_disk:
+## 1. Web Scraping :floppy_disk: <a name="scraping"></a>
 ### [(data_collection.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
 Implemented own web scraper and scraped minimum 11000 car offerings from [mobile.de](https://www.mobile.de). Each car, I scraped the following content from the webpage:
 *	Carname/ model (Automodell)
@@ -36,7 +41,7 @@ Implemented own web scraper and scraped minimum 11000 car offerings from [mobile
 *	Car Type (Autotyp zB Limousine, Coupe,.. etc)
 *	Damage (Schaden)
 
-## 2. Data Cleaning :scissors:
+## 2. Data Cleaning :scissors: <a name="cleaning"></a>
 ### [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
 After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
 
@@ -88,7 +93,7 @@ After scraping the data, I cleaned & feature-engineer it up so that it was usabl
     * 55
     * BlueEfficiency
 
-## 3. EDA - Exploratory Data Analysis 📊
+## 3. EDA - Exploratory Data Analysis 📊 <a name="eda"></a>
 ### [(EDA.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step3_EDA.ipynb) --CURRENTLY DOING--
 Distributions of the data and some of the value counts for the categorical variables are visualized with seaborn and matplotlib. Below are a few findings from the pivot tables: 
 
@@ -101,7 +106,7 @@ Distributions of the data and some of the value counts for the categorical varia
 (describe which features are selected based on that)
 
 
-## 4. Model Building 📈 --TO-DO--
+## 4. Model Building 📈 --TO-DO-- <a name="ml"></a>
 
 I transformed all the categorical variables (like "emission_class", "Model" or "num_owners") into dummy variables with sk-learn and then split the cleaned dataset randomly up into training  and testing datasets with a test size of 20 %.   
 
@@ -113,7 +118,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## 5. Model performance :white_check_mark: --TO-DO--
+## 5. Model performance :white_check_mark: --TO-DO-- <a name="performance"></a>
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
