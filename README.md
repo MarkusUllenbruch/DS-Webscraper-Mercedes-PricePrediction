@@ -12,7 +12,7 @@ In this project, I
 **Python Version:** 3.7 
 **Packages:** pandas, numpy, sklearn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
-## Web Scraping
+## Web Scraping [Step1_data_collection.py](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
 Implemented own web scraper and scraped minimum 11000 car offerings from [mobile.de](https://www.mobile.de). Each car, I scraped the following content from the webpage:
 *	Carname/ model (Automodell)
 *	Price (Preis)
