@@ -6,8 +6,8 @@
 1. [Web Scraping](#scraping)
 2. [Data Cleaning](#cleaning)
 3. [EDA](#eda)
-   - 1 [sdf](#findings)
-   - 2 [sfd](#selection)
+   - 3.1 [Findings of the Data](#findings)
+   - 3.2 [Feature Selection](#selection)
 4. [Modeling](#ml)
 5. [Model Performance](#performance)
 
