@@ -8,9 +8,9 @@ In this project, I
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - Optimized also with statsmodels 
 
-## Code and Resources Used 
+## 0. Code and Resources Used 
 **Python Version:** 3.7 
-**Packages:** pandas, numpy, sklearn, statsmodels, tensorflow, matplotlib, seaborn, selenium
+**Packages:** pandas, numpy, sk-learn, statsmodels, tensorflow, matplotlib, seaborn, selenium
 
 ## 1. Web Scraping 📊
 ### [(data_collection.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step1_data_collection.py)
@@ -96,7 +96,7 @@ Distributions of the data and some of the value counts for the categorical varia
 (describe which features are selected based on that)
 
 
-## Model Building 📈 --TO-DO--
+## 4. Model Building 📈 --TO-DO--
 
 I transformed all the categorical variables (like "emission_class", "Model" or "num_owners") into dummy variables with sk-learn and then split the cleaned dataset randomly up into training  and testing datasets with a test size of 20 %.   
 
@@ -108,7 +108,7 @@ The following models were trained:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 *	**Neural Network**
 
-## Model performance --TO-DO--
+## 5. Model performance --TO-DO--
 The XYZ model outperformed the other approaches on the test and validation sets. 
 *	**X** : MAE = X
 *	**Y**: MAE = Y
