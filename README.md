@@ -15,12 +15,12 @@
 Fascinated about real-life Data-Science & ML applications and inspired by the [Machine Learning Phoenix Pricing System](https://www.daimler.com/karriere/ueber-uns/artificial-intelligence/fuer-nerds/pricing.html) from Mercedes-Benz, I thought, I could start a similar project in a small scale in order to explore and strengthen my Data Science skills.
 In this project, I
 - Implemented a data collection tool and webscraped over 11000+ car offerings from [mobile.de](https://www.mobile.de) using python and selenium
-- Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a used car
+- Implemented a ML tool, that estimates prices (MAE ~ 8 K €) to help customers and sellers estimating the worth of a used car
 - Cleaned and wrangled raw data and engineered features from existing features as preprocessing step for ML
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - Optimized and checked statistics of Regression and selected features with statsmodels
 
-The predictions on the training dataset and on the unseen test dataset are shown below as a graph of true prices over predicted prices:
+The predictions on the training dataset (blue) and on the unseen test dataset (green) are shown below as a graph of true prices over predicted prices:
 <img src="Plots/Train.png" width="350"> <img src="Plots/Test.png" width="350">
 
 #### Code and Resources Used 
@@ -127,7 +127,7 @@ The following models were trained:
 *	**Neural Network**
 
 ## 5. Model performance :white_check_mark: --TO-DO-- <a name="performance"></a>
-The XYZ model outperformed the other approaches on the test and validation sets. 
-*	**X** : MAE = X
+The XYZ model outperformed the other approaches on the unseen test dataset. 
+*	**Linear Regression statsmodels.api** : MAE = 8.400 €
 *	**Y**: MAE = Y
 *	**Z**: MAE = Z
