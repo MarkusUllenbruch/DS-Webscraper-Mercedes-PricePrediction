@@ -238,6 +238,7 @@ data["power_kw"] = data.groupby("Model")["power_kw"].transform(lambda x: x.filln
 ## make Hubraum numeric and make '-1' entries NaN
 data['hubraum'] = data['hubraum'].apply(lambda x: float(x.replace('.','').split()[0]) if x != '-1' else None)
 data['hubraum'] = data['hubraum'].apply(lambda x: x if isinstance(x, float) else None)
+data['hubraum'] = data['hubraum'].apply(lambda x: None if math.isnan(x) else x)
 ## Fill in missing values (NaNs) of hubraum with the mean of existing hubraum values grouped by the same car Model
 data["hubraum"] = data.groupby("Model")["hubraum"].transform(lambda x: x.fillna(x.mean()))
 
@@ -261,11 +262,6 @@ data['fueltype'] = data['fuel_type'].apply(fueltype)
 
 # drop columns that give no further information or are already further feature engineered
 data_cleaned = data.drop(['construction_year', 'power', 'fuel_type', 'first_registration', 'damage'], axis=1)
-
+data_cleaned = data_cleaned[data_cleaned['hubraum'].notna()]
 ## Save cleaned dataset
 data_cleaned.to_csv('data_cleaned.csv')
-
-
-#### To-Do
-# Age verfeinern, nicht nur jahre, sondern auch Monate berücksichtigen
-# "Oldtimer" entfernen (oder drinlassen?)
