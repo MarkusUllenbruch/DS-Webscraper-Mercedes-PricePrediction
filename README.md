@@ -48,7 +48,9 @@ Implemented own web scraper and scraped minimum 11000 car offerings from [mobile
 
 ## 2. Data Cleaning :scissors: <a name="cleaning"></a>
 ### [(data_cleaning.py)](https://github.com/MarkusUllenbruch/DS-Webscraper-Mercedes-PricePrediction/blob/main/Step2_data_cleaning.py)
-After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training. Following changes were made and the following variables were created:
+After scraping the data, I cleaned & feature-engineer it up so that it was usable for our Machine Learning modeling & training.
+The final & cleaned dataset consists of 10 categorical features and 23 numerical features --> 108 numerical features after get dummy variables of categoricals.
+Following changes were made and the following variables were created:
 
 *	Parsed numeric data out of "Price", removed the -brutto- string
 *	Removed rows without a price (price = -1)
@@ -115,6 +117,7 @@ The correlation matrix of the numeric features are shown below:
 
 
 ## 4. Model Building 📈 --TO-DO-- <a name="ml"></a>
+Making dummy variables out of the categorical features results in 108 numerical features in total.
 
 I transformed all the categorical variables (like "emission_class", "Model" or "num_owners") into dummy variables with sk-learn and then split the cleaned dataset randomly up into training  and testing datasets with a test size of 20 %.   
 
