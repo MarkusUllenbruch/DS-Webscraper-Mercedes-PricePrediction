@@ -112,8 +112,8 @@ Distributions of the data and some of the value counts for the categorical varia
 --DESCRIPTION OF PLOTS HERE--
 
 ### 3.2 Correlation Matrix and Feature Selection <a name="selection"></a>
-The correlation matrix of the numeric features are shown below:
-<img src="Plots/corr.png" width="350"> <img src="Plots/corr.png" width="350">
+The correlation matrix of the numeric features are shown below:\\
+<img src="Plots/corr.png" width="350">
 
 
 ## 4. Model Building 📈 --TO-DO-- <a name="ml"></a>
