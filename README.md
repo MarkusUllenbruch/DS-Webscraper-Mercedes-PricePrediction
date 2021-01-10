@@ -18,7 +18,10 @@ In this project, I
 - Implemented a ML tool, that estimates prices (MAE ~ $ X K) to help customers and sellers estimating the worth of a used car
 - Cleaned and wrangled raw data and engineered features from existing features as preprocessing step for ML
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
-- Optimized and checked statistics of Regression and selected features with statsmodels 
+- Optimized and checked statistics of Regression and selected features with statsmodels
+
+<img src="Plots/Model.png" width="350"> <img src="Plots/Train.png" width="350">
+<img src="Plots/price_power_ps.png" width="350"> <img src="Plots/Test.png" width="350">
 
 #### Code and Resources Used 
 **Python Version:** 3.7 
@@ -107,6 +110,8 @@ Distributions of the data and some of the value counts for the categorical varia
 --DESCRIPTION OF PLOTS HERE--
 
 ### 3.2 Correlation Matrix and Feature Selection <a name="selection"></a>
+
+<img src="Plots/Model.png" width="350"> <img src="Plots/price_milage2.png" width="350">
 
 --PLOT OF CORRELATION MATRIX HERE--
 (describe which features are selected based on that)
