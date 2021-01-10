@@ -17,8 +17,8 @@ In this project, I
 - Implemented a data collection tool and webscraped over 11000+ car offerings from [mobile.de](https://www.mobile.de) using python and selenium
 - Implemented a ML tool, that estimates prices (MAE ~ 8 K €) to help customers and sellers estimating the worth of a used car
 - Cleaned and wrangled raw data and engineered features from existing features as preprocessing step for ML
-- Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
-- Optimized and checked statistics of Regression and selected features with statsmodels
+- Automated & Optimized feature selection of Linear Regression with statsmodels.api OLS module using p-values of features
+- Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model --TO-DO--
 
 The predictions on the training dataset (blue) and on the unseen test dataset (green) are shown below as a graph of true prices over predicted prices:
 <img src="Plots/Train.png" width="350"> <img src="Plots/Test.png" width="350">
