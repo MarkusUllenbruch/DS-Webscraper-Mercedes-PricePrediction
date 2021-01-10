@@ -115,7 +115,7 @@ Distributions of the data and some of the value counts for the categorical varia
 The correlation matrix of the numeric features are shown below:
 
 <p align="center">
-  <img src="Plots/corr.png" width="350">
+  <img src="Plots/corr.png" width="400">
 </p>
 
 
