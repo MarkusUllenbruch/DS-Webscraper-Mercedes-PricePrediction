@@ -20,7 +20,8 @@ In this project, I
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model
 - Optimized and checked statistics of Regression and selected features with statsmodels
 
-<img src="Plots/Train.png" width="350"> <img src="Plots/Train.png" width="350">
+The predictions on the training dataset and on the unseen test dataset are shown below as a graph of true prices over predicted prices:
+<img src="Plots/Train.png" width="350"> <img src="Plots/Test.png" width="350">
 
 #### Code and Resources Used 
 **Python Version:** 3.7 
@@ -109,11 +110,8 @@ Distributions of the data and some of the value counts for the categorical varia
 --DESCRIPTION OF PLOTS HERE--
 
 ### 3.2 Correlation Matrix and Feature Selection <a name="selection"></a>
-
+The correlation matrix of the numeric features are shown below:
 <img src="Plots/Model.png" width="350">
-
---PLOT OF CORRELATION MATRIX HERE--
-(describe which features are selected based on that)
 
 
 ## 4. Model Building 📈 --TO-DO-- <a name="ml"></a>
