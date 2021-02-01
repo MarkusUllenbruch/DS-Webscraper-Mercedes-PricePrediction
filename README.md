@@ -21,7 +21,9 @@ In this project, I
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to find the best fitting model --TO-DO--
 
 The predictions on the training dataset (blue) and on the unseen test dataset (green) are shown below as a graph of true prices over predicted prices:
+
 <img src="Plots/Train.png" width="350"> <img src="Plots/Test.png" width="350">
+
 
 #### Code and Resources Used 
 **Python Version:** 3.7 
