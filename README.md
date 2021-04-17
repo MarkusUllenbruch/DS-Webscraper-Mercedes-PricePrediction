@@ -130,12 +130,11 @@ I tried X different models and evaluated them with the metric Mean Absolute Erro
 
 The following models were trained:
 *	**Linear Regression** – Baseline for the model
-*	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
-*	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+*	**XGBoost** –  --TO DO--
 *	**Neural Network**
 
 ## 5. Model performance :white_check_mark: --TO-DO-- <a name="performance"></a>
 The XYZ model outperformed the other approaches on the unseen test dataset. 
-*	**Linear Regression statsmodels.api** : MAE = 8.400 €
-*	**Y**: MAE = Y
-*	**Z**: MAE = Z
+*	**Linear Regression statsmodels.api** : MAE Training = 8.400€ MAE Test =
+*	**XGBoost**: MAE = TO DO
+*	**Neural Network**: MAE Training = 8.400€ MAE Test =
