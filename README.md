@@ -135,6 +135,6 @@ The following models were trained:
 
 ## 5. Model performance :white_check_mark: --TO-DO-- <a name="performance"></a>
 The XYZ model outperformed the other approaches on the unseen test dataset. 
-*	**Linear Regression statsmodels.api** : MAE Training = 8.400€ MAE Test =
+*	**Linear Regression** : MAE Training = 3.985 € & MAE Test = 3.989 €
 *	**XGBoost**: MAE = TO DO
-*	**Neural Network**: MAE Training = 8.400€ MAE Test =
+*	**Neural Network**: MAE Training = 1.987 € & MAE Test = 2.458 €
